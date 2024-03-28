@@ -15,7 +15,7 @@ def melt_merge_date_pivots(csv_list):
     metrics_with_dates_df = pd.DataFrame()
     for csv_file in csv_list:
         dates_df = pd.read_csv(f"./RAW/{csv_file}")
-        print(dates_df.columns)
+        print(dates_df.head())
         
 
 
@@ -27,7 +27,7 @@ def melt_merge_date_pivots(csv_list):
 csv_file_list = ["Balance_Sheet_Stats.csv","Cash_Flow_Stats.csv","Div_Split_Stats.csv","Income_Statement_Stats.csv"
                  ,"Management_Effect_Stats.csv","Profitability_Stats.csv","Share_Stats.csv","Stock_History_Stats.csv"]
 
-melt_merge_date_pivots(["Yearly_Balance_Sheet.csv"])
+melt_merge_date_pivots(["Quarterly_Balance_Sheet.csv"])
 
 # final_stats_df = merge_high_level_stats(csv_file_list)
 

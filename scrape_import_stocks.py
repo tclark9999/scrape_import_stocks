@@ -109,7 +109,7 @@ def produce_stock_data_set(stock_list: list) -> dict:
 
         yr_income_df = financial_data[0]
         yr_income_df['stock'] = stock
-        yr_income_df = yr_income_df.reset_index().rename(columns={"index":"date"})	
+        yr_income_df = yr_income_df.reset_index().rename(columns={"index":"metric"})	
         yr_income_stmnt = pd.concat([yr_income_stmnt,yr_income_df])
 
         qtr_income_df = financial_data[1]
@@ -119,22 +119,22 @@ def produce_stock_data_set(stock_list: list) -> dict:
 
         yr_balance_df = financial_data[2]
         yr_balance_df['stock'] = stock
-        yr_balance_df = yr_balance_df.reset_index().rename(columns={"index":"date"})	
+        yr_balance_df = yr_balance_df.reset_index().rename(columns={"index":"metric"})	
         yr_balance_sheet = pd.concat([yr_balance_sheet,yr_balance_df])
 
         qtr_balance_df = financial_data[3]
         qtr_balance_df['stock'] = stock
-        qtr_balance_df = qtr_balance_df.reset_index().rename(columns={"index":"date"})	
+        qtr_balance_df = qtr_balance_df.reset_index().rename(columns={"index":"metric"})	
         qtr_balance_sheet = pd.concat([qtr_balance_sheet,qtr_balance_df])
 
         yr_cash_flow_df = financial_data[4]
         yr_cash_flow_df['stock'] = stock
-        yr_cash_flow_df = yr_cash_flow_df.reset_index().rename(columns={"index":"date"})	
+        yr_cash_flow_df = yr_cash_flow_df.reset_index().rename(columns={"index":"metric"})	
         yr_cash_flow = pd.concat([yr_cash_flow,yr_cash_flow_df])
 
         qtr_cash_flow_df = financial_data[5]
         qtr_cash_flow_df['stock'] = stock
-        qtr_cash_flow_df = qtr_cash_flow_df.reset_index().rename(columns={"index":"date"})	
+        qtr_cash_flow_df = qtr_cash_flow_df.reset_index().rename(columns={"index":"metric"})	
         qtr_cash_flow = pd.concat([qtr_cash_flow,qtr_cash_flow_df])
 
     return {"Quarterly_Cash_Flow":qtr_cash_flow, "Yearly_Cash_Flow":yr_cash_flow, 
