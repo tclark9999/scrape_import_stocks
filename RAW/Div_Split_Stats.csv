@@ -1,0 +1,21 @@
+0,1,stock
+Forward Annual Dividend Rate 4,,PYPL
+Forward Annual Dividend Yield 4,,PYPL
+Trailing Annual Dividend Rate 3,0.00,PYPL
+Trailing Annual Dividend Yield 3,0.00%,PYPL
+5 Year Average Dividend Yield 4,,PYPL
+Payout Ratio 4,0.00%,PYPL
+Dividend Date 3,,PYPL
+Ex-Dividend Date 4,,PYPL
+Last Split Factor 2,,PYPL
+Last Split Date 3,,PYPL
+Forward Annual Dividend Rate 4,0.96,AAPL
+Forward Annual Dividend Yield 4,0.56%,AAPL
+Trailing Annual Dividend Rate 3,0.95,AAPL
+Trailing Annual Dividend Yield 3,0.56%,AAPL
+5 Year Average Dividend Yield 4,0.76,AAPL
+Payout Ratio 4,14.77%,AAPL
+Dividend Date 3,"Feb 15, 2024",AAPL
+Ex-Dividend Date 4,"Feb 09, 2024",AAPL
+Last Split Factor 2,4:1,AAPL
+Last Split Date 3,"Aug 31, 2020",AAPL

@@ -1,0 +1,99 @@
+metric_name,metric_value,stock
+Total Cash (mrq),14.06B,PYPL
+Total Cash Per Share (mrq),13.12,PYPL
+Total Debt (mrq),11.84B,PYPL
+Total Debt/Equity (mrq),56.26%,PYPL
+Current Ratio (mrq),1.29,PYPL
+Book Value Per Share (mrq),19.64,PYPL
+Total Cash (mrq),73.1B,AAPL
+Total Cash Per Share (mrq),4.73,AAPL
+Total Debt (mrq),108.04B,AAPL
+Total Debt/Equity (mrq),145.80%,AAPL
+Current Ratio (mrq),1.07,AAPL
+Book Value Per Share (mrq),4.79,AAPL
+Operating Cash Flow (ttm),4.84B,PYPL
+Levered Free Cash Flow (ttm),5.12B,PYPL
+Operating Cash Flow (ttm),116.43B,AAPL
+Levered Free Cash Flow (ttm),86.56B,AAPL
+Forward Annual Dividend Rate 4,,PYPL
+Forward Annual Dividend Yield 4,,PYPL
+Trailing Annual Dividend Rate 3,0.00,PYPL
+Trailing Annual Dividend Yield 3,0.00%,PYPL
+5 Year Average Dividend Yield 4,,PYPL
+Payout Ratio 4,0.00%,PYPL
+Dividend Date 3,,PYPL
+Ex-Dividend Date 4,,PYPL
+Last Split Factor 2,,PYPL
+Last Split Date 3,,PYPL
+Forward Annual Dividend Rate 4,0.96,AAPL
+Forward Annual Dividend Yield 4,0.56%,AAPL
+Trailing Annual Dividend Rate 3,0.95,AAPL
+Trailing Annual Dividend Yield 3,0.56%,AAPL
+5 Year Average Dividend Yield 4,0.76,AAPL
+Payout Ratio 4,14.77%,AAPL
+Dividend Date 3,"Feb 15, 2024",AAPL
+Ex-Dividend Date 4,"Feb 09, 2024",AAPL
+Last Split Factor 2,4:1,AAPL
+Last Split Date 3,"Aug 31, 2020",AAPL
+Revenue (ttm),29.77B,PYPL
+Revenue Per Share (ttm),26.99,PYPL
+Quarterly Revenue Growth (yoy),8.70%,PYPL
+Gross Profit (ttm),,PYPL
+EBITDA,5.45B,PYPL
+Net Income Avi to Common (ttm),4.25B,PYPL
+Diluted EPS (ttm),3.84,PYPL
+Quarterly Earnings Growth (yoy),52.20%,PYPL
+Revenue (ttm),385.71B,AAPL
+Revenue Per Share (ttm),24.65,AAPL
+Quarterly Revenue Growth (yoy),2.10%,AAPL
+Gross Profit (ttm),,AAPL
+EBITDA,130.11B,AAPL
+Net Income Avi to Common (ttm),100.91B,AAPL
+Diluted EPS (ttm),6.42,AAPL
+Quarterly Earnings Growth (yoy),13.10%,AAPL
+Return on Assets (ttm),3.77%,PYPL
+Return on Equity (ttm),20.55%,PYPL
+Return on Assets (ttm),21.18%,AAPL
+Return on Equity (ttm),154.27%,AAPL
+Profit Margin,14.26%,PYPL
+Operating Margin (ttm),17.22%,PYPL
+Profit Margin,26.16%,AAPL
+Operating Margin (ttm),33.76%,AAPL
+Avg Vol (3 month) 3,18.39M,PYPL
+Avg Vol (10 day) 3,14.32M,PYPL
+Shares Outstanding 5,1.07B,PYPL
+Implied Shares Outstanding 6,1.07B,PYPL
+Float 8,1.07B,PYPL
+% Held by Insiders 1,0.21%,PYPL
+% Held by Institutions 1,72.69%,PYPL
+"Shares Short (Feb 29, 2024) 4",21.2M,PYPL
+"Short Ratio (Feb 29, 2024) 4",1.14,PYPL
+"Short % of Float (Feb 29, 2024) 4",1.98%,PYPL
+"Short % of Shares Outstanding (Feb 29, 2024) 4",1.98%,PYPL
+"Shares Short (prior month Jan 31, 2024) 4",18.83M,PYPL
+Avg Vol (3 month) 3,61.03M,AAPL
+Avg Vol (10 day) 3,72.27M,AAPL
+Shares Outstanding 5,15.44B,AAPL
+Implied Shares Outstanding 6,15.57B,AAPL
+Float 8,15.41B,AAPL
+% Held by Insiders 1,5.94%,AAPL
+% Held by Institutions 1,56.70%,AAPL
+"Shares Short (Feb 29, 2024) 4",111.93M,AAPL
+"Short Ratio (Feb 29, 2024) 4",1.95,AAPL
+"Short % of Float (Feb 29, 2024) 4",0.73%,AAPL
+"Short % of Shares Outstanding (Feb 29, 2024) 4",0.72%,AAPL
+"Shares Short (prior month Jan 31, 2024) 4",99.24M,AAPL
+Beta (5Y Monthly),1.44,PYPL
+52-Week Change 3,-9.22%,PYPL
+S&P500 52-Week Change 3,31.40%,PYPL
+52 Week High 3,77.95,PYPL
+52 Week Low 3,50.25,PYPL
+50-Day Moving Average 3,61.20,PYPL
+200-Day Moving Average 3,61.55,PYPL
+Beta (5Y Monthly),1.29,AAPL
+52-Week Change 3,8.37%,AAPL
+S&P500 52-Week Change 3,31.40%,AAPL
+52 Week High 3,199.62,AAPL
+52 Week Low 3,155.98,AAPL
+50-Day Moving Average 3,182.03,AAPL
+200-Day Moving Average 3,183.68,AAPL
