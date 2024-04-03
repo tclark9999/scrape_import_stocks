@@ -15,9 +15,16 @@ def melt_merge_date_pivots(csv_list):
     for csv_file in csv_list:
         dates_df = pd.read_csv(f"./RAW/{csv_file}")
         dates_df = pd.melt(dates_df,id_vars=["metric","stock"],var_name="date",value_name="metric_value")
+        dates_df['file'] = csv_file
         metrics_with_dates_df = pd.concat([metrics_with_dates_df,dates_df])
 
-    return metrics_with_dates_df
+    metrics_with_dates_df = metrics_with_dates_df.dropna()
+    metrics_with_dates_df['date'] = pd.to_datetime(metrics_with_dates_df['date'])
+    metrics_with_dates_df = metrics_with_dates_df.sort_values(by=['stock','file','metric','date'],ascending=[True,True,True,False])
+    metrics_with_dates_df['dates_dense_rank'] = metrics_with_dates_df.groupby(['stock','file'])\
+                                                            ['date'].rank('dense',ascending=False)
+
+    return metrics_with_dates_df.drop_duplicates()
         
 
 

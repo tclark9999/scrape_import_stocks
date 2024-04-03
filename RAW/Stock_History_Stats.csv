@@ -1,15 +1,190 @@
 0,1,stock
 Beta (5Y Monthly),1.44,PYPL
-52-Week Change 3,-10.51%,PYPL
-S&P500 52-Week Change 3,29.57%,PYPL
+52-Week Change 3,-13.62%,PYPL
+S&P500 52-Week Change 3,27.88%,PYPL
 52 Week High 3,77.95,PYPL
 52 Week Low 3,50.25,PYPL
-50-Day Moving Average 3,61.47,PYPL
-200-Day Moving Average 3,61.57,PYPL
+50-Day Moving Average 3,61.60,PYPL
+200-Day Moving Average 3,61.42,PYPL
 Beta (5Y Monthly),1.29,AAPL
-52-Week Change 3,6.74%,AAPL
-S&P500 52-Week Change 3,29.57%,AAPL
+52-Week Change 3,2.60%,AAPL
+S&P500 52-Week Change 3,27.88%,AAPL
 52 Week High 3,199.62,AAPL
 52 Week Low 3,159.78,AAPL
-50-Day Moving Average 3,181.50,AAPL
-200-Day Moving Average 3,183.58,AAPL
+50-Day Moving Average 3,180.27,AAPL
+200-Day Moving Average 3,183.54,AAPL
+Beta (5Y Monthly),1.64,F
+52-Week Change 3,4.48%,F
+S&P500 52-Week Change 3,27.88%,F
+52 Week High 3,15.42,F
+52 Week Low 3,9.63,F
+50-Day Moving Average 3,12.32,F
+200-Day Moving Average 3,12.15,F
+Beta (5Y Monthly),1.43,DAL
+52-Week Change 3,42.16%,DAL
+S&P500 52-Week Change 3,27.88%,DAL
+52 Week High 3,49.81,DAL
+52 Week Low 3,30.60,DAL
+50-Day Moving Average 3,42.12,DAL
+200-Day Moving Average 3,40.56,DAL
+Beta (5Y Monthly),1.56,PHM
+52-Week Change 3,102.72%,PHM
+S&P500 52-Week Change 3,27.88%,PHM
+52 Week High 3,121.07,PHM
+52 Week Low 3,57.26,PHM
+50-Day Moving Average 3,108.62,PHM
+200-Day Moving Average 3,90.65,PHM
+Beta (5Y Monthly),0.66,PDD
+52-Week Change 3,62.81%,PDD
+S&P500 52-Week Change 3,27.88%,PDD
+52 Week High 3,152.99,PDD
+52 Week Low 3,59.67,PDD
+50-Day Moving Average 3,126.28,PDD
+200-Day Moving Average 3,112.21,PDD
+Beta (5Y Monthly),1.50,GM
+52-Week Change 3,27.03%,GM
+S&P500 52-Week Change 3,27.88%,GM
+52 Week High 3,45.73,GM
+52 Week Low 3,26.30,GM
+50-Day Moving Average 3,39.88,GM
+200-Day Moving Average 3,35.20,GM
+Beta (5Y Monthly),1.58,AAL
+52-Week Change 3,8.79%,AAL
+S&P500 52-Week Change 3,27.88%,AAL
+52 Week High 3,19.08,AAL
+52 Week Low 3,10.86,AAL
+50-Day Moving Average 3,14.78,AAL
+200-Day Moving Average 3,14.28,AAL
+Beta (5Y Monthly),1.73,KBH
+52-Week Change 3,73.29%,KBH
+S&P500 52-Week Change 3,27.88%,KBH
+52 Week High 3,72.00,KBH
+52 Week Low 3,38.26,KBH
+50-Day Moving Average 3,64.64,KBH
+200-Day Moving Average 3,55.42,KBH
+Beta (5Y Monthly),1.16,LUV
+52-Week Change 3,-8.01%,LUV
+S&P500 52-Week Change 3,27.88%,LUV
+52 Week High 3,39.53,LUV
+52 Week Low 3,21.91,LUV
+50-Day Moving Average 3,31.48,LUV
+200-Day Moving Average 3,29.99,LUV
+Beta (5Y Monthly),0.94,BATRA
+52-Week Change 3,18.21%,BATRA
+S&P500 52-Week Change 3,27.88%,BATRA
+52 Week High 3,54.94,BATRA
+52 Week Low 3,34.55,BATRA
+50-Day Moving Average 3,42.24,BATRA
+200-Day Moving Average 3,41.50,BATRA
+Beta (5Y Monthly),1.41,DIS
+52-Week Change 3,22.05%,DIS
+S&P500 52-Week Change 3,27.88%,DIS
+52 Week High 3,123.74,DIS
+52 Week Low 3,78.73,DIS
+50-Day Moving Average 3,108.07,DIS
+200-Day Moving Average 3,92.52,DIS
+Beta (5Y Monthly),1.37,COOP
+52-Week Change 3,85.48%,COOP
+S&P500 52-Week Change 3,27.88%,COOP
+52 Week High 3,78.53,COOP
+52 Week Low 3,40.17,COOP
+50-Day Moving Average 3,71.93,COOP
+200-Day Moving Average 3,61.14,COOP
+Beta (5Y Monthly),0.47,BABA
+52-Week Change 3,-27.15%,BABA
+S&P500 52-Week Change 3,27.88%,BABA
+52 Week High 3,103.24,BABA
+52 Week Low 3,66.63,BABA
+50-Day Moving Average 3,73.69,BABA
+200-Day Moving Average 3,81.48,BABA
+Beta (5Y Monthly),1.64,DHI
+52-Week Change 3,66.18%,DHI
+S&P500 52-Week Change 3,27.88%,DHI
+52 Week High 3,165.75,DHI
+52 Week Low 3,94.22,DHI
+50-Day Moving Average 3,149.75,DHI
+200-Day Moving Average 3,130.18,DHI
+Beta (5Y Monthly),0.98,CMCSA
+52-Week Change 3,11.94%,CMCSA
+S&P500 52-Week Change 3,27.88%,CMCSA
+52 Week High 3,47.46,CMCSA
+52 Week Low 3,36.39,CMCSA
+50-Day Moving Average 3,43.13,CMCSA
+200-Day Moving Average 3,43.40,CMCSA
+Beta (5Y Monthly),1.54,UAL
+52-Week Change 3,11.31%,UAL
+S&P500 52-Week Change 3,27.88%,UAL
+52 Week High 3,58.23,UAL
+52 Week Low 3,33.68,UAL
+50-Day Moving Average 3,43.35,UAL
+200-Day Moving Average 3,44.85,UAL
+Beta (5Y Monthly),1.28,CHGG
+52-Week Change 3,-56.00%,CHGG
+S&P500 52-Week Change 3,27.88%,CHGG
+52 Week High 3,18.77,CHGG
+52 Week Low 3,7.06,CHGG
+50-Day Moving Average 3,8.72,CHGG
+200-Day Moving Average 3,9.45,CHGG
+Beta (5Y Monthly),0.50,EDU
+52-Week Change 3,118.88%,EDU
+S&P500 52-Week Change 3,27.88%,EDU
+52 Week High 3,98.20,EDU
+52 Week Low 3,35.70,EDU
+50-Day Moving Average 3,87.27,EDU
+200-Day Moving Average 3,67.06,EDU
+Beta (5Y Monthly),0.63,TCEHY
+52-Week Change 3,-20.30%,TCEHY
+S&P500 52-Week Change 3,27.88%,TCEHY
+52 Week High 3,49.62,TCEHY
+52 Week Low 3,33.00,TCEHY
+50-Day Moving Average 3,36.34,TCEHY
+200-Day Moving Average 3,39.46,TCEHY
+Beta (5Y Monthly),1.53,VFC
+52-Week Change 3,-31.42%,VFC
+S&P500 52-Week Change 3,27.88%,VFC
+52 Week High 3,23.58,VFC
+52 Week Low 3,12.85,VFC
+50-Day Moving Average 3,15.91,VFC
+200-Day Moving Average 3,17.47,VFC
+Beta (5Y Monthly),1.10,LI
+52-Week Change 3,28.56%,LI
+S&P500 52-Week Change 3,27.88%,LI
+52 Week High 3,47.33,LI
+52 Week Low 3,21.48,LI
+50-Day Moving Average 3,33.28,LI
+200-Day Moving Average 3,36.15,LI
+Beta (5Y Monthly),0.58,MPNGY
+52-Week Change 3,-26.73%,MPNGY
+S&P500 52-Week Change 3,27.88%,MPNGY
+52 Week High 3,38.19,MPNGY
+52 Week Low 3,15.70,MPNGY
+50-Day Moving Average 3,20.47,MPNGY
+200-Day Moving Average 3,26.45,MPNGY
+Beta (5Y Monthly),0.42,WB
+52-Week Change 3,-50.19%,WB
+S&P500 52-Week Change 3,27.88%,WB
+52 Week High 3,19.27,WB
+52 Week Low 3,7.84,WB
+50-Day Moving Average 3,8.98,WB
+200-Day Moving Average 3,11.42,WB
+Beta (5Y Monthly),0.55,BZ
+52-Week Change 3,-3.66%,BZ
+S&P500 52-Week Change 3,27.88%,BZ
+52 Week High 3,21.32,BZ
+52 Week Low 3,12.57,BZ
+50-Day Moving Average 3,16.15,BZ
+200-Day Moving Average 3,15.73,BZ
+Beta (5Y Monthly),2.41,TSLA
+52-Week Change 3,-9.01%,TSLA
+S&P500 52-Week Change 3,27.88%,TSLA
+52 Week High 3,299.29,TSLA
+52 Week Low 3,152.37,TSLA
+50-Day Moving Average 3,186.56,TSLA
+200-Day Moving Average 3,231.72,TSLA
+Beta (5Y Monthly),1.29,AAPL
+52-Week Change 3,2.60%,AAPL
+S&P500 52-Week Change 3,27.88%,AAPL
+52 Week High 3,199.62,AAPL
+52 Week Low 3,159.78,AAPL
+50-Day Moving Average 3,180.27,AAPL
+200-Day Moving Average 3,183.54,AAPL

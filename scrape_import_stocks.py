@@ -163,6 +163,9 @@ def save_stock_data(stock_dict_list,directory_name):
 
 if __name__ == "__main__":
 
-    stock_dict_list = produce_stock_data_set(["PYPL","AAPL"])
+    stock_dict_list = produce_stock_data_set(["PYPL","AAPL","F","DAL","PHM","PDD","GM","AAL",
+                                              "KBH","LUV","BATRA","DIS","COOP","BABA","DHI","CMCSA",
+                                              "UAL","CHGG","EDU","TCEHY","VFC","LI","MPNGY",
+                                              "WB","BZ","TSLA","AAPL"])
 
     save_stock_data(stock_dict_list=stock_dict_list,directory_name="RAW")

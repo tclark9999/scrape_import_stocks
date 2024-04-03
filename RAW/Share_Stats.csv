@@ -1,25 +1,325 @@
 0,1,stock
-Avg Vol (3 month) 3,18.44M,PYPL
-Avg Vol (10 day) 3,13.52M,PYPL
+Avg Vol (3 month) 3,18.23M,PYPL
+Avg Vol (10 day) 3,11.18M,PYPL
 Shares Outstanding 5,1.07B,PYPL
 Implied Shares Outstanding 6,1.07B,PYPL
 Float 8,1.07B,PYPL
 % Held by Insiders 1,0.21%,PYPL
-% Held by Institutions 1,72.69%,PYPL
-"Shares Short (Feb 29, 2024) 4",21.2M,PYPL
-"Short Ratio (Feb 29, 2024) 4",1.14,PYPL
-"Short % of Float (Feb 29, 2024) 4",1.98%,PYPL
-"Short % of Shares Outstanding (Feb 29, 2024) 4",1.98%,PYPL
-"Shares Short (prior month Jan 31, 2024) 4",18.83M,PYPL
-Avg Vol (3 month) 3,61.61M,AAPL
-Avg Vol (10 day) 3,72.8M,AAPL
+% Held by Institutions 1,72.70%,PYPL
+"Shares Short (Mar 15, 2024) 4",22.95M,PYPL
+"Short Ratio (Mar 15, 2024) 4",1.49,PYPL
+"Short % of Float (Mar 15, 2024) 4",2.14%,PYPL
+"Short % of Shares Outstanding (Mar 15, 2024) 4",2.14%,PYPL
+"Shares Short (prior month Feb 15, 2024) 4",21.28M,PYPL
+Avg Vol (3 month) 3,61.28M,AAPL
+Avg Vol (10 day) 3,62.43M,AAPL
 Shares Outstanding 5,15.44B,AAPL
-Implied Shares Outstanding 6,15.55B,AAPL
+Implied Shares Outstanding 6,15.62B,AAPL
 Float 8,15.41B,AAPL
 % Held by Insiders 1,5.94%,AAPL
-% Held by Institutions 1,56.70%,AAPL
-"Shares Short (Feb 29, 2024) 4",111.93M,AAPL
-"Short Ratio (Feb 29, 2024) 4",1.95,AAPL
-"Short % of Float (Feb 29, 2024) 4",0.73%,AAPL
-"Short % of Shares Outstanding (Feb 29, 2024) 4",0.72%,AAPL
-"Shares Short (prior month Jan 31, 2024) 4",99.24M,AAPL
+% Held by Institutions 1,56.69%,AAPL
+"Shares Short (Mar 15, 2024) 4",110.86M,AAPL
+"Short Ratio (Mar 15, 2024) 4",1.64,AAPL
+"Short % of Float (Mar 15, 2024) 4",0.72%,AAPL
+"Short % of Shares Outstanding (Mar 15, 2024) 4",0.72%,AAPL
+"Shares Short (prior month Feb 15, 2024) 4",97.67M,AAPL
+Avg Vol (3 month) 3,54.49M,F
+Avg Vol (10 day) 3,49.64M,F
+Shares Outstanding 5,3.9B,F
+Implied Shares Outstanding 6,3.97B,F
+Float 8,3.89B,F
+% Held by Insiders 1,0.29%,F
+% Held by Institutions 1,56.57%,F
+"Shares Short (Mar 15, 2024) 4",144.76M,F
+"Short Ratio (Mar 15, 2024) 4",3.02,F
+"Short % of Float (Mar 15, 2024) 4",4.03%,F
+"Short % of Shares Outstanding (Mar 15, 2024) 4",3.64%,F
+"Shares Short (prior month Feb 15, 2024) 4",156.58M,F
+Avg Vol (3 month) 3,10.33M,DAL
+Avg Vol (10 day) 3,9.47M,DAL
+Shares Outstanding 5,643.32M,DAL
+Implied Shares Outstanding 6,643.32M,DAL
+Float 8,635.81M,DAL
+% Held by Insiders 1,0.34%,DAL
+% Held by Institutions 1,70.35%,DAL
+"Shares Short (Mar 15, 2024) 4",16.1M,DAL
+"Short Ratio (Mar 15, 2024) 4",1.87,DAL
+"Short % of Float (Mar 15, 2024) 4",2.83%,DAL
+"Short % of Shares Outstanding (Mar 15, 2024) 4",2.50%,DAL
+"Shares Short (prior month Feb 15, 2024) 4",16.77M,DAL
+Avg Vol (3 month) 3,1.81M,PHM
+Avg Vol (10 day) 3,1.46M,PHM
+Shares Outstanding 5,210.99M,PHM
+Implied Shares Outstanding 6,212.11M,PHM
+Float 8,210.08M,PHM
+% Held by Insiders 1,0.73%,PHM
+% Held by Institutions 1,93.19%,PHM
+"Shares Short (Mar 15, 2024) 4",6.14M,PHM
+"Short Ratio (Mar 15, 2024) 4",3.3,PHM
+"Short % of Float (Mar 15, 2024) 4",3.76%,PHM
+"Short % of Shares Outstanding (Mar 15, 2024) 4",2.91%,PHM
+"Shares Short (prior month Feb 15, 2024) 4",5.1M,PHM
+Avg Vol (3 month) 3,8.79M,PDD
+Avg Vol (10 day) 3,14.58M,PDD
+Shares Outstanding 5,1.33B,PDD
+Implied Shares Outstanding 6,1.33B,PDD
+Float 8,2.83B,PDD
+% Held by Insiders 1,0.00%,PDD
+% Held by Institutions 1,31.66%,PDD
+"Shares Short (Mar 15, 2024) 4",23.3M,PDD
+"Short Ratio (Mar 15, 2024) 4",3,PDD
+"Short % of Float (Mar 15, 2024) 4",,PDD
+"Short % of Shares Outstanding (Mar 15, 2024) 4",,PDD
+"Shares Short (prior month Feb 15, 2024) 4",23.65M,PDD
+Avg Vol (3 month) 3,18.4M,GM
+Avg Vol (10 day) 3,15.12M,GM
+Shares Outstanding 5,1.15B,GM
+Implied Shares Outstanding 6,1.15B,GM
+Float 8,1.15B,GM
+% Held by Insiders 1,0.29%,GM
+% Held by Institutions 1,96.53%,GM
+"Shares Short (Mar 15, 2024) 4",82.52M,GM
+"Short Ratio (Mar 15, 2024) 4",4.43,GM
+"Short % of Float (Mar 15, 2024) 4",7.17%,GM
+"Short % of Shares Outstanding (Mar 15, 2024) 4",7.15%,GM
+"Shares Short (prior month Feb 15, 2024) 4",96.43M,GM
+Avg Vol (3 month) 3,34.08M,AAL
+Avg Vol (10 day) 3,24.54M,AAL
+Shares Outstanding 5,654.76M,AAL
+Implied Shares Outstanding 6,654.76M,AAL
+Float 8,642.71M,AAL
+% Held by Insiders 1,1.87%,AAL
+% Held by Institutions 1,52.95%,AAL
+"Shares Short (Mar 15, 2024) 4",45.56M,AAL
+"Short Ratio (Mar 15, 2024) 4",1.54,AAL
+"Short % of Float (Mar 15, 2024) 4",7.90%,AAL
+"Short % of Shares Outstanding (Mar 15, 2024) 4",6.96%,AAL
+"Shares Short (prior month Feb 15, 2024) 4",41.44M,AAL
+Avg Vol (3 month) 3,1.21M,KBH
+Avg Vol (10 day) 3,1.23M,KBH
+Shares Outstanding 5,75.9M,KBH
+Implied Shares Outstanding 6,76.14M,KBH
+Float 8,73.04M,KBH
+% Held by Insiders 1,12.12%,KBH
+% Held by Institutions 1,102.49%,KBH
+"Shares Short (Mar 15, 2024) 4",4.71M,KBH
+"Short Ratio (Mar 15, 2024) 4",4.21,KBH
+"Short % of Float (Mar 15, 2024) 4",9.80%,KBH
+"Short % of Shares Outstanding (Mar 15, 2024) 4",6.21%,KBH
+"Shares Short (prior month Feb 15, 2024) 4",5.9M,KBH
+Avg Vol (3 month) 3,8.42M,LUV
+Avg Vol (10 day) 3,7.25M,LUV
+Shares Outstanding 5,596.67M,LUV
+Implied Shares Outstanding 6,598.3M,LUV
+Float 8,593.81M,LUV
+% Held by Insiders 1,0.42%,LUV
+% Held by Institutions 1,81.84%,LUV
+"Shares Short (Mar 15, 2024) 4",17.69M,LUV
+"Short Ratio (Mar 15, 2024) 4",1.99,LUV
+"Short % of Float (Mar 15, 2024) 4",3.34%,LUV
+"Short % of Shares Outstanding (Mar 15, 2024) 4",2.96%,LUV
+"Shares Short (prior month Feb 15, 2024) 4",19.27M,LUV
+Avg Vol (3 month) 3,29.93k,BATRA
+Avg Vol (10 day) 3,27.19k,BATRA
+Shares Outstanding 5,10.32M,BATRA
+Implied Shares Outstanding 6,58.43M,BATRA
+Float 8,47.16M,BATRA
+% Held by Insiders 1,2.77%,BATRA
+% Held by Institutions 1,74.53%,BATRA
+"Shares Short (Mar 15, 2024) 4",208.46k,BATRA
+"Short Ratio (Mar 15, 2024) 4",6.82,BATRA
+"Short % of Float (Mar 15, 2024) 4",3.21%,BATRA
+"Short % of Shares Outstanding (Mar 15, 2024) 4",0.34%,BATRA
+"Shares Short (prior month Feb 15, 2024) 4",250.36k,BATRA
+Avg Vol (3 month) 3,12.54M,DIS
+Avg Vol (10 day) 3,11.05M,DIS
+Shares Outstanding 5,1.83B,DIS
+Implied Shares Outstanding 6,1.83B,DIS
+Float 8,1.83B,DIS
+% Held by Insiders 1,0.07%,DIS
+% Held by Institutions 1,67.51%,DIS
+"Shares Short (Mar 15, 2024) 4",18.65M,DIS
+"Short Ratio (Mar 15, 2024) 4",1.82,DIS
+"Short % of Float (Mar 15, 2024) 4",1.02%,DIS
+"Short % of Shares Outstanding (Mar 15, 2024) 4",1.02%,DIS
+"Shares Short (prior month Feb 15, 2024) 4",17.68M,DIS
+Avg Vol (3 month) 3,496.47k,COOP
+Avg Vol (10 day) 3,400.01k,COOP
+Shares Outstanding 5,64.6M,COOP
+Implied Shares Outstanding 6,64.6M,COOP
+Float 8,62.35M,COOP
+% Held by Insiders 1,3.71%,COOP
+% Held by Institutions 1,91.36%,COOP
+"Shares Short (Mar 15, 2024) 4",1.53M,COOP
+"Short Ratio (Mar 15, 2024) 4",3.37,COOP
+"Short % of Float (Mar 15, 2024) 4",3.46%,COOP
+"Short % of Shares Outstanding (Mar 15, 2024) 4",2.37%,COOP
+"Shares Short (prior month Feb 15, 2024) 4",1.71M,COOP
+Avg Vol (3 month) 3,19.06M,BABA
+Avg Vol (10 day) 3,12.08M,BABA
+Shares Outstanding 5,2.5B,BABA
+Implied Shares Outstanding 6,2.56B,BABA
+Float 8,16.51B,BABA
+% Held by Insiders 1,0.01%,BABA
+% Held by Institutions 1,14.18%,BABA
+"Shares Short (Mar 15, 2024) 4",44.03M,BABA
+"Short Ratio (Mar 15, 2024) 4",2.9,BABA
+"Short % of Float (Mar 15, 2024) 4",,BABA
+"Short % of Shares Outstanding (Mar 15, 2024) 4",1.76%,BABA
+"Shares Short (prior month Feb 15, 2024) 4",43.47M,BABA
+Avg Vol (3 month) 3,2.56M,DHI
+Avg Vol (10 day) 3,1.91M,DHI
+Shares Outstanding 5,331.82M,DHI
+Implied Shares Outstanding 6,332.88M,DHI
+Float 8,322.56M,DHI
+% Held by Insiders 1,9.89%,DHI
+% Held by Institutions 1,84.30%,DHI
+"Shares Short (Mar 15, 2024) 4",4.67M,DHI
+"Short Ratio (Mar 15, 2024) 4",1.87,DHI
+"Short % of Float (Mar 15, 2024) 4",1.77%,DHI
+"Short % of Shares Outstanding (Mar 15, 2024) 4",1.41%,DHI
+"Shares Short (prior month Feb 15, 2024) 4",5.24M,DHI
+Avg Vol (3 month) 3,20.32M,CMCSA
+Avg Vol (10 day) 3,19.68M,CMCSA
+Shares Outstanding 5,3.96B,CMCSA
+Implied Shares Outstanding 6,3.97B,CMCSA
+Float 8,3.93B,CMCSA
+% Held by Insiders 1,0.76%,CMCSA
+% Held by Institutions 1,88.29%,CMCSA
+"Shares Short (Mar 15, 2024) 4",48.24M,CMCSA
+"Short Ratio (Mar 15, 2024) 4",2.31,CMCSA
+"Short % of Float (Mar 15, 2024) 4",1.23%,CMCSA
+"Short % of Shares Outstanding (Mar 15, 2024) 4",1.21%,CMCSA
+"Shares Short (prior month Feb 15, 2024) 4",51.15M,CMCSA
+Avg Vol (3 month) 3,9.03M,UAL
+Avg Vol (10 day) 3,7.92M,UAL
+Shares Outstanding 5,328.03M,UAL
+Implied Shares Outstanding 6,328.03M,UAL
+Float 8,326.02M,UAL
+% Held by Insiders 1,0.46%,UAL
+% Held by Institutions 1,70.24%,UAL
+"Shares Short (Mar 15, 2024) 4",17.84M,UAL
+"Short Ratio (Mar 15, 2024) 4",2.27,UAL
+"Short % of Float (Mar 15, 2024) 4",6.17%,UAL
+"Short % of Shares Outstanding (Mar 15, 2024) 4",5.44%,UAL
+"Shares Short (prior month Feb 15, 2024) 4",15.83M,UAL
+Avg Vol (3 month) 3,2.85M,CHGG
+Avg Vol (10 day) 3,2.03M,CHGG
+Shares Outstanding 5,102.95M,CHGG
+Implied Shares Outstanding 6,102.95M,CHGG
+Float 8,84.3M,CHGG
+% Held by Insiders 1,2.98%,CHGG
+% Held by Institutions 1,100.01%,CHGG
+"Shares Short (Mar 15, 2024) 4",15.68M,CHGG
+"Short Ratio (Mar 15, 2024) 4",5.84,CHGG
+"Short % of Float (Mar 15, 2024) 4",22.33%,CHGG
+"Short % of Shares Outstanding (Mar 15, 2024) 4",15.23%,CHGG
+"Shares Short (prior month Feb 15, 2024) 4",17.28M,CHGG
+Avg Vol (3 month) 3,1.7M,EDU
+Avg Vol (10 day) 3,1.19M,EDU
+Shares Outstanding 5,165.51M,EDU
+Implied Shares Outstanding 6,165.51M,EDU
+Float 8,1.44B,EDU
+% Held by Insiders 1,2.04%,EDU
+% Held by Institutions 1,41.74%,EDU
+"Shares Short (Mar 15, 2024) 4",4.7M,EDU
+"Short Ratio (Mar 15, 2024) 4",3.07,EDU
+"Short % of Float (Mar 15, 2024) 4",,EDU
+"Short % of Shares Outstanding (Mar 15, 2024) 4",2.84%,EDU
+"Shares Short (prior month Feb 15, 2024) 4",5.24M,EDU
+Avg Vol (3 month) 3,3.16M,TCEHY
+Avg Vol (10 day) 3,2.33M,TCEHY
+Shares Outstanding 5,9.45B,TCEHY
+Implied Shares Outstanding 6,9.51B,TCEHY
+Float 8,6.29B,TCEHY
+% Held by Insiders 1,0.00%,TCEHY
+% Held by Institutions 1,0.09%,TCEHY
+Shares Short 4,,TCEHY
+Short Ratio 4,,TCEHY
+Short % of Float 4,,TCEHY
+Short % of Shares Outstanding 4,,TCEHY
+Shares Short (prior month ) 4,,TCEHY
+Avg Vol (3 month) 3,8.46M,VFC
+Avg Vol (10 day) 3,6.77M,VFC
+Shares Outstanding 5,388.82M,VFC
+Implied Shares Outstanding 6,388.82M,VFC
+Float 8,384.93M,VFC
+% Held by Insiders 1,0.94%,VFC
+% Held by Institutions 1,88.54%,VFC
+"Shares Short (Mar 15, 2024) 4",30.07M,VFC
+"Short Ratio (Mar 15, 2024) 4",3.28,VFC
+"Short % of Float (Mar 15, 2024) 4",8.70%,VFC
+"Short % of Shares Outstanding (Mar 15, 2024) 4",7.73%,VFC
+"Shares Short (prior month Feb 15, 2024) 4",34.46M,VFC
+Avg Vol (3 month) 3,8.41M,LI
+Avg Vol (10 day) 3,7.89M,LI
+Shares Outstanding 5,1B,LI
+Implied Shares Outstanding 6,1.02B,LI
+Float 8,1.03B,LI
+% Held by Insiders 1,0.02%,LI
+% Held by Institutions 1,11.71%,LI
+"Shares Short (Mar 15, 2024) 4",29.15M,LI
+"Short Ratio (Mar 15, 2024) 4",2.87,LI
+"Short % of Float (Mar 15, 2024) 4",,LI
+"Short % of Shares Outstanding (Mar 15, 2024) 4",2.91%,LI
+"Shares Short (prior month Feb 15, 2024) 4",28.46M,LI
+Avg Vol (3 month) 3,450.88k,MPNGY
+Avg Vol (10 day) 3,453.72k,MPNGY
+Shares Outstanding 5,3.12B,MPNGY
+Implied Shares Outstanding 6,3.16B,MPNGY
+Float 8,5.35B,MPNGY
+% Held by Insiders 1,0.00%,MPNGY
+% Held by Institutions 1,0.01%,MPNGY
+Shares Short 4,,MPNGY
+Short Ratio 4,,MPNGY
+Short % of Float 4,,MPNGY
+Short % of Shares Outstanding 4,,MPNGY
+Shares Short (prior month ) 4,,MPNGY
+Avg Vol (3 month) 3,2.3M,WB
+Avg Vol (10 day) 3,2.58M,WB
+Shares Outstanding 5,242.48M,WB
+Implied Shares Outstanding 6,244.1M,WB
+Float 8,81.75M,WB
+% Held by Insiders 1,6.17%,WB
+% Held by Institutions 1,44.60%,WB
+"Shares Short (Mar 15, 2024) 4",10.9M,WB
+"Short Ratio (Mar 15, 2024) 4",4.32,WB
+"Short % of Float (Mar 15, 2024) 4",,WB
+"Short % of Shares Outstanding (Mar 15, 2024) 4",4.50%,WB
+"Shares Short (prior month Feb 15, 2024) 4",10.69M,WB
+Avg Vol (3 month) 3,3.24M,BZ
+Avg Vol (10 day) 3,2.63M,BZ
+Shares Outstanding 5,435.37M,BZ
+Implied Shares Outstanding 6,437.04M,BZ
+Float 8,647.51M,BZ
+% Held by Insiders 1,0.06%,BZ
+% Held by Institutions 1,65.99%,BZ
+"Shares Short (Mar 15, 2024) 4",15.15M,BZ
+"Short Ratio (Mar 15, 2024) 4",3.69,BZ
+"Short % of Float (Mar 15, 2024) 4",,BZ
+"Short % of Shares Outstanding (Mar 15, 2024) 4",3.48%,BZ
+"Shares Short (prior month Feb 15, 2024) 4",13.91M,BZ
+Avg Vol (3 month) 3,102.28M,TSLA
+Avg Vol (10 day) 3,84.62M,TSLA
+Shares Outstanding 5,3.18B,TSLA
+Implied Shares Outstanding 6,3.18B,TSLA
+Float 8,2.77B,TSLA
+% Held by Insiders 1,13.00%,TSLA
+% Held by Institutions 1,45.77%,TSLA
+"Shares Short (Mar 15, 2024) 4",102.3M,TSLA
+"Short Ratio (Mar 15, 2024) 4",1,TSLA
+"Short % of Float (Mar 15, 2024) 4",3.69%,TSLA
+"Short % of Shares Outstanding (Mar 15, 2024) 4",3.21%,TSLA
+"Shares Short (prior month Feb 15, 2024) 4",88.65M,TSLA
+Avg Vol (3 month) 3,61.28M,AAPL
+Avg Vol (10 day) 3,62.43M,AAPL
+Shares Outstanding 5,15.44B,AAPL
+Implied Shares Outstanding 6,15.62B,AAPL
+Float 8,15.41B,AAPL
+% Held by Insiders 1,5.94%,AAPL
+% Held by Institutions 1,56.69%,AAPL
+"Shares Short (Mar 15, 2024) 4",110.86M,AAPL
+"Short Ratio (Mar 15, 2024) 4",1.64,AAPL
+"Short % of Float (Mar 15, 2024) 4",0.72%,AAPL
+"Short % of Shares Outstanding (Mar 15, 2024) 4",0.72%,AAPL
+"Shares Short (prior month Feb 15, 2024) 4",97.67M,AAPL
