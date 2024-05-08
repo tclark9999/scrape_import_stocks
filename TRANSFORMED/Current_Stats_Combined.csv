@@ -1,1324 +1,1177 @@
-metric_name,metric_value,stock
-Total Cash (mrq),14.06B,PYPL
-Total Cash Per Share (mrq),13.12,PYPL
-Total Debt (mrq),11.84B,PYPL
-Total Debt/Equity (mrq),56.26%,PYPL
-Current Ratio (mrq),1.29,PYPL
-Book Value Per Share (mrq),19.64,PYPL
-Total Cash (mrq),73.1B,AAPL
-Total Cash Per Share (mrq),4.73,AAPL
-Total Debt (mrq),108.04B,AAPL
-Total Debt/Equity (mrq),145.80%,AAPL
-Current Ratio (mrq),1.07,AAPL
-Book Value Per Share (mrq),4.79,AAPL
-Total Cash (mrq),28.72B,F
-Total Cash Per Share (mrq),7.23,F
-Total Debt (mrq),151.11B,F
-Total Debt/Equity (mrq),353.07%,F
-Current Ratio (mrq),1.20,F
-Book Value Per Share (mrq),10.76,F
-Total Cash (mrq),3.87B,DAL
-Total Cash Per Share (mrq),6.05,DAL
-Total Debt (mrq),28.38B,DAL
-Total Debt/Equity (mrq),255.57%,DAL
-Current Ratio (mrq),0.39,DAL
-Book Value Per Share (mrq),17.37,DAL
-Total Cash (mrq),1.81B,PHM
-Total Cash Per Share (mrq),8.54,PHM
-Total Debt (mrq),2.67B,PHM
-Total Debt/Equity (mrq),25.73%,PHM
-Current Ratio (mrq),6.83,PHM
-Book Value Per Share (mrq),48.85,PHM
-Total Cash (mrq),217.21B,PDD
-Total Cash Per Share (mrq),39.65,PDD
-Total Debt (mrq),10.17B,PDD
-Total Debt/Equity (mrq),5.43%,PDD
-Current Ratio (mrq),1.93,PDD
-Book Value Per Share (mrq),136.72,PDD
-Total Cash (mrq),21.17B,GM
-Total Cash Per Share (mrq),18.33,GM
-Total Debt (mrq),122.91B,GM
-Total Debt/Equity (mrq),179.94%,GM
-Current Ratio (mrq),1.08,GM
-Book Value Per Share (mrq),53.57,GM
-Total Cash (mrq),8.38B,AAL
-Total Cash Per Share (mrq),12.81,AAL
-Total Debt (mrq),40.66B,AAL
-Total Debt/Equity (mrq),,AAL
-Current Ratio (mrq),0.62,AAL
-Book Value Per Share (mrq),-7.95,AAL
-Total Cash (mrq),668.08M,KBH
-Total Cash Per Share (mrq),8.8,KBH
-Total Debt (mrq),1.69B,KBH
-Total Debt/Equity (mrq),43.60%,KBH
-Current Ratio (mrq),5.66,KBH
-Book Value Per Share (mrq),51.15,KBH
-Total Cash (mrq),11.47B,LUV
-Total Cash Per Share (mrq),19.23,LUV
-Total Debt (mrq),9.2B,LUV
-Total Debt/Equity (mrq),87.49%,LUV
-Current Ratio (mrq),1.14,LUV
-Book Value Per Share (mrq),17.63,LUV
-Total Cash (mrq),125.15M,BATRA
-Total Cash Per Share (mrq),2.02,BATRA
-Total Debt (mrq),675.56M,BATRA
-Total Debt/Equity (mrq),124.95%,BATRA
-Current Ratio (mrq),0.93,BATRA
-Book Value Per Share (mrq),8.54,BATRA
-Total Cash (mrq),7.19B,DIS
-Total Cash Per Share (mrq),3.92,DIS
-Total Debt (mrq),47.69B,DIS
-Total Debt/Equity (mrq),45.20%,DIS
-Current Ratio (mrq),0.84,DIS
-Book Value Per Share (mrq),53.55,DIS
-Total Cash (mrq),571M,COOP
-Total Cash Per Share (mrq),8.84,COOP
-Total Debt (mrq),8.51B,COOP
-Total Debt/Equity (mrq),198.74%,COOP
-Current Ratio (mrq),3.80,COOP
-Book Value Per Share (mrq),66.29,COOP
-Total Cash (mrq),614.4B,BABA
-Total Cash Per Share (mrq),30.72,BABA
-Total Debt (mrq),198.51B,BABA
-Total Debt/Equity (mrq),17.38%,BABA
-Current Ratio (mrq),1.80,BABA
-Book Value Per Share (mrq),404.24,BABA
-Total Cash (mrq),3.1B,DHI
-Total Cash Per Share (mrq),9.33,DHI
-Total Debt (mrq),5.51B,DHI
-Total Debt/Equity (mrq),23.33%,DHI
-Current Ratio (mrq),5.30,DHI
-Book Value Per Share (mrq),69.70,DHI
-Total Cash (mrq),6.22B,CMCSA
-Total Cash Per Share (mrq),1.57,CMCSA
-Total Debt (mrq),103.68B,CMCSA
-Total Debt/Equity (mrq),124.21%,CMCSA
-Current Ratio (mrq),0.60,CMCSA
-Book Value Per Share (mrq),20.79,CMCSA
-Total Cash (mrq),14.39B,UAL
-Total Cash Per Share (mrq),43.86,UAL
-Total Debt (mrq),36.74B,UAL
-Total Debt/Equity (mrq),394.03%,UAL
-Current Ratio (mrq),0.83,UAL
-Book Value Per Share (mrq),28.42,UAL
-Total Cash (mrq),330.01M,CHGG
-Total Cash Per Share (mrq),3.21,CHGG
-Total Debt (mrq),624.72M,CHGG
-Total Debt/Equity (mrq),66.14%,CHGG
-Current Ratio (mrq),0.80,CHGG
-Book Value Per Share (mrq),9.19,CHGG
-Total Cash (mrq),4.45B,EDU
-Total Cash Per Share (mrq),2.69,EDU
-Total Debt (mrq),510.67M,EDU
-Total Debt/Equity (mrq),12.47%,EDU
-Current Ratio (mrq),1.87,EDU
-Book Value Per Share (mrq),23.14,EDU
-Total Cash (mrq),379.15B,TCEHY
-Total Cash Per Share (mrq),40.31,TCEHY
-Total Debt (mrq),371.24B,TCEHY
-Total Debt/Equity (mrq),42.49%,TCEHY
-Current Ratio (mrq),1.47,TCEHY
-Book Value Per Share (mrq),85.96,TCEHY
-Total Cash (mrq),989.74M,VFC
-Total Cash Per Share (mrq),2.55,VFC
-Total Debt (mrq),7.34B,VFC
-Total Debt/Equity (mrq),348.09%,VFC
-Current Ratio (mrq),1.24,VFC
-Book Value Per Share (mrq),5.43,VFC
-Total Cash (mrq),103.26B,LI
-Total Cash Per Share (mrq),52.16,LI
-Total Debt (mrq),13.55B,LI
-Total Debt/Equity (mrq),22.36%,LI
-Current Ratio (mrq),1.57,LI
-Book Value Per Share (mrq),60.76,LI
-Total Cash (mrq),145.16B,MPNGY
-Total Cash Per Share (mrq),23.36,MPNGY
-Total Debt (mrq),60.62B,MPNGY
-Total Debt/Equity (mrq),39.89%,MPNGY
-Current Ratio (mrq),1.82,MPNGY
-Book Value Per Share (mrq),24.47,MPNGY
-Total Cash (mrq),3.23B,WB
-Total Cash Per Share (mrq),13.65,WB
-Total Debt (mrq),2.65B,WB
-Total Debt/Equity (mrq),75.40%,WB
-Current Ratio (mrq),2.51,WB
-Book Value Per Share (mrq),14.38,WB
-Total Cash (mrq),12.91B,BZ
-Total Cash Per Share (mrq),14.83,BZ
-Total Debt (mrq),280.09M,BZ
-Total Debt/Equity (mrq),2.09%,BZ
-Current Ratio (mrq),3.67,BZ
-Book Value Per Share (mrq),31.08,BZ
-Total Cash (mrq),29.09B,TSLA
-Total Cash Per Share (mrq),9.14,TSLA
-Total Debt (mrq),9.57B,TSLA
-Total Debt/Equity (mrq),15.05%,TSLA
-Current Ratio (mrq),1.73,TSLA
-Book Value Per Share (mrq),19.67,TSLA
-Total Cash (mrq),73.1B,AAPL
-Total Cash Per Share (mrq),4.73,AAPL
-Total Debt (mrq),108.04B,AAPL
-Total Debt/Equity (mrq),145.80%,AAPL
-Current Ratio (mrq),1.07,AAPL
-Book Value Per Share (mrq),4.79,AAPL
-Operating Cash Flow (ttm),4.84B,PYPL
-Levered Free Cash Flow (ttm),5.12B,PYPL
-Operating Cash Flow (ttm),116.43B,AAPL
-Levered Free Cash Flow (ttm),86.56B,AAPL
-Operating Cash Flow (ttm),14.92B,F
-Levered Free Cash Flow (ttm),-2.42B,F
-Operating Cash Flow (ttm),6.46B,DAL
-Levered Free Cash Flow (ttm),367.38M,DAL
-Operating Cash Flow (ttm),2.2B,PHM
-Levered Free Cash Flow (ttm),1.53B,PHM
-Operating Cash Flow (ttm),94.16B,PDD
-Levered Free Cash Flow (ttm),81.59B,PDD
-Operating Cash Flow (ttm),20.93B,GM
-Levered Free Cash Flow (ttm),4.47B,GM
-Operating Cash Flow (ttm),3.8B,AAL
-Levered Free Cash Flow (ttm),1.58B,AAL
-Operating Cash Flow (ttm),,KBH
-Levered Free Cash Flow (ttm),,KBH
-Operating Cash Flow (ttm),3.16B,LUV
-Levered Free Cash Flow (ttm),399.88M,LUV
-Operating Cash Flow (ttm),1.63M,BATRA
-Levered Free Cash Flow (ttm),13.55M,BATRA
-Operating Cash Flow (ttm),13.03B,DIS
-Levered Free Cash Flow (ttm),7.35B,DIS
-Operating Cash Flow (ttm),896M,COOP
-Levered Free Cash Flow (ttm),-363.5M,COOP
-Operating Cash Flow (ttm),190.65B,BABA
-Levered Free Cash Flow (ttm),146.29B,BABA
-Operating Cash Flow (ttm),3.32B,DHI
-Levered Free Cash Flow (ttm),1.93B,DHI
-Operating Cash Flow (ttm),28.5B,CMCSA
-Levered Free Cash Flow (ttm),23.13B,CMCSA
-Operating Cash Flow (ttm),6.91B,UAL
-Levered Free Cash Flow (ttm),-1.55B,UAL
-Operating Cash Flow (ttm),246.2M,CHGG
-Levered Free Cash Flow (ttm),163.67M,CHGG
-Operating Cash Flow (ttm),1.25B,EDU
-Levered Free Cash Flow (ttm),916.94M,EDU
-Operating Cash Flow (ttm),221.96B,TCEHY
-Levered Free Cash Flow (ttm),177.79B,TCEHY
-Operating Cash Flow (ttm),1.28B,VFC
-Levered Free Cash Flow (ttm),1.01B,VFC
-Operating Cash Flow (ttm),50.69B,LI
-Levered Free Cash Flow (ttm),44.51B,LI
-Operating Cash Flow (ttm),40.52B,MPNGY
-Levered Free Cash Flow (ttm),36.64B,MPNGY
-Operating Cash Flow (ttm),,WB
-Levered Free Cash Flow (ttm),,WB
-Operating Cash Flow (ttm),2.28B,BZ
-Levered Free Cash Flow (ttm),1.67B,BZ
-Operating Cash Flow (ttm),13.26B,TSLA
-Levered Free Cash Flow (ttm),2.23B,TSLA
-Operating Cash Flow (ttm),116.43B,AAPL
-Levered Free Cash Flow (ttm),86.56B,AAPL
-Forward Annual Dividend Rate 4,,PYPL
-Forward Annual Dividend Yield 4,,PYPL
-Trailing Annual Dividend Rate 3,0.00,PYPL
-Trailing Annual Dividend Yield 3,0.00%,PYPL
-5 Year Average Dividend Yield 4,,PYPL
-Payout Ratio 4,0.00%,PYPL
-Dividend Date 3,,PYPL
-Ex-Dividend Date 4,,PYPL
-Last Split Factor 2,,PYPL
-Last Split Date 3,,PYPL
-Forward Annual Dividend Rate 4,0.96,AAPL
-Forward Annual Dividend Yield 4,0.56%,AAPL
-Trailing Annual Dividend Rate 3,0.95,AAPL
-Trailing Annual Dividend Yield 3,0.56%,AAPL
-5 Year Average Dividend Yield 4,0.74,AAPL
-Payout Ratio 4,14.77%,AAPL
-Dividend Date 3,"Feb 15, 2024",AAPL
-Ex-Dividend Date 4,"Feb 09, 2024",AAPL
-Last Split Factor 2,4:1,AAPL
-Last Split Date 3,"Aug 31, 2020",AAPL
-Forward Annual Dividend Rate 4,0.6,F
-Forward Annual Dividend Yield 4,4.51%,F
-Trailing Annual Dividend Rate 3,0.60,F
-Trailing Annual Dividend Yield 3,4.51%,F
-5 Year Average Dividend Yield 4,5.76,F
-Payout Ratio 4,55.56%,F
-Dividend Date 3,"Mar 01, 2024",F
-Ex-Dividend Date 4,"Feb 15, 2024",F
-Last Split Factor 2,1748175:1000000,F
-Last Split Date 3,"Aug 03, 2000",F
-Forward Annual Dividend Rate 4,0.4,DAL
-Forward Annual Dividend Yield 4,0.83%,DAL
-Trailing Annual Dividend Rate 3,0.30,DAL
-Trailing Annual Dividend Yield 3,0.62%,DAL
-5 Year Average Dividend Yield 4,2.30,DAL
-Payout Ratio 4,2.79%,DAL
-Dividend Date 3,"Mar 18, 2024",DAL
-Ex-Dividend Date 4,"Feb 23, 2024",DAL
-Last Split Factor 2,,DAL
-Last Split Date 3,,DAL
-Forward Annual Dividend Rate 4,0.8,PHM
-Forward Annual Dividend Yield 4,0.68%,PHM
-Trailing Annual Dividend Rate 3,0.68,PHM
-Trailing Annual Dividend Yield 3,0.57%,PHM
-5 Year Average Dividend Yield 4,1.12,PHM
-Payout Ratio 4,5.80%,PHM
-Dividend Date 3,"Apr 02, 2024",PHM
-Ex-Dividend Date 4,"Mar 14, 2024",PHM
-Last Split Factor 2,2:1,PHM
-Last Split Date 3,"Sep 02, 2005",PHM
-Forward Annual Dividend Rate 4,,PDD
-Forward Annual Dividend Yield 4,,PDD
-Trailing Annual Dividend Rate 3,0.00,PDD
-Trailing Annual Dividend Yield 3,0.00%,PDD
-5 Year Average Dividend Yield 4,,PDD
-Payout Ratio 4,0.00%,PDD
-Dividend Date 3,,PDD
-Ex-Dividend Date 4,,PDD
-Last Split Factor 2,,PDD
-Last Split Date 3,,PDD
-Forward Annual Dividend Rate 4,0.48,GM
-Forward Annual Dividend Yield 4,1.08%,GM
-Trailing Annual Dividend Rate 3,0.36,GM
-Trailing Annual Dividend Yield 3,0.79%,GM
-5 Year Average Dividend Yield 4,4.06,GM
-Payout Ratio 4,4.92%,GM
-Dividend Date 3,"Mar 14, 2024",GM
-Ex-Dividend Date 4,"Feb 29, 2024",GM
-Last Split Factor 2,,GM
-Last Split Date 3,,GM
-Forward Annual Dividend Rate 4,,AAL
-Forward Annual Dividend Yield 4,,AAL
-Trailing Annual Dividend Rate 3,0.00,AAL
-Trailing Annual Dividend Yield 3,0.00%,AAL
-5 Year Average Dividend Yield 4,1.27,AAL
-Payout Ratio 4,0.00%,AAL
-Dividend Date 3,"Feb 19, 2020",AAL
-Ex-Dividend Date 4,"Feb 04, 2020",AAL
-Last Split Factor 2,,AAL
-Last Split Date 3,,AAL
-Forward Annual Dividend Rate 4,0.8,KBH
-Forward Annual Dividend Yield 4,1.14%,KBH
-Trailing Annual Dividend Rate 3,0.75,KBH
-Trailing Annual Dividend Yield 3,1.07%,KBH
-5 Year Average Dividend Yield 4,1.26,KBH
-Payout Ratio 4,10.22%,KBH
-Dividend Date 3,"Feb 22, 2024",KBH
-Ex-Dividend Date 4,"Feb 07, 2024",KBH
-Last Split Factor 2,2:1,KBH
-Last Split Date 3,"Apr 29, 2005",KBH
-Forward Annual Dividend Rate 4,0.72,LUV
-Forward Annual Dividend Yield 4,2.47%,LUV
-Trailing Annual Dividend Rate 3,0.72,LUV
-Trailing Annual Dividend Yield 3,2.47%,LUV
-5 Year Average Dividend Yield 4,1.03,LUV
-Payout Ratio 4,94.74%,LUV
-Dividend Date 3,"Mar 27, 2024",LUV
-Ex-Dividend Date 4,"Mar 05, 2024",LUV
-Last Split Factor 2,3:2,LUV
-Last Split Date 3,"Feb 16, 2001",LUV
-Forward Annual Dividend Rate 4,,BATRA
-Forward Annual Dividend Yield 4,,BATRA
-Trailing Annual Dividend Rate 3,0.00,BATRA
-Trailing Annual Dividend Yield 3,0.00%,BATRA
-5 Year Average Dividend Yield 4,,BATRA
-Payout Ratio 4,0.00%,BATRA
-Dividend Date 3,,BATRA
-Ex-Dividend Date 4,"Feb 10, 2022",BATRA
-Last Split Factor 2,,BATRA
-Last Split Date 3,,BATRA
-Forward Annual Dividend Rate 4,0.9,DIS
-Forward Annual Dividend Yield 4,0.74%,DIS
-Trailing Annual Dividend Rate 3,0.30,DIS
-Trailing Annual Dividend Yield 3,0.25%,DIS
-5 Year Average Dividend Yield 4,1.38,DIS
-Payout Ratio 4,18.40%,DIS
-Dividend Date 3,"Jul 25, 2024",DIS
-Ex-Dividend Date 4,"Jul 05, 2024",DIS
-Last Split Factor 2,10000:9865,DIS
-Last Split Date 3,"Jun 13, 2007",DIS
-Forward Annual Dividend Rate 4,,COOP
-Forward Annual Dividend Yield 4,,COOP
-Trailing Annual Dividend Rate 3,0.00,COOP
-Trailing Annual Dividend Yield 3,0.00%,COOP
-5 Year Average Dividend Yield 4,,COOP
-Payout Ratio 4,0.00%,COOP
-Dividend Date 3,"Oct 11, 2018",COOP
-Ex-Dividend Date 4,,COOP
-Last Split Factor 2,1:12,COOP
-Last Split Date 3,"Oct 11, 2018",COOP
-Forward Annual Dividend Rate 4,1,BABA
-Forward Annual Dividend Yield 4,1.40%,BABA
-Trailing Annual Dividend Rate 3,6.87,BABA
-Trailing Annual Dividend Yield 3,9.36%,BABA
-5 Year Average Dividend Yield 4,,BABA
-Payout Ratio 4,18.31%,BABA
-Dividend Date 3,"Jan 18, 2024",BABA
-Ex-Dividend Date 4,"Dec 20, 2023",BABA
-Last Split Factor 2,,BABA
-Last Split Date 3,,BABA
-Forward Annual Dividend Rate 4,1.2,DHI
-Forward Annual Dividend Yield 4,0.74%,DHI
-Trailing Annual Dividend Rate 3,1.05,DHI
-Trailing Annual Dividend Yield 3,0.65%,DHI
-5 Year Average Dividend Yield 4,1.03,DHI
-Payout Ratio 4,7.56%,DHI
-Dividend Date 3,"Feb 13, 2024",DHI
-Ex-Dividend Date 4,"Feb 05, 2024",DHI
-Last Split Factor 2,4:3,DHI
-Last Split Date 3,"Mar 17, 2005",DHI
-Forward Annual Dividend Rate 4,1.24,CMCSA
-Forward Annual Dividend Yield 4,2.93%,CMCSA
-Trailing Annual Dividend Rate 3,1.16,CMCSA
-Trailing Annual Dividend Yield 3,2.76%,CMCSA
-5 Year Average Dividend Yield 4,2.24,CMCSA
-Payout Ratio 4,31.27%,CMCSA
-Dividend Date 3,"Apr 24, 2024",CMCSA
-Ex-Dividend Date 4,"Apr 02, 2024",CMCSA
-Last Split Factor 2,2:1,CMCSA
-Last Split Date 3,"Feb 21, 2017",CMCSA
-Forward Annual Dividend Rate 4,,UAL
-Forward Annual Dividend Yield 4,,UAL
-Trailing Annual Dividend Rate 3,0.00,UAL
-Trailing Annual Dividend Yield 3,0.00%,UAL
-5 Year Average Dividend Yield 4,,UAL
-Payout Ratio 4,0.00%,UAL
-Dividend Date 3,"Jan 23, 2008",UAL
-Ex-Dividend Date 4,"Jan 07, 2008",UAL
-Last Split Factor 2,,UAL
-Last Split Date 3,,UAL
-Forward Annual Dividend Rate 4,,CHGG
-Forward Annual Dividend Yield 4,,CHGG
-Trailing Annual Dividend Rate 3,0.00,CHGG
-Trailing Annual Dividend Yield 3,0.00%,CHGG
-5 Year Average Dividend Yield 4,,CHGG
-Payout Ratio 4,0.00%,CHGG
-Dividend Date 3,,CHGG
-Ex-Dividend Date 4,,CHGG
-Last Split Factor 2,,CHGG
-Last Split Date 3,,CHGG
-Forward Annual Dividend Rate 4,,EDU
-Forward Annual Dividend Yield 4,,EDU
-Trailing Annual Dividend Rate 3,0.00,EDU
-Trailing Annual Dividend Yield 3,0.00%,EDU
-5 Year Average Dividend Yield 4,,EDU
-Payout Ratio 4,0.00%,EDU
-Dividend Date 3,"Oct 06, 2017",EDU
-Ex-Dividend Date 4,"Sep 01, 2017",EDU
-Last Split Factor 2,1:10,EDU
-Last Split Date 3,"Apr 08, 2022",EDU
-Forward Annual Dividend Rate 4,0.31,TCEHY
-Forward Annual Dividend Yield 4,0.79%,TCEHY
-Trailing Annual Dividend Rate 3,3.09,TCEHY
-Trailing Annual Dividend Yield 3,7.83%,TCEHY
-5 Year Average Dividend Yield 4,0.41,TCEHY
-Payout Ratio 4,18.20%,TCEHY
-Dividend Date 3,"Jun 20, 2023",TCEHY
-Ex-Dividend Date 4,"May 18, 2023",TCEHY
-Last Split Factor 2,5:1,TCEHY
-Last Split Date 3,"May 20, 2014",TCEHY
-Forward Annual Dividend Rate 4,0.36,VFC
-Forward Annual Dividend Yield 4,2.35%,VFC
-Trailing Annual Dividend Rate 3,0.99,VFC
-Trailing Annual Dividend Yield 3,6.47%,VFC
-5 Year Average Dividend Yield 4,4.29,VFC
-Payout Ratio 4,536.67%,VFC
-Dividend Date 3,"Mar 20, 2024",VFC
-Ex-Dividend Date 4,"Mar 08, 2024",VFC
-Last Split Factor 2,1062:1000,VFC
-Last Split Date 3,"May 23, 2019",VFC
-Forward Annual Dividend Rate 4,,LI
-Forward Annual Dividend Yield 4,,LI
-Trailing Annual Dividend Rate 3,0.00,LI
-Trailing Annual Dividend Yield 3,0.00%,LI
-5 Year Average Dividend Yield 4,,LI
-Payout Ratio 4,0.00%,LI
-Dividend Date 3,,LI
-Ex-Dividend Date 4,,LI
-Last Split Factor 2,,LI
-Last Split Date 3,,LI
-Forward Annual Dividend Rate 4,,MPNGY
-Forward Annual Dividend Yield 4,,MPNGY
-Trailing Annual Dividend Rate 3,0.00,MPNGY
-Trailing Annual Dividend Yield 3,0.00%,MPNGY
-5 Year Average Dividend Yield 4,,MPNGY
-Payout Ratio 4,0.00%,MPNGY
-Dividend Date 3,,MPNGY
-Ex-Dividend Date 4,,MPNGY
-Last Split Factor 2,,MPNGY
-Last Split Date 3,,MPNGY
-Forward Annual Dividend Rate 4,,WB
-Forward Annual Dividend Yield 4,,WB
-Trailing Annual Dividend Rate 3,0.00,WB
-Trailing Annual Dividend Yield 3,0.00%,WB
-5 Year Average Dividend Yield 4,,WB
-Payout Ratio 4,0.00%,WB
-Dividend Date 3,"May 13, 2024",WB
-Ex-Dividend Date 4,"Apr 11, 2024",WB
-Last Split Factor 2,,WB
-Last Split Date 3,,WB
-Forward Annual Dividend Rate 4,,BZ
-Forward Annual Dividend Yield 4,,BZ
-Trailing Annual Dividend Rate 3,0.00,BZ
-Trailing Annual Dividend Yield 3,0.00%,BZ
-5 Year Average Dividend Yield 4,,BZ
-Payout Ratio 4,0.00%,BZ
-Dividend Date 3,"Dec 21, 2023",BZ
-Ex-Dividend Date 4,"Dec 04, 2023",BZ
-Last Split Factor 2,,BZ
-Last Split Date 3,,BZ
-Forward Annual Dividend Rate 4,,TSLA
-Forward Annual Dividend Yield 4,,TSLA
-Trailing Annual Dividend Rate 3,0.00,TSLA
-Trailing Annual Dividend Yield 3,0.00%,TSLA
-5 Year Average Dividend Yield 4,,TSLA
-Payout Ratio 4,0.00%,TSLA
-Dividend Date 3,,TSLA
-Ex-Dividend Date 4,,TSLA
-Last Split Factor 2,3:1,TSLA
-Last Split Date 3,"Aug 25, 2022",TSLA
-Forward Annual Dividend Rate 4,0.96,AAPL
-Forward Annual Dividend Yield 4,0.56%,AAPL
-Trailing Annual Dividend Rate 3,0.95,AAPL
-Trailing Annual Dividend Yield 3,0.56%,AAPL
-5 Year Average Dividend Yield 4,0.74,AAPL
-Payout Ratio 4,14.77%,AAPL
-Dividend Date 3,"Feb 15, 2024",AAPL
-Ex-Dividend Date 4,"Feb 09, 2024",AAPL
-Last Split Factor 2,4:1,AAPL
-Last Split Date 3,"Aug 31, 2020",AAPL
-Revenue (ttm),29.77B,PYPL
-Revenue Per Share (ttm),26.99,PYPL
-Quarterly Revenue Growth (yoy),8.70%,PYPL
-Gross Profit (ttm),,PYPL
-EBITDA,5.45B,PYPL
-Net Income Avi to Common (ttm),4.25B,PYPL
-Diluted EPS (ttm),3.84,PYPL
-Quarterly Earnings Growth (yoy),52.20%,PYPL
-Revenue (ttm),385.71B,AAPL
-Revenue Per Share (ttm),24.65,AAPL
-Quarterly Revenue Growth (yoy),2.10%,AAPL
-Gross Profit (ttm),,AAPL
-EBITDA,130.11B,AAPL
-Net Income Avi to Common (ttm),100.91B,AAPL
-Diluted EPS (ttm),6.42,AAPL
-Quarterly Earnings Growth (yoy),13.10%,AAPL
-Revenue (ttm),176.19B,F
-Revenue Per Share (ttm),44.07,F
-Quarterly Revenue Growth (yoy),4.50%,F
-Gross Profit (ttm),,F
-EBITDA,11.82B,F
-Net Income Avi to Common (ttm),4.35B,F
-Diluted EPS (ttm),1.08,F
-Quarterly Earnings Growth (yoy),,F
-Revenue (ttm),58.05B,DAL
-Revenue Per Share (ttm),90.84,DAL
-Quarterly Revenue Growth (yoy),5.90%,DAL
-Gross Profit (ttm),,DAL
-EBITDA,8.09B,DAL
-Net Income Avi to Common (ttm),4.61B,DAL
-Diluted EPS (ttm),7.17,DAL
-Quarterly Earnings Growth (yoy),145.70%,DAL
-Revenue (ttm),16.06B,PHM
-Revenue Per Share (ttm),73.02,PHM
-Quarterly Revenue Growth (yoy),-15.50%,PHM
-Gross Profit (ttm),,PHM
-EBITDA,3.51B,PHM
-Net Income Avi to Common (ttm),2.59B,PHM
-Diluted EPS (ttm),11.72,PHM
-Quarterly Earnings Growth (yoy),-19.40%,PHM
-Revenue (ttm),247.64B,PDD
-Revenue Per Share (ttm),182.89,PDD
-Quarterly Revenue Growth (yoy),123.20%,PDD
-Gross Profit (ttm),,PDD
-EBITDA,60.92B,PDD
-Net Income Avi to Common (ttm),60.03B,PDD
-Diluted EPS (ttm),4.39,PDD
-Quarterly Earnings Growth (yoy),146.30%,PDD
-Revenue (ttm),171.84B,GM
-Revenue Per Share (ttm),125.98,GM
-Quarterly Revenue Growth (yoy),-0.30%,GM
-Gross Profit (ttm),,GM
-EBITDA,15.78B,GM
-Net Income Avi to Common (ttm),10.02B,GM
-Diluted EPS (ttm),7.32,GM
-Quarterly Earnings Growth (yoy),5.10%,GM
-Revenue (ttm),52.79B,AAL
-Revenue Per Share (ttm),80.76,AAL
-Quarterly Revenue Growth (yoy),-1.00%,AAL
-Gross Profit (ttm),,AAL
-EBITDA,6.3B,AAL
-Net Income Avi to Common (ttm),822M,AAL
-Diluted EPS (ttm),1.21,AAL
-Quarterly Earnings Growth (yoy),-97.60%,AAL
-Revenue (ttm),6.49B,KBH
-Revenue Per Share (ttm),82.26,KBH
-Quarterly Revenue Growth (yoy),6.00%,KBH
-Gross Profit (ttm),,KBH
-EBITDA,809.23M,KBH
-Net Income Avi to Common (ttm),599.07M,KBH
-Diluted EPS (ttm),7.34,KBH
-Quarterly Earnings Growth (yoy),10.50%,KBH
-Revenue (ttm),26.09B,LUV
-Revenue Per Share (ttm),43.85,LUV
-Quarterly Revenue Growth (yoy),10.50%,LUV
-Gross Profit (ttm),,LUV
-EBITDA,2.16B,LUV
-Net Income Avi to Common (ttm),465M,LUV
-Diluted EPS (ttm),0.76,LUV
-Quarterly Earnings Growth (yoy),,LUV
-Revenue (ttm),640.67M,BATRA
-Revenue Per Share (ttm),10.38,BATRA
-Quarterly Revenue Growth (yoy),-4.90%,BATRA
-Gross Profit (ttm),,BATRA
-EBITDA,22.62M,BATRA
-Net Income Avi to Common (ttm),-125.29M,BATRA
-Diluted EPS (ttm),-2.03,BATRA
-Quarterly Earnings Growth (yoy),,BATRA
-Revenue (ttm),88.93B,DIS
-Revenue Per Share (ttm),48.60,DIS
-Quarterly Revenue Growth (yoy),0.20%,DIS
-Gross Profit (ttm),,DIS
-EBITDA,15.59B,DIS
-Net Income Avi to Common (ttm),2.99B,DIS
-Diluted EPS (ttm),1.63,DIS
-Quarterly Earnings Growth (yoy),49.40%,DIS
-Revenue (ttm),1.79B,COOP
-Revenue Per Share (ttm),26.75,COOP
-Quarterly Revenue Growth (yoy),33.30%,COOP
-Gross Profit (ttm),,COOP
-EBITDA,699M,COOP
-Net Income Avi to Common (ttm),500M,COOP
-Diluted EPS (ttm),7.30,COOP
-Quarterly Earnings Growth (yoy),"4,500.00%",COOP
-Revenue (ttm),927.49B,BABA
-Revenue Per Share (ttm),363.64,BABA
-Quarterly Revenue Growth (yoy),5.10%,BABA
-Gross Profit (ttm),,BABA
-EBITDA,181.69B,BABA
-Net Income Avi to Common (ttm),99.99B,BABA
-Diluted EPS (ttm),5.37,BABA
-Quarterly Earnings Growth (yoy),-69.00%,BABA
-Revenue (ttm),35.93B,DHI
-Revenue Per Share (ttm),106.31,DHI
-Quarterly Revenue Growth (yoy),6.50%,DHI
-Gross Profit (ttm),,DHI
-EBITDA,6.29B,DHI
-Net Income Avi to Common (ttm),4.73B,DHI
-Diluted EPS (ttm),13.87,DHI
-Quarterly Earnings Growth (yoy),-1.20%,DHI
-Revenue (ttm),121.57B,CMCSA
-Revenue Per Share (ttm),29.49,CMCSA
-Quarterly Revenue Growth (yoy),2.30%,CMCSA
-Gross Profit (ttm),,CMCSA
-EBITDA,37.65B,CMCSA
-Net Income Avi to Common (ttm),15.39B,CMCSA
-Diluted EPS (ttm),3.71,CMCSA
-Quarterly Earnings Growth (yoy),7.80%,CMCSA
-Revenue (ttm),53.72B,UAL
-Revenue Per Share (ttm),163.87,UAL
-Quarterly Revenue Growth (yoy),9.90%,UAL
-Gross Profit (ttm),,UAL
-EBITDA,7.79B,UAL
-Net Income Avi to Common (ttm),2.62B,UAL
-Diluted EPS (ttm),7.98,UAL
-Quarterly Earnings Growth (yoy),-28.80%,UAL
-Revenue (ttm),716.29M,CHGG
-Revenue Per Share (ttm),6.15,CHGG
-Quarterly Revenue Growth (yoy),-8.40%,CHGG
-Gross Profit (ttm),,CHGG
-EBITDA,82.34M,CHGG
-Net Income Avi to Common (ttm),18.18M,CHGG
-Diluted EPS (ttm),0.16,CHGG
-Quarterly Earnings Growth (yoy),420.20%,CHGG
-Revenue (ttm),3.58B,EDU
-Revenue Per Share (ttm),21.63,EDU
-Quarterly Revenue Growth (yoy),36.30%,EDU
-Gross Profit (ttm),,EDU
-EBITDA,427.85M,EDU
-Net Income Avi to Common (ttm),306.06M,EDU
-Diluted EPS (ttm),1.80,EDU
-Quarterly Earnings Growth (yoy),"4,007.40%",EDU
-Revenue (ttm),609.01B,TCEHY
-Revenue Per Share (ttm),64.41,TCEHY
-Quarterly Revenue Growth (yoy),7.10%,TCEHY
-Gross Profit (ttm),,TCEHY
-EBITDA,185.59B,TCEHY
-Net Income Avi to Common (ttm),115.22B,TCEHY
-Diluted EPS (ttm),1.65,TCEHY
-Quarterly Earnings Growth (yoy),-74.60%,TCEHY
-Revenue (ttm),10.82B,VFC
-Revenue Per Share (ttm),27.87,VFC
-Quarterly Revenue Growth (yoy),-16.20%,VFC
-Gross Profit (ttm),,VFC
-EBITDA,1.07B,VFC
-Net Income Avi to Common (ttm),-765.47M,VFC
-Diluted EPS (ttm),-1.97,VFC
-Quarterly Earnings Growth (yoy),,VFC
-Revenue (ttm),123.85B,LI
-Revenue Per Share (ttm),125.87,LI
-Quarterly Revenue Growth (yoy),136.40%,LI
-Gross Profit (ttm),,LI
-EBITDA,8.62B,LI
-Net Income Avi to Common (ttm),11.7B,LI
-Diluted EPS (ttm),1.54,LI
-Quarterly Earnings Growth (yoy),"2,102.10%",LI
-Revenue (ttm),276.74B,MPNGY
-Revenue Per Share (ttm),89.09,MPNGY
-Quarterly Revenue Growth (yoy),22.60%,MPNGY
-Gross Profit (ttm),,MPNGY
-EBITDA,16.93B,MPNGY
-Net Income Avi to Common (ttm),13.86B,MPNGY
-Diluted EPS (ttm),0.58,MPNGY
-Quarterly Earnings Growth (yoy),,MPNGY
-Revenue (ttm),1.76B,WB
-Revenue Per Share (ttm),7.47,WB
-Quarterly Revenue Growth (yoy),3.50%,WB
-Gross Profit (ttm),,WB
-EBITDA,527.63M,WB
-Net Income Avi to Common (ttm),342.6M,WB
-Diluted EPS (ttm),1.69,WB
-Quarterly Earnings Growth (yoy),-41.40%,WB
-Revenue (ttm),5.45B,BZ
-Revenue Per Share (ttm),12.58,BZ
-Quarterly Revenue Growth (yoy),46.00%,BZ
-Gross Profit (ttm),,BZ
-EBITDA,203.29M,BZ
-Net Income Avi to Common (ttm),583.18M,BZ
-Diluted EPS (ttm),0.18,BZ
-Quarterly Earnings Growth (yoy),,BZ
-Revenue (ttm),96.77B,TSLA
-Revenue Per Share (ttm),30.49,TSLA
-Quarterly Revenue Growth (yoy),3.50%,TSLA
-Gross Profit (ttm),,TSLA
-EBITDA,13.56B,TSLA
-Net Income Avi to Common (ttm),15B,TSLA
-Diluted EPS (ttm),4.30,TSLA
-Quarterly Earnings Growth (yoy),115.00%,TSLA
-Revenue (ttm),385.71B,AAPL
-Revenue Per Share (ttm),24.65,AAPL
-Quarterly Revenue Growth (yoy),2.10%,AAPL
-Gross Profit (ttm),,AAPL
-EBITDA,130.11B,AAPL
-Net Income Avi to Common (ttm),100.91B,AAPL
-Diluted EPS (ttm),6.42,AAPL
-Quarterly Earnings Growth (yoy),13.10%,AAPL
-Return on Assets (ttm),3.77%,PYPL
-Return on Equity (ttm),20.55%,PYPL
-Return on Assets (ttm),21.18%,AAPL
-Return on Equity (ttm),154.27%,AAPL
-Return on Assets (ttm),1.27%,F
-Return on Equity (ttm),10.07%,F
-Return on Assets (ttm),5.22%,DAL
-Return on Equity (ttm),52.12%,DAL
-Return on Assets (ttm),13.87%,PHM
-Return on Equity (ttm),26.97%,PHM
-Return on Assets (ttm),12.54%,PDD
-Return on Equity (ttm),39.36%,PDD
-Return on Assets (ttm),2.24%,GM
-Return on Equity (ttm),14.00%,GM
-Return on Assets (ttm),3.96%,AAL
-Return on Equity (ttm),,AAL
-Return on Assets (ttm),7.32%,KBH
-Return on Equity (ttm),15.92%,KBH
-Return on Assets (ttm),1.53%,LUV
-Return on Equity (ttm),4.39%,LUV
-Return on Assets (ttm),-1.82%,BATRA
-Return on Equity (ttm),-29.83%,BATRA
-Return on Assets (ttm),3.22%,DIS
-Return on Equity (ttm),3.90%,DIS
-Return on Assets (ttm),3.06%,COOP
-Return on Equity (ttm),11.99%,COOP
-Return on Assets (ttm),4.43%,BABA
-Return on Equity (ttm),8.21%,BABA
-Return on Assets (ttm),12.16%,DHI
-Return on Equity (ttm),21.66%,DHI
-Return on Assets (ttm),5.58%,CMCSA
-Return on Equity (ttm),18.25%,CMCSA
-Return on Assets (ttm),4.78%,UAL
-Return on Equity (ttm),32.28%,UAL
-Return on Assets (ttm),-0.39%,CHGG
-Return on Equity (ttm),1.76%,CHGG
-Return on Assets (ttm),3.24%,EDU
-Return on Equity (ttm),8.80%,EDU
-Return on Assets (ttm),6.46%,TCEHY
-Return on Equity (ttm),14.25%,TCEHY
-Return on Assets (ttm),3.56%,VFC
-Return on Equity (ttm),-28.20%,VFC
-Return on Assets (ttm),4.02%,LI
-Return on Equity (ttm),22.33%,LI
-Return on Assets (ttm),2.09%,MPNGY
-Return on Equity (ttm),9.88%,MPNGY
-Return on Assets (ttm),4.10%,WB
-Return on Equity (ttm),10.35%,WB
-Return on Assets (ttm),0.07%,BZ
-Return on Equity (ttm),4.51%,BZ
-Return on Assets (ttm),5.88%,TSLA
-Return on Equity (ttm),27.35%,TSLA
-Return on Assets (ttm),21.18%,AAPL
-Return on Equity (ttm),154.27%,AAPL
-Profit Margin,14.26%,PYPL
-Operating Margin (ttm),17.22%,PYPL
-Profit Margin,26.16%,AAPL
-Operating Margin (ttm),33.76%,AAPL
-Profit Margin,2.47%,F
-Operating Margin (ttm),-1.74%,F
-Profit Margin,7.94%,DAL
-Operating Margin (ttm),14.99%,DAL
-Profit Margin,16.20%,PHM
-Operating Margin (ttm),22.36%,PHM
-Profit Margin,24.24%,PDD
-Operating Margin (ttm),25.20%,PDD
-Profit Margin,5.89%,GM
-Operating Margin (ttm),2.03%,GM
-Profit Margin,1.56%,AAL
-Operating Margin (ttm),5.15%,AAL
-Profit Margin,9.29%,KBH
-Operating Margin (ttm),11.62%,KBH
-Profit Margin,1.78%,LUV
-Operating Margin (ttm),3.50%,LUV
-Profit Margin,-19.56%,BATRA
-Operating Margin (ttm),-44.51%,BATRA
-Profit Margin,3.36%,DIS
-Operating Margin (ttm),12.89%,DIS
-Profit Margin,27.87%,COOP
-Operating Margin (ttm),20.30%,COOP
-Profit Margin,10.81%,BABA
-Operating Margin (ttm),11.91%,BABA
-Profit Margin,13.18%,DHI
-Operating Margin (ttm),15.56%,DHI
-Profit Margin,12.66%,CMCSA
-Operating Margin (ttm),14.35%,CMCSA
-Profit Margin,4.87%,UAL
-Operating Margin (ttm),7.91%,UAL
-Profit Margin,2.54%,CHGG
-Operating Margin (ttm),27.41%,CHGG
-Profit Margin,8.54%,EDU
-Operating Margin (ttm),2.45%,EDU
-Profit Margin,18.92%,TCEHY
-Operating Margin (ttm),26.68%,TCEHY
-Profit Margin,-7.07%,VFC
-Operating Margin (ttm),9.32%,VFC
-Profit Margin,9.45%,LI
-Operating Margin (ttm),7.28%,LI
-Profit Margin,5.01%,MPNGY
-Operating Margin (ttm),-0.30%,MPNGY
-Profit Margin,19.47%,WB
-Operating Margin (ttm),25.67%,WB
-Profit Margin,10.69%,BZ
-Operating Margin (ttm),14.06%,BZ
-Profit Margin,15.50%,TSLA
-Operating Margin (ttm),8.20%,TSLA
-Profit Margin,26.16%,AAPL
-Operating Margin (ttm),33.76%,AAPL
-Avg Vol (3 month) 3,18.23M,PYPL
-Avg Vol (10 day) 3,11.18M,PYPL
-Shares Outstanding 5,1.07B,PYPL
-Implied Shares Outstanding 6,1.07B,PYPL
-Float 8,1.07B,PYPL
-% Held by Insiders 1,0.21%,PYPL
-% Held by Institutions 1,72.70%,PYPL
-"Shares Short (Mar 15, 2024) 4",22.95M,PYPL
-"Short Ratio (Mar 15, 2024) 4",1.49,PYPL
-"Short % of Float (Mar 15, 2024) 4",2.14%,PYPL
-"Short % of Shares Outstanding (Mar 15, 2024) 4",2.14%,PYPL
-"Shares Short (prior month Feb 15, 2024) 4",21.28M,PYPL
-Avg Vol (3 month) 3,61.28M,AAPL
-Avg Vol (10 day) 3,62.43M,AAPL
-Shares Outstanding 5,15.44B,AAPL
-Implied Shares Outstanding 6,15.62B,AAPL
-Float 8,15.41B,AAPL
-% Held by Insiders 1,5.94%,AAPL
-% Held by Institutions 1,56.69%,AAPL
-"Shares Short (Mar 15, 2024) 4",110.86M,AAPL
-"Short Ratio (Mar 15, 2024) 4",1.64,AAPL
-"Short % of Float (Mar 15, 2024) 4",0.72%,AAPL
-"Short % of Shares Outstanding (Mar 15, 2024) 4",0.72%,AAPL
-"Shares Short (prior month Feb 15, 2024) 4",97.67M,AAPL
-Avg Vol (3 month) 3,54.49M,F
-Avg Vol (10 day) 3,49.64M,F
-Shares Outstanding 5,3.9B,F
-Implied Shares Outstanding 6,3.97B,F
-Float 8,3.89B,F
-% Held by Insiders 1,0.29%,F
-% Held by Institutions 1,56.57%,F
-"Shares Short (Mar 15, 2024) 4",144.76M,F
-"Short Ratio (Mar 15, 2024) 4",3.02,F
-"Short % of Float (Mar 15, 2024) 4",4.03%,F
-"Short % of Shares Outstanding (Mar 15, 2024) 4",3.64%,F
-"Shares Short (prior month Feb 15, 2024) 4",156.58M,F
-Avg Vol (3 month) 3,10.33M,DAL
-Avg Vol (10 day) 3,9.47M,DAL
-Shares Outstanding 5,643.32M,DAL
-Implied Shares Outstanding 6,643.32M,DAL
-Float 8,635.81M,DAL
-% Held by Insiders 1,0.34%,DAL
-% Held by Institutions 1,70.35%,DAL
-"Shares Short (Mar 15, 2024) 4",16.1M,DAL
-"Short Ratio (Mar 15, 2024) 4",1.87,DAL
-"Short % of Float (Mar 15, 2024) 4",2.83%,DAL
-"Short % of Shares Outstanding (Mar 15, 2024) 4",2.50%,DAL
-"Shares Short (prior month Feb 15, 2024) 4",16.77M,DAL
-Avg Vol (3 month) 3,1.81M,PHM
-Avg Vol (10 day) 3,1.46M,PHM
-Shares Outstanding 5,210.99M,PHM
-Implied Shares Outstanding 6,212.11M,PHM
-Float 8,210.08M,PHM
-% Held by Insiders 1,0.73%,PHM
-% Held by Institutions 1,93.19%,PHM
-"Shares Short (Mar 15, 2024) 4",6.14M,PHM
-"Short Ratio (Mar 15, 2024) 4",3.3,PHM
-"Short % of Float (Mar 15, 2024) 4",3.76%,PHM
-"Short % of Shares Outstanding (Mar 15, 2024) 4",2.91%,PHM
-"Shares Short (prior month Feb 15, 2024) 4",5.1M,PHM
-Avg Vol (3 month) 3,8.79M,PDD
-Avg Vol (10 day) 3,14.58M,PDD
-Shares Outstanding 5,1.33B,PDD
-Implied Shares Outstanding 6,1.33B,PDD
-Float 8,2.83B,PDD
-% Held by Insiders 1,0.00%,PDD
-% Held by Institutions 1,31.66%,PDD
-"Shares Short (Mar 15, 2024) 4",23.3M,PDD
-"Short Ratio (Mar 15, 2024) 4",3,PDD
-"Short % of Float (Mar 15, 2024) 4",,PDD
-"Short % of Shares Outstanding (Mar 15, 2024) 4",,PDD
-"Shares Short (prior month Feb 15, 2024) 4",23.65M,PDD
-Avg Vol (3 month) 3,18.4M,GM
-Avg Vol (10 day) 3,15.12M,GM
-Shares Outstanding 5,1.15B,GM
-Implied Shares Outstanding 6,1.15B,GM
-Float 8,1.15B,GM
-% Held by Insiders 1,0.29%,GM
-% Held by Institutions 1,96.53%,GM
-"Shares Short (Mar 15, 2024) 4",82.52M,GM
-"Short Ratio (Mar 15, 2024) 4",4.43,GM
-"Short % of Float (Mar 15, 2024) 4",7.17%,GM
-"Short % of Shares Outstanding (Mar 15, 2024) 4",7.15%,GM
-"Shares Short (prior month Feb 15, 2024) 4",96.43M,GM
-Avg Vol (3 month) 3,34.08M,AAL
-Avg Vol (10 day) 3,24.54M,AAL
-Shares Outstanding 5,654.76M,AAL
-Implied Shares Outstanding 6,654.76M,AAL
-Float 8,642.71M,AAL
-% Held by Insiders 1,1.87%,AAL
-% Held by Institutions 1,52.95%,AAL
-"Shares Short (Mar 15, 2024) 4",45.56M,AAL
-"Short Ratio (Mar 15, 2024) 4",1.54,AAL
-"Short % of Float (Mar 15, 2024) 4",7.90%,AAL
-"Short % of Shares Outstanding (Mar 15, 2024) 4",6.96%,AAL
-"Shares Short (prior month Feb 15, 2024) 4",41.44M,AAL
-Avg Vol (3 month) 3,1.21M,KBH
-Avg Vol (10 day) 3,1.23M,KBH
-Shares Outstanding 5,75.9M,KBH
-Implied Shares Outstanding 6,76.14M,KBH
-Float 8,73.04M,KBH
-% Held by Insiders 1,12.12%,KBH
-% Held by Institutions 1,102.49%,KBH
-"Shares Short (Mar 15, 2024) 4",4.71M,KBH
-"Short Ratio (Mar 15, 2024) 4",4.21,KBH
-"Short % of Float (Mar 15, 2024) 4",9.80%,KBH
-"Short % of Shares Outstanding (Mar 15, 2024) 4",6.21%,KBH
-"Shares Short (prior month Feb 15, 2024) 4",5.9M,KBH
-Avg Vol (3 month) 3,8.42M,LUV
-Avg Vol (10 day) 3,7.25M,LUV
-Shares Outstanding 5,596.67M,LUV
-Implied Shares Outstanding 6,598.3M,LUV
-Float 8,593.81M,LUV
-% Held by Insiders 1,0.42%,LUV
-% Held by Institutions 1,81.84%,LUV
-"Shares Short (Mar 15, 2024) 4",17.69M,LUV
-"Short Ratio (Mar 15, 2024) 4",1.99,LUV
-"Short % of Float (Mar 15, 2024) 4",3.34%,LUV
-"Short % of Shares Outstanding (Mar 15, 2024) 4",2.96%,LUV
-"Shares Short (prior month Feb 15, 2024) 4",19.27M,LUV
-Avg Vol (3 month) 3,29.93k,BATRA
-Avg Vol (10 day) 3,27.19k,BATRA
-Shares Outstanding 5,10.32M,BATRA
-Implied Shares Outstanding 6,58.43M,BATRA
-Float 8,47.16M,BATRA
-% Held by Insiders 1,2.77%,BATRA
-% Held by Institutions 1,74.53%,BATRA
-"Shares Short (Mar 15, 2024) 4",208.46k,BATRA
-"Short Ratio (Mar 15, 2024) 4",6.82,BATRA
-"Short % of Float (Mar 15, 2024) 4",3.21%,BATRA
-"Short % of Shares Outstanding (Mar 15, 2024) 4",0.34%,BATRA
-"Shares Short (prior month Feb 15, 2024) 4",250.36k,BATRA
-Avg Vol (3 month) 3,12.54M,DIS
-Avg Vol (10 day) 3,11.05M,DIS
-Shares Outstanding 5,1.83B,DIS
-Implied Shares Outstanding 6,1.83B,DIS
-Float 8,1.83B,DIS
-% Held by Insiders 1,0.07%,DIS
-% Held by Institutions 1,67.51%,DIS
-"Shares Short (Mar 15, 2024) 4",18.65M,DIS
-"Short Ratio (Mar 15, 2024) 4",1.82,DIS
-"Short % of Float (Mar 15, 2024) 4",1.02%,DIS
-"Short % of Shares Outstanding (Mar 15, 2024) 4",1.02%,DIS
-"Shares Short (prior month Feb 15, 2024) 4",17.68M,DIS
-Avg Vol (3 month) 3,496.47k,COOP
-Avg Vol (10 day) 3,400.01k,COOP
-Shares Outstanding 5,64.6M,COOP
-Implied Shares Outstanding 6,64.6M,COOP
-Float 8,62.35M,COOP
-% Held by Insiders 1,3.71%,COOP
-% Held by Institutions 1,91.36%,COOP
-"Shares Short (Mar 15, 2024) 4",1.53M,COOP
-"Short Ratio (Mar 15, 2024) 4",3.37,COOP
-"Short % of Float (Mar 15, 2024) 4",3.46%,COOP
-"Short % of Shares Outstanding (Mar 15, 2024) 4",2.37%,COOP
-"Shares Short (prior month Feb 15, 2024) 4",1.71M,COOP
-Avg Vol (3 month) 3,19.06M,BABA
-Avg Vol (10 day) 3,12.08M,BABA
-Shares Outstanding 5,2.5B,BABA
-Implied Shares Outstanding 6,2.56B,BABA
-Float 8,16.51B,BABA
-% Held by Insiders 1,0.01%,BABA
-% Held by Institutions 1,14.18%,BABA
-"Shares Short (Mar 15, 2024) 4",44.03M,BABA
-"Short Ratio (Mar 15, 2024) 4",2.9,BABA
-"Short % of Float (Mar 15, 2024) 4",,BABA
-"Short % of Shares Outstanding (Mar 15, 2024) 4",1.76%,BABA
-"Shares Short (prior month Feb 15, 2024) 4",43.47M,BABA
-Avg Vol (3 month) 3,2.56M,DHI
-Avg Vol (10 day) 3,1.91M,DHI
-Shares Outstanding 5,331.82M,DHI
-Implied Shares Outstanding 6,332.88M,DHI
-Float 8,322.56M,DHI
-% Held by Insiders 1,9.89%,DHI
-% Held by Institutions 1,84.30%,DHI
-"Shares Short (Mar 15, 2024) 4",4.67M,DHI
-"Short Ratio (Mar 15, 2024) 4",1.87,DHI
-"Short % of Float (Mar 15, 2024) 4",1.77%,DHI
-"Short % of Shares Outstanding (Mar 15, 2024) 4",1.41%,DHI
-"Shares Short (prior month Feb 15, 2024) 4",5.24M,DHI
-Avg Vol (3 month) 3,20.32M,CMCSA
-Avg Vol (10 day) 3,19.68M,CMCSA
-Shares Outstanding 5,3.96B,CMCSA
-Implied Shares Outstanding 6,3.97B,CMCSA
-Float 8,3.93B,CMCSA
-% Held by Insiders 1,0.76%,CMCSA
-% Held by Institutions 1,88.29%,CMCSA
-"Shares Short (Mar 15, 2024) 4",48.24M,CMCSA
-"Short Ratio (Mar 15, 2024) 4",2.31,CMCSA
-"Short % of Float (Mar 15, 2024) 4",1.23%,CMCSA
-"Short % of Shares Outstanding (Mar 15, 2024) 4",1.21%,CMCSA
-"Shares Short (prior month Feb 15, 2024) 4",51.15M,CMCSA
-Avg Vol (3 month) 3,9.03M,UAL
-Avg Vol (10 day) 3,7.92M,UAL
-Shares Outstanding 5,328.03M,UAL
-Implied Shares Outstanding 6,328.03M,UAL
-Float 8,326.02M,UAL
-% Held by Insiders 1,0.46%,UAL
-% Held by Institutions 1,70.24%,UAL
-"Shares Short (Mar 15, 2024) 4",17.84M,UAL
-"Short Ratio (Mar 15, 2024) 4",2.27,UAL
-"Short % of Float (Mar 15, 2024) 4",6.17%,UAL
-"Short % of Shares Outstanding (Mar 15, 2024) 4",5.44%,UAL
-"Shares Short (prior month Feb 15, 2024) 4",15.83M,UAL
-Avg Vol (3 month) 3,2.85M,CHGG
-Avg Vol (10 day) 3,2.03M,CHGG
-Shares Outstanding 5,102.95M,CHGG
-Implied Shares Outstanding 6,102.95M,CHGG
-Float 8,84.3M,CHGG
-% Held by Insiders 1,2.98%,CHGG
-% Held by Institutions 1,100.01%,CHGG
-"Shares Short (Mar 15, 2024) 4",15.68M,CHGG
-"Short Ratio (Mar 15, 2024) 4",5.84,CHGG
-"Short % of Float (Mar 15, 2024) 4",22.33%,CHGG
-"Short % of Shares Outstanding (Mar 15, 2024) 4",15.23%,CHGG
-"Shares Short (prior month Feb 15, 2024) 4",17.28M,CHGG
-Avg Vol (3 month) 3,1.7M,EDU
-Avg Vol (10 day) 3,1.19M,EDU
-Shares Outstanding 5,165.51M,EDU
-Implied Shares Outstanding 6,165.51M,EDU
-Float 8,1.44B,EDU
-% Held by Insiders 1,2.04%,EDU
-% Held by Institutions 1,41.74%,EDU
-"Shares Short (Mar 15, 2024) 4",4.7M,EDU
-"Short Ratio (Mar 15, 2024) 4",3.07,EDU
-"Short % of Float (Mar 15, 2024) 4",,EDU
-"Short % of Shares Outstanding (Mar 15, 2024) 4",2.84%,EDU
-"Shares Short (prior month Feb 15, 2024) 4",5.24M,EDU
-Avg Vol (3 month) 3,3.16M,TCEHY
-Avg Vol (10 day) 3,2.33M,TCEHY
-Shares Outstanding 5,9.45B,TCEHY
-Implied Shares Outstanding 6,9.51B,TCEHY
-Float 8,6.29B,TCEHY
-% Held by Insiders 1,0.00%,TCEHY
-% Held by Institutions 1,0.09%,TCEHY
-Shares Short 4,,TCEHY
-Short Ratio 4,,TCEHY
-Short % of Float 4,,TCEHY
-Short % of Shares Outstanding 4,,TCEHY
-Shares Short (prior month ) 4,,TCEHY
-Avg Vol (3 month) 3,8.46M,VFC
-Avg Vol (10 day) 3,6.77M,VFC
-Shares Outstanding 5,388.82M,VFC
-Implied Shares Outstanding 6,388.82M,VFC
-Float 8,384.93M,VFC
-% Held by Insiders 1,0.94%,VFC
-% Held by Institutions 1,88.54%,VFC
-"Shares Short (Mar 15, 2024) 4",30.07M,VFC
-"Short Ratio (Mar 15, 2024) 4",3.28,VFC
-"Short % of Float (Mar 15, 2024) 4",8.70%,VFC
-"Short % of Shares Outstanding (Mar 15, 2024) 4",7.73%,VFC
-"Shares Short (prior month Feb 15, 2024) 4",34.46M,VFC
-Avg Vol (3 month) 3,8.41M,LI
-Avg Vol (10 day) 3,7.89M,LI
-Shares Outstanding 5,1B,LI
-Implied Shares Outstanding 6,1.02B,LI
-Float 8,1.03B,LI
-% Held by Insiders 1,0.02%,LI
-% Held by Institutions 1,11.71%,LI
-"Shares Short (Mar 15, 2024) 4",29.15M,LI
-"Short Ratio (Mar 15, 2024) 4",2.87,LI
-"Short % of Float (Mar 15, 2024) 4",,LI
-"Short % of Shares Outstanding (Mar 15, 2024) 4",2.91%,LI
-"Shares Short (prior month Feb 15, 2024) 4",28.46M,LI
-Avg Vol (3 month) 3,450.88k,MPNGY
-Avg Vol (10 day) 3,453.72k,MPNGY
-Shares Outstanding 5,3.12B,MPNGY
-Implied Shares Outstanding 6,3.16B,MPNGY
-Float 8,5.35B,MPNGY
-% Held by Insiders 1,0.00%,MPNGY
-% Held by Institutions 1,0.01%,MPNGY
-Shares Short 4,,MPNGY
-Short Ratio 4,,MPNGY
-Short % of Float 4,,MPNGY
-Short % of Shares Outstanding 4,,MPNGY
-Shares Short (prior month ) 4,,MPNGY
-Avg Vol (3 month) 3,2.3M,WB
-Avg Vol (10 day) 3,2.58M,WB
-Shares Outstanding 5,242.48M,WB
-Implied Shares Outstanding 6,244.1M,WB
-Float 8,81.75M,WB
-% Held by Insiders 1,6.17%,WB
-% Held by Institutions 1,44.60%,WB
-"Shares Short (Mar 15, 2024) 4",10.9M,WB
-"Short Ratio (Mar 15, 2024) 4",4.32,WB
-"Short % of Float (Mar 15, 2024) 4",,WB
-"Short % of Shares Outstanding (Mar 15, 2024) 4",4.50%,WB
-"Shares Short (prior month Feb 15, 2024) 4",10.69M,WB
-Avg Vol (3 month) 3,3.24M,BZ
-Avg Vol (10 day) 3,2.63M,BZ
-Shares Outstanding 5,435.37M,BZ
-Implied Shares Outstanding 6,437.04M,BZ
-Float 8,647.51M,BZ
-% Held by Insiders 1,0.06%,BZ
-% Held by Institutions 1,65.99%,BZ
-"Shares Short (Mar 15, 2024) 4",15.15M,BZ
-"Short Ratio (Mar 15, 2024) 4",3.69,BZ
-"Short % of Float (Mar 15, 2024) 4",,BZ
-"Short % of Shares Outstanding (Mar 15, 2024) 4",3.48%,BZ
-"Shares Short (prior month Feb 15, 2024) 4",13.91M,BZ
-Avg Vol (3 month) 3,102.28M,TSLA
-Avg Vol (10 day) 3,84.62M,TSLA
-Shares Outstanding 5,3.18B,TSLA
-Implied Shares Outstanding 6,3.18B,TSLA
-Float 8,2.77B,TSLA
-% Held by Insiders 1,13.00%,TSLA
-% Held by Institutions 1,45.77%,TSLA
-"Shares Short (Mar 15, 2024) 4",102.3M,TSLA
-"Short Ratio (Mar 15, 2024) 4",1,TSLA
-"Short % of Float (Mar 15, 2024) 4",3.69%,TSLA
-"Short % of Shares Outstanding (Mar 15, 2024) 4",3.21%,TSLA
-"Shares Short (prior month Feb 15, 2024) 4",88.65M,TSLA
-Avg Vol (3 month) 3,61.28M,AAPL
-Avg Vol (10 day) 3,62.43M,AAPL
-Shares Outstanding 5,15.44B,AAPL
-Implied Shares Outstanding 6,15.62B,AAPL
-Float 8,15.41B,AAPL
-% Held by Insiders 1,5.94%,AAPL
-% Held by Institutions 1,56.69%,AAPL
-"Shares Short (Mar 15, 2024) 4",110.86M,AAPL
-"Short Ratio (Mar 15, 2024) 4",1.64,AAPL
-"Short % of Float (Mar 15, 2024) 4",0.72%,AAPL
-"Short % of Shares Outstanding (Mar 15, 2024) 4",0.72%,AAPL
-"Shares Short (prior month Feb 15, 2024) 4",97.67M,AAPL
-Beta (5Y Monthly),1.44,PYPL
-52-Week Change 3,-13.62%,PYPL
-S&P500 52-Week Change 3,27.88%,PYPL
-52 Week High 3,77.95,PYPL
-52 Week Low 3,50.25,PYPL
-50-Day Moving Average 3,61.60,PYPL
-200-Day Moving Average 3,61.42,PYPL
-Beta (5Y Monthly),1.29,AAPL
-52-Week Change 3,2.60%,AAPL
-S&P500 52-Week Change 3,27.88%,AAPL
-52 Week High 3,199.62,AAPL
-52 Week Low 3,159.78,AAPL
-50-Day Moving Average 3,180.27,AAPL
-200-Day Moving Average 3,183.54,AAPL
-Beta (5Y Monthly),1.64,F
-52-Week Change 3,4.48%,F
-S&P500 52-Week Change 3,27.88%,F
-52 Week High 3,15.42,F
-52 Week Low 3,9.63,F
-50-Day Moving Average 3,12.32,F
-200-Day Moving Average 3,12.15,F
-Beta (5Y Monthly),1.43,DAL
-52-Week Change 3,42.16%,DAL
-S&P500 52-Week Change 3,27.88%,DAL
-52 Week High 3,49.81,DAL
-52 Week Low 3,30.60,DAL
-50-Day Moving Average 3,42.12,DAL
-200-Day Moving Average 3,40.56,DAL
-Beta (5Y Monthly),1.56,PHM
-52-Week Change 3,102.72%,PHM
-S&P500 52-Week Change 3,27.88%,PHM
-52 Week High 3,121.07,PHM
-52 Week Low 3,57.26,PHM
-50-Day Moving Average 3,108.62,PHM
-200-Day Moving Average 3,90.65,PHM
-Beta (5Y Monthly),0.66,PDD
-52-Week Change 3,62.81%,PDD
-S&P500 52-Week Change 3,27.88%,PDD
-52 Week High 3,152.99,PDD
-52 Week Low 3,59.67,PDD
-50-Day Moving Average 3,126.28,PDD
-200-Day Moving Average 3,112.21,PDD
-Beta (5Y Monthly),1.50,GM
-52-Week Change 3,27.03%,GM
-S&P500 52-Week Change 3,27.88%,GM
-52 Week High 3,45.73,GM
-52 Week Low 3,26.30,GM
-50-Day Moving Average 3,39.88,GM
-200-Day Moving Average 3,35.20,GM
-Beta (5Y Monthly),1.58,AAL
-52-Week Change 3,8.79%,AAL
-S&P500 52-Week Change 3,27.88%,AAL
-52 Week High 3,19.08,AAL
-52 Week Low 3,10.86,AAL
-50-Day Moving Average 3,14.78,AAL
-200-Day Moving Average 3,14.28,AAL
-Beta (5Y Monthly),1.73,KBH
-52-Week Change 3,73.29%,KBH
-S&P500 52-Week Change 3,27.88%,KBH
-52 Week High 3,72.00,KBH
-52 Week Low 3,38.26,KBH
-50-Day Moving Average 3,64.64,KBH
-200-Day Moving Average 3,55.42,KBH
-Beta (5Y Monthly),1.16,LUV
-52-Week Change 3,-8.01%,LUV
-S&P500 52-Week Change 3,27.88%,LUV
-52 Week High 3,39.53,LUV
-52 Week Low 3,21.91,LUV
-50-Day Moving Average 3,31.48,LUV
-200-Day Moving Average 3,29.99,LUV
-Beta (5Y Monthly),0.94,BATRA
-52-Week Change 3,18.21%,BATRA
-S&P500 52-Week Change 3,27.88%,BATRA
-52 Week High 3,54.94,BATRA
-52 Week Low 3,34.55,BATRA
-50-Day Moving Average 3,42.24,BATRA
-200-Day Moving Average 3,41.50,BATRA
-Beta (5Y Monthly),1.41,DIS
-52-Week Change 3,22.05%,DIS
-S&P500 52-Week Change 3,27.88%,DIS
-52 Week High 3,123.74,DIS
-52 Week Low 3,78.73,DIS
-50-Day Moving Average 3,108.07,DIS
-200-Day Moving Average 3,92.52,DIS
-Beta (5Y Monthly),1.37,COOP
-52-Week Change 3,85.48%,COOP
-S&P500 52-Week Change 3,27.88%,COOP
-52 Week High 3,78.53,COOP
-52 Week Low 3,40.17,COOP
-50-Day Moving Average 3,71.93,COOP
-200-Day Moving Average 3,61.14,COOP
-Beta (5Y Monthly),0.47,BABA
-52-Week Change 3,-27.15%,BABA
-S&P500 52-Week Change 3,27.88%,BABA
-52 Week High 3,103.24,BABA
-52 Week Low 3,66.63,BABA
-50-Day Moving Average 3,73.69,BABA
-200-Day Moving Average 3,81.48,BABA
-Beta (5Y Monthly),1.64,DHI
-52-Week Change 3,66.18%,DHI
-S&P500 52-Week Change 3,27.88%,DHI
-52 Week High 3,165.75,DHI
-52 Week Low 3,94.22,DHI
-50-Day Moving Average 3,149.75,DHI
-200-Day Moving Average 3,130.18,DHI
-Beta (5Y Monthly),0.98,CMCSA
-52-Week Change 3,11.94%,CMCSA
-S&P500 52-Week Change 3,27.88%,CMCSA
-52 Week High 3,47.46,CMCSA
-52 Week Low 3,36.39,CMCSA
-50-Day Moving Average 3,43.13,CMCSA
-200-Day Moving Average 3,43.40,CMCSA
-Beta (5Y Monthly),1.54,UAL
-52-Week Change 3,11.31%,UAL
-S&P500 52-Week Change 3,27.88%,UAL
-52 Week High 3,58.23,UAL
-52 Week Low 3,33.68,UAL
-50-Day Moving Average 3,43.35,UAL
-200-Day Moving Average 3,44.85,UAL
-Beta (5Y Monthly),1.28,CHGG
-52-Week Change 3,-56.00%,CHGG
-S&P500 52-Week Change 3,27.88%,CHGG
-52 Week High 3,18.77,CHGG
-52 Week Low 3,7.06,CHGG
-50-Day Moving Average 3,8.72,CHGG
-200-Day Moving Average 3,9.45,CHGG
-Beta (5Y Monthly),0.50,EDU
-52-Week Change 3,118.88%,EDU
-S&P500 52-Week Change 3,27.88%,EDU
-52 Week High 3,98.20,EDU
-52 Week Low 3,35.70,EDU
-50-Day Moving Average 3,87.27,EDU
-200-Day Moving Average 3,67.06,EDU
-Beta (5Y Monthly),0.63,TCEHY
-52-Week Change 3,-20.30%,TCEHY
-S&P500 52-Week Change 3,27.88%,TCEHY
-52 Week High 3,49.62,TCEHY
-52 Week Low 3,33.00,TCEHY
-50-Day Moving Average 3,36.34,TCEHY
-200-Day Moving Average 3,39.46,TCEHY
-Beta (5Y Monthly),1.53,VFC
-52-Week Change 3,-31.42%,VFC
-S&P500 52-Week Change 3,27.88%,VFC
-52 Week High 3,23.58,VFC
-52 Week Low 3,12.85,VFC
-50-Day Moving Average 3,15.91,VFC
-200-Day Moving Average 3,17.47,VFC
-Beta (5Y Monthly),1.10,LI
-52-Week Change 3,28.56%,LI
-S&P500 52-Week Change 3,27.88%,LI
-52 Week High 3,47.33,LI
-52 Week Low 3,21.48,LI
-50-Day Moving Average 3,33.28,LI
-200-Day Moving Average 3,36.15,LI
-Beta (5Y Monthly),0.58,MPNGY
-52-Week Change 3,-26.73%,MPNGY
-S&P500 52-Week Change 3,27.88%,MPNGY
-52 Week High 3,38.19,MPNGY
-52 Week Low 3,15.70,MPNGY
-50-Day Moving Average 3,20.47,MPNGY
-200-Day Moving Average 3,26.45,MPNGY
-Beta (5Y Monthly),0.42,WB
-52-Week Change 3,-50.19%,WB
-S&P500 52-Week Change 3,27.88%,WB
-52 Week High 3,19.27,WB
-52 Week Low 3,7.84,WB
-50-Day Moving Average 3,8.98,WB
-200-Day Moving Average 3,11.42,WB
-Beta (5Y Monthly),0.55,BZ
-52-Week Change 3,-3.66%,BZ
-S&P500 52-Week Change 3,27.88%,BZ
-52 Week High 3,21.32,BZ
-52 Week Low 3,12.57,BZ
-50-Day Moving Average 3,16.15,BZ
-200-Day Moving Average 3,15.73,BZ
-Beta (5Y Monthly),2.41,TSLA
-52-Week Change 3,-9.01%,TSLA
-S&P500 52-Week Change 3,27.88%,TSLA
-52 Week High 3,299.29,TSLA
-52 Week Low 3,152.37,TSLA
-50-Day Moving Average 3,186.56,TSLA
-200-Day Moving Average 3,231.72,TSLA
-Beta (5Y Monthly),1.29,AAPL
-52-Week Change 3,2.60%,AAPL
-S&P500 52-Week Change 3,27.88%,AAPL
-52 Week High 3,199.62,AAPL
-52 Week Low 3,159.78,AAPL
-50-Day Moving Average 3,180.27,AAPL
-200-Day Moving Average 3,183.54,AAPL
+metric_name,metric_value,stock,file
+Book Value Per Share (mrq),-8.38,AAL,Balance_Sheet_Stats.csv
+Current Ratio (mrq),0.58,AAL,Balance_Sheet_Stats.csv
+Total Cash (mrq),9.1B,AAL,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),13.86,AAL,Balance_Sheet_Stats.csv
+Total Debt (mrq),40.06B,AAL,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),--,AAL,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),351.62M,AAL,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),2.65B,AAL,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,1.27,AAL,Div_Split_Stats.csv
+Dividend Date 3,2/19/2020,AAL,Div_Split_Stats.csv
+Ex-Dividend Date 4,2/4/2020,AAL,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,--,AAL,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,--,AAL,Div_Split_Stats.csv
+Last Split Date 3,--,AAL,Div_Split_Stats.csv
+Last Split Factor 2,--,AAL,Div_Split_Stats.csv
+Payout Ratio 4,0.00%,AAL,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,0.00,AAL,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,0.00%,AAL,Div_Split_Stats.csv
+Diluted EPS (ttm),0.71,AAL,Income_Statement_Stats.csv
+EBITDA,5.93B,AAL,Income_Statement_Stats.csv
+Gross Profit (ttm),--,AAL,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),500M,AAL,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),--,AAL,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),3.10%,AAL,Income_Statement_Stats.csv
+Revenue (ttm),53.17B,AAL,Income_Statement_Stats.csv
+Revenue Per Share (ttm),81.23,AAL,Income_Statement_Stats.csv
+Return on Assets (ttm),3.51%,AAL,Management_Effect_Stats.csv
+Return on Equity (ttm),--,AAL,Management_Effect_Stats.csv
+Operating Margin (ttm),0.80%,AAL,Profitability_Stats.csv
+Profit Margin,0.94%,AAL,Profitability_Stats.csv
+% Held by Insiders 1,1.25%,AAL,Share_Stats.csv
+% Held by Institutions 1,52.30%,AAL,Share_Stats.csv
+Avg Vol (10 day) 3,35.21M,AAL,Share_Stats.csv
+Avg Vol (3 month) 3,30.75M,AAL,Share_Stats.csv
+Float 8,647.27M,AAL,Share_Stats.csv
+Implied Shares Outstanding 6,656.09M,AAL,Share_Stats.csv
+Shares Outstanding 5,656.09M,AAL,Share_Stats.csv
+Shares Short (4/15/2024) 4,51.72M,AAL,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,45.56M,AAL,Share_Stats.csv
+Short % of Float (4/15/2024) 4,8.95%,AAL,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,7.88%,AAL,Share_Stats.csv
+Short Ratio (4/15/2024) 4,1.79,AAL,Share_Stats.csv
+Book Value Per Share (mrq),4.84,AAPL,Balance_Sheet_Stats.csv
+Book Value Per Share (mrq),4.84,AAPL,Balance_Sheet_Stats.csv
+Current Ratio (mrq),1.04,AAPL,Balance_Sheet_Stats.csv
+Current Ratio (mrq),1.04,AAPL,Balance_Sheet_Stats.csv
+Total Cash (mrq),67.15B,AAPL,Balance_Sheet_Stats.csv
+Total Cash (mrq),67.15B,AAPL,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),4.38,AAPL,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),4.38,AAPL,Balance_Sheet_Stats.csv
+Total Debt (mrq),104.59B,AAPL,Balance_Sheet_Stats.csv
+Total Debt (mrq),104.59B,AAPL,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),140.97%,AAPL,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),140.97%,AAPL,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),84.73B,AAPL,Cash_Flow_Stats.csv
+Levered Free Cash Flow (ttm),84.73B,AAPL,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),110.56B,AAPL,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),110.56B,AAPL,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,0.73,AAPL,Div_Split_Stats.csv
+5 Year Average Dividend Yield 4,0.73,AAPL,Div_Split_Stats.csv
+Dividend Date 3,2/15/2024,AAPL,Div_Split_Stats.csv
+Dividend Date 3,2/15/2024,AAPL,Div_Split_Stats.csv
+Ex-Dividend Date 4,5/10/2024,AAPL,Div_Split_Stats.csv
+Ex-Dividend Date 4,5/10/2024,AAPL,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,1,AAPL,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,1,AAPL,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,0.55%,AAPL,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,0.55%,AAPL,Div_Split_Stats.csv
+Last Split Date 3,8/31/2020,AAPL,Div_Split_Stats.csv
+Last Split Date 3,8/31/2020,AAPL,Div_Split_Stats.csv
+Last Split Factor 2,4:1,AAPL,Div_Split_Stats.csv
+Last Split Factor 2,4:1,AAPL,Div_Split_Stats.csv
+Payout Ratio 4,14.93%,AAPL,Div_Split_Stats.csv
+Payout Ratio 4,14.93%,AAPL,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,0.96,AAPL,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,0.96,AAPL,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,0.53%,AAPL,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,0.53%,AAPL,Div_Split_Stats.csv
+Diluted EPS (ttm),6.43,AAPL,Income_Statement_Stats.csv
+Diluted EPS (ttm),6.43,AAPL,Income_Statement_Stats.csv
+EBITDA,129.63B,AAPL,Income_Statement_Stats.csv
+EBITDA,129.63B,AAPL,Income_Statement_Stats.csv
+Gross Profit (ttm),--,AAPL,Income_Statement_Stats.csv
+Gross Profit (ttm),--,AAPL,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),100.39B,AAPL,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),100.39B,AAPL,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),-2.20%,AAPL,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),-2.20%,AAPL,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),-4.30%,AAPL,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),-4.30%,AAPL,Income_Statement_Stats.csv
+Revenue (ttm),381.62B,AAPL,Income_Statement_Stats.csv
+Revenue (ttm),381.62B,AAPL,Income_Statement_Stats.csv
+Revenue Per Share (ttm),24.54,AAPL,Income_Statement_Stats.csv
+Revenue Per Share (ttm),24.54,AAPL,Income_Statement_Stats.csv
+Return on Assets (ttm),22.07%,AAPL,Management_Effect_Stats.csv
+Return on Assets (ttm),22.07%,AAPL,Management_Effect_Stats.csv
+Return on Equity (ttm),147.25%,AAPL,Management_Effect_Stats.csv
+Return on Equity (ttm),147.25%,AAPL,Management_Effect_Stats.csv
+Operating Margin (ttm),30.74%,AAPL,Profitability_Stats.csv
+Operating Margin (ttm),30.74%,AAPL,Profitability_Stats.csv
+Profit Margin,26.31%,AAPL,Profitability_Stats.csv
+Profit Margin,26.31%,AAPL,Profitability_Stats.csv
+% Held by Insiders 1,5.98%,AAPL,Share_Stats.csv
+% Held by Insiders 1,5.98%,AAPL,Share_Stats.csv
+% Held by Institutions 1,57.20%,AAPL,Share_Stats.csv
+% Held by Institutions 1,57.20%,AAPL,Share_Stats.csv
+Avg Vol (10 day) 3,71.32M,AAPL,Share_Stats.csv
+Avg Vol (10 day) 3,71.32M,AAPL,Share_Stats.csv
+Avg Vol (3 month) 3,63.8M,AAPL,Share_Stats.csv
+Avg Vol (3 month) 3,63.8M,AAPL,Share_Stats.csv
+Float 8,15.31B,AAPL,Share_Stats.csv
+Float 8,15.31B,AAPL,Share_Stats.csv
+Implied Shares Outstanding 6,15.33B,AAPL,Share_Stats.csv
+Implied Shares Outstanding 6,15.33B,AAPL,Share_Stats.csv
+Shares Outstanding 5,15.33B,AAPL,Share_Stats.csv
+Shares Outstanding 5,15.33B,AAPL,Share_Stats.csv
+Shares Short (4/15/2024) 4,101.91M,AAPL,Share_Stats.csv
+Shares Short (4/15/2024) 4,101.91M,AAPL,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,110.86M,AAPL,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,110.86M,AAPL,Share_Stats.csv
+Short % of Float (4/15/2024) 4,0.66%,AAPL,Share_Stats.csv
+Short % of Float (4/15/2024) 4,0.66%,AAPL,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,0.66%,AAPL,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,0.66%,AAPL,Share_Stats.csv
+Short Ratio (4/15/2024) 4,1.58,AAPL,Share_Stats.csv
+Short Ratio (4/15/2024) 4,1.58,AAPL,Share_Stats.csv
+Book Value Per Share (mrq),34.73,AMD,Balance_Sheet_Stats.csv
+Current Ratio (mrq),2.64,AMD,Balance_Sheet_Stats.csv
+Total Cash (mrq),6.03B,AMD,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),3.73,AMD,Balance_Sheet_Stats.csv
+Total Debt (mrq),3B,AMD,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),5.34%,AMD,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),2.39B,AMD,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),1.7B,AMD,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,--,AMD,Div_Split_Stats.csv
+Dividend Date 3,--,AMD,Div_Split_Stats.csv
+Ex-Dividend Date 4,4/27/1995,AMD,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,--,AMD,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,--,AMD,Div_Split_Stats.csv
+Last Split Date 3,8/22/2000,AMD,Div_Split_Stats.csv
+Last Split Factor 2,2:1,AMD,Div_Split_Stats.csv
+Payout Ratio 4,0.00%,AMD,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,0.00,AMD,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,0.00%,AMD,Div_Split_Stats.csv
+Diluted EPS (ttm),0.69,AMD,Income_Statement_Stats.csv
+EBITDA,3.84B,AMD,Income_Statement_Stats.csv
+Gross Profit (ttm),--,AMD,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),1.12B,AMD,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),--,AMD,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),2.20%,AMD,Income_Statement_Stats.csv
+Revenue (ttm),22.8B,AMD,Income_Statement_Stats.csv
+Revenue Per Share (ttm),14.11,AMD,Income_Statement_Stats.csv
+Return on Assets (ttm),0.54%,AMD,Management_Effect_Stats.csv
+Return on Equity (ttm),2.01%,AMD,Management_Effect_Stats.csv
+Operating Margin (ttm),0.66%,AMD,Profitability_Stats.csv
+Profit Margin,4.90%,AMD,Profitability_Stats.csv
+% Held by Insiders 1,0.47%,AMD,Share_Stats.csv
+% Held by Institutions 1,74.82%,AMD,Share_Stats.csv
+Avg Vol (10 day) 3,51.1M,AMD,Share_Stats.csv
+Avg Vol (3 month) 3,63.98M,AMD,Share_Stats.csv
+Float 8,1.61B,AMD,Share_Stats.csv
+Implied Shares Outstanding 6,1.62B,AMD,Share_Stats.csv
+Shares Outstanding 5,1.62B,AMD,Share_Stats.csv
+Shares Short (4/15/2024) 4,32.3M,AMD,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,38.54M,AMD,Share_Stats.csv
+Short % of Float (4/15/2024) 4,2.01%,AMD,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,2.00%,AMD,Share_Stats.csv
+Short Ratio (4/15/2024) 4,0.5,AMD,Share_Stats.csv
+Book Value Per Share (mrq),404.24,BABA,Balance_Sheet_Stats.csv
+Current Ratio (mrq),1.80,BABA,Balance_Sheet_Stats.csv
+Total Cash (mrq),614.4B,BABA,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),30.72,BABA,Balance_Sheet_Stats.csv
+Total Debt (mrq),198.51B,BABA,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),17.38%,BABA,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),146.29B,BABA,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),190.65B,BABA,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,--,BABA,Div_Split_Stats.csv
+Dividend Date 3,1/18/2024,BABA,Div_Split_Stats.csv
+Ex-Dividend Date 4,12/20/2023,BABA,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,1,BABA,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,1.23%,BABA,Div_Split_Stats.csv
+Last Split Date 3,--,BABA,Div_Split_Stats.csv
+Last Split Factor 2,--,BABA,Div_Split_Stats.csv
+Payout Ratio 4,18.31%,BABA,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,6.87,BABA,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,8.42%,BABA,Div_Split_Stats.csv
+Diluted EPS (ttm),5.35,BABA,Income_Statement_Stats.csv
+EBITDA,181.69B,BABA,Income_Statement_Stats.csv
+Gross Profit (ttm),--,BABA,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),99.99B,BABA,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),-69.00%,BABA,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),5.10%,BABA,Income_Statement_Stats.csv
+Revenue (ttm),927.49B,BABA,Income_Statement_Stats.csv
+Revenue Per Share (ttm),363.64,BABA,Income_Statement_Stats.csv
+Return on Assets (ttm),4.43%,BABA,Management_Effect_Stats.csv
+Return on Equity (ttm),8.21%,BABA,Management_Effect_Stats.csv
+Operating Margin (ttm),11.91%,BABA,Profitability_Stats.csv
+Profit Margin,10.81%,BABA,Profitability_Stats.csv
+% Held by Insiders 1,0.02%,BABA,Share_Stats.csv
+% Held by Institutions 1,14.73%,BABA,Share_Stats.csv
+Avg Vol (10 day) 3,16.21M,BABA,Share_Stats.csv
+Avg Vol (3 month) 3,14.9M,BABA,Share_Stats.csv
+Float 8,16.41B,BABA,Share_Stats.csv
+Implied Shares Outstanding 6,2.56B,BABA,Share_Stats.csv
+Shares Outstanding 5,2.43B,BABA,Share_Stats.csv
+Shares Short (4/15/2024) 4,40.76M,BABA,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,44.03M,BABA,Share_Stats.csv
+Short % of Float (4/15/2024) 4,--,BABA,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,1.68%,BABA,Share_Stats.csv
+Short Ratio (4/15/2024) 4,3.05,BABA,Share_Stats.csv
+Book Value Per Share (mrq),8.54,BATRA,Balance_Sheet_Stats.csv
+Current Ratio (mrq),0.93,BATRA,Balance_Sheet_Stats.csv
+Total Cash (mrq),125.15M,BATRA,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),2.02,BATRA,Balance_Sheet_Stats.csv
+Total Debt (mrq),679.6M,BATRA,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),125.70%,BATRA,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),13.94M,BATRA,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),1.63M,BATRA,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,--,BATRA,Div_Split_Stats.csv
+Dividend Date 3,--,BATRA,Div_Split_Stats.csv
+Ex-Dividend Date 4,2/10/2022,BATRA,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,--,BATRA,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,--,BATRA,Div_Split_Stats.csv
+Last Split Date 3,--,BATRA,Div_Split_Stats.csv
+Last Split Factor 2,--,BATRA,Div_Split_Stats.csv
+Payout Ratio 4,0.00%,BATRA,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,0.00,BATRA,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,0.00%,BATRA,Div_Split_Stats.csv
+Diluted EPS (ttm),-2.03,BATRA,Income_Statement_Stats.csv
+EBITDA,22.62M,BATRA,Income_Statement_Stats.csv
+Gross Profit (ttm),--,BATRA,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),-125.29M,BATRA,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),--,BATRA,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),-4.90%,BATRA,Income_Statement_Stats.csv
+Revenue (ttm),640.67M,BATRA,Income_Statement_Stats.csv
+Revenue Per Share (ttm),10.38,BATRA,Income_Statement_Stats.csv
+Return on Assets (ttm),-1.82%,BATRA,Management_Effect_Stats.csv
+Return on Equity (ttm),-29.83%,BATRA,Management_Effect_Stats.csv
+Operating Margin (ttm),-44.51%,BATRA,Profitability_Stats.csv
+Profit Margin,-19.56%,BATRA,Profitability_Stats.csv
+% Held by Insiders 1,2.77%,BATRA,Share_Stats.csv
+% Held by Institutions 1,74.76%,BATRA,Share_Stats.csv
+Avg Vol (10 day) 3,19.27k,BATRA,Share_Stats.csv
+Avg Vol (3 month) 3,26.79k,BATRA,Share_Stats.csv
+Float 8,47.19M,BATRA,Share_Stats.csv
+Implied Shares Outstanding 6,58.43M,BATRA,Share_Stats.csv
+Shares Outstanding 5,10.32M,BATRA,Share_Stats.csv
+Shares Short (4/15/2024) 4,204.96k,BATRA,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,208.46k,BATRA,Share_Stats.csv
+Short % of Float (4/15/2024) 4,2.58%,BATRA,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,0.33%,BATRA,Share_Stats.csv
+Short Ratio (4/15/2024) 4,7.44,BATRA,Share_Stats.csv
+Book Value Per Share (mrq),30.53,BZ,Balance_Sheet_Stats.csv
+Current Ratio (mrq),3.07,BZ,Balance_Sheet_Stats.csv
+Total Cash (mrq),12.97B,BZ,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),14.74,BZ,Balance_Sheet_Stats.csv
+Total Debt (mrq),280.09M,BZ,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),2.09%,BZ,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),2.36B,BZ,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),3.05B,BZ,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,--,BZ,Div_Split_Stats.csv
+Dividend Date 3,12/21/2023,BZ,Div_Split_Stats.csv
+Ex-Dividend Date 4,12/4/2023,BZ,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,--,BZ,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,--,BZ,Div_Split_Stats.csv
+Last Split Date 3,--,BZ,Div_Split_Stats.csv
+Last Split Factor 2,--,BZ,Div_Split_Stats.csv
+Payout Ratio 4,0.00%,BZ,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,0.00,BZ,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,0.00%,BZ,Div_Split_Stats.csv
+Diluted EPS (ttm),0.34,BZ,Income_Statement_Stats.csv
+EBITDA,839.72M,BZ,Income_Statement_Stats.csv
+Gross Profit (ttm),--,BZ,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),1.1B,BZ,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),--,BZ,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),46.00%,BZ,Income_Statement_Stats.csv
+Revenue (ttm),5.95B,BZ,Income_Statement_Stats.csv
+Revenue Per Share (ttm),13.68,BZ,Income_Statement_Stats.csv
+Return on Assets (ttm),2.22%,BZ,Management_Effect_Stats.csv
+Return on Equity (ttm),8.77%,BZ,Management_Effect_Stats.csv
+Operating Margin (ttm),14.06%,BZ,Profitability_Stats.csv
+Profit Margin,18.47%,BZ,Profitability_Stats.csv
+% Held by Insiders 1,0.06%,BZ,Share_Stats.csv
+% Held by Institutions 1,65.88%,BZ,Share_Stats.csv
+Avg Vol (10 day) 3,4.67M,BZ,Share_Stats.csv
+Avg Vol (3 month) 3,3.8M,BZ,Share_Stats.csv
+Float 8,656.58M,BZ,Share_Stats.csv
+Implied Shares Outstanding 6,437.04M,BZ,Share_Stats.csv
+Shares Outstanding 5,443.9M,BZ,Share_Stats.csv
+Shares Short (4/15/2024) 4,13.36M,BZ,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,15.15M,BZ,Share_Stats.csv
+Short % of Float (4/15/2024) 4,--,BZ,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,2.91%,BZ,Share_Stats.csv
+Short Ratio (4/15/2024) 4,3.37,BZ,Share_Stats.csv
+Book Value Per Share (mrq),20.98,CMCSA,Balance_Sheet_Stats.csv
+Current Ratio (mrq),0.60,CMCSA,Balance_Sheet_Stats.csv
+Total Cash (mrq),6.51B,CMCSA,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),1.66,CMCSA,Balance_Sheet_Stats.csv
+Total Debt (mrq),96.57B,CMCSA,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),115.95%,CMCSA,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),23B,CMCSA,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),29.12B,CMCSA,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,2.26,CMCSA,Div_Split_Stats.csv
+Dividend Date 3,4/24/2024,CMCSA,Div_Split_Stats.csv
+Ex-Dividend Date 4,4/2/2024,CMCSA,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,1.24,CMCSA,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,3.22%,CMCSA,Div_Split_Stats.csv
+Last Split Date 3,2/21/2017,CMCSA,Div_Split_Stats.csv
+Last Split Factor 2,2:1,CMCSA,Div_Split_Stats.csv
+Payout Ratio 4,31.30%,CMCSA,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,1.18,CMCSA,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,3.07%,CMCSA,Div_Split_Stats.csv
+Diluted EPS (ttm),3.77,CMCSA,Income_Statement_Stats.csv
+EBITDA,37.59B,CMCSA,Income_Statement_Stats.csv
+Gross Profit (ttm),--,CMCSA,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),15.41B,CMCSA,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),0.60%,CMCSA,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),1.20%,CMCSA,Income_Statement_Stats.csv
+Revenue (ttm),121.94B,CMCSA,Income_Statement_Stats.csv
+Revenue Per Share (ttm),30.04,CMCSA,Income_Statement_Stats.csv
+Return on Assets (ttm),5.61%,CMCSA,Management_Effect_Stats.csv
+Return on Equity (ttm),18.13%,CMCSA,Management_Effect_Stats.csv
+Operating Margin (ttm),19.33%,CMCSA,Profitability_Stats.csv
+Profit Margin,12.64%,CMCSA,Profitability_Stats.csv
+% Held by Insiders 1,0.69%,CMCSA,Share_Stats.csv
+% Held by Institutions 1,89.24%,CMCSA,Share_Stats.csv
+Avg Vol (10 day) 3,22.88M,CMCSA,Share_Stats.csv
+Avg Vol (3 month) 3,22.07M,CMCSA,Share_Stats.csv
+Float 8,3.88B,CMCSA,Share_Stats.csv
+Implied Shares Outstanding 6,3.92B,CMCSA,Share_Stats.csv
+Shares Outstanding 5,3.91B,CMCSA,Share_Stats.csv
+Shares Short (4/15/2024) 4,53.51M,CMCSA,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,48.24M,CMCSA,Share_Stats.csv
+Short % of Float (4/15/2024) 4,1.38%,CMCSA,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,1.36%,CMCSA,Share_Stats.csv
+Short Ratio (4/15/2024) 4,2.35,CMCSA,Share_Stats.csv
+Book Value Per Share (mrq),68.06,COOP,Balance_Sheet_Stats.csv
+Current Ratio (mrq),4.26,COOP,Balance_Sheet_Stats.csv
+Total Cash (mrq),578M,COOP,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),8.93,COOP,Balance_Sheet_Stats.csv
+Total Debt (mrq),9.08B,COOP,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),206.13%,COOP,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),-773.88M,COOP,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),764M,COOP,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,--,COOP,Div_Split_Stats.csv
+Dividend Date 3,10/11/2018,COOP,Div_Split_Stats.csv
+Ex-Dividend Date 4,--,COOP,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,--,COOP,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,--,COOP,Div_Split_Stats.csv
+Last Split Date 3,10/11/2018,COOP,Div_Split_Stats.csv
+Last Split Factor 2,1:12,COOP,Div_Split_Stats.csv
+Payout Ratio 4,0.00%,COOP,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,0.00,COOP,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,0.00%,COOP,Div_Split_Stats.csv
+Diluted EPS (ttm),9.51,COOP,Income_Statement_Stats.csv
+EBITDA,933M,COOP,Income_Statement_Stats.csv
+Gross Profit (ttm),--,COOP,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),644M,COOP,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),389.20%,COOP,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),70.90%,COOP,Income_Statement_Stats.csv
+Revenue (ttm),2.03B,COOP,Income_Statement_Stats.csv
+Revenue Per Share (ttm),30.74,COOP,Income_Statement_Stats.csv
+Return on Assets (ttm),3.84%,COOP,Management_Effect_Stats.csv
+Return on Equity (ttm),15.35%,COOP,Management_Effect_Stats.csv
+Operating Margin (ttm),45.92%,COOP,Profitability_Stats.csv
+Profit Margin,31.76%,COOP,Profitability_Stats.csv
+% Held by Insiders 1,3.61%,COOP,Share_Stats.csv
+% Held by Institutions 1,90.38%,COOP,Share_Stats.csv
+Avg Vol (10 day) 3,507.91k,COOP,Share_Stats.csv
+Avg Vol (3 month) 3,490.44k,COOP,Share_Stats.csv
+Float 8,62.48M,COOP,Share_Stats.csv
+Implied Shares Outstanding 6,64.72M,COOP,Share_Stats.csv
+Shares Outstanding 5,64.72M,COOP,Share_Stats.csv
+Shares Short (4/15/2024) 4,1.65M,COOP,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,1.53M,COOP,Share_Stats.csv
+Short % of Float (4/15/2024) 4,3.73%,COOP,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,2.56%,COOP,Share_Stats.csv
+Short Ratio (4/15/2024) 4,3.59,COOP,Share_Stats.csv
+Book Value Per Share (mrq),17.39,DAL,Balance_Sheet_Stats.csv
+Current Ratio (mrq),0.41,DAL,Balance_Sheet_Stats.csv
+Total Cash (mrq),4.47B,DAL,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),6.97,DAL,Balance_Sheet_Stats.csv
+Total Debt (mrq),27.41B,DAL,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),245.80%,DAL,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),-573.88M,DAL,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),6.64B,DAL,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,2.30,DAL,Div_Split_Stats.csv
+Dividend Date 3,6/4/2024,DAL,Div_Split_Stats.csv
+Ex-Dividend Date 4,5/13/2024,DAL,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,0.4,DAL,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,0.76%,DAL,Div_Split_Stats.csv
+Last Split Date 3,--,DAL,Div_Split_Stats.csv
+Last Split Factor 2,--,DAL,Div_Split_Stats.csv
+Payout Ratio 4,3.85%,DAL,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,0.40,DAL,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,0.76%,DAL,Div_Split_Stats.csv
+Diluted EPS (ttm),7.80,DAL,Income_Statement_Stats.csv
+EBITDA,8.18B,DAL,Income_Statement_Stats.csv
+Gross Profit (ttm),--,DAL,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),5.01B,DAL,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),--,DAL,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),7.80%,DAL,Income_Statement_Stats.csv
+Revenue (ttm),59.04B,DAL,Income_Statement_Stats.csv
+Revenue Per Share (ttm),92.35,DAL,Income_Statement_Stats.csv
+Return on Assets (ttm),5.17%,DAL,Management_Effect_Stats.csv
+Return on Equity (ttm),57.54%,DAL,Management_Effect_Stats.csv
+Operating Margin (ttm),4.12%,DAL,Profitability_Stats.csv
+Profit Margin,8.48%,DAL,Profitability_Stats.csv
+% Held by Insiders 1,0.30%,DAL,Share_Stats.csv
+% Held by Institutions 1,71.06%,DAL,Share_Stats.csv
+Avg Vol (10 day) 3,10.09M,DAL,Share_Stats.csv
+Avg Vol (3 month) 3,10.06M,DAL,Share_Stats.csv
+Float 8,638M,DAL,Share_Stats.csv
+Implied Shares Outstanding 6,645.31M,DAL,Share_Stats.csv
+Shares Outstanding 5,645.31M,DAL,Share_Stats.csv
+Shares Short (4/15/2024) 4,18.86M,DAL,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,16.1M,DAL,Share_Stats.csv
+Short % of Float (4/15/2024) 4,3.30%,DAL,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,2.92%,DAL,Share_Stats.csv
+Short Ratio (4/15/2024) 4,1.63,DAL,Share_Stats.csv
+Book Value Per Share (mrq),72.12,DHI,Balance_Sheet_Stats.csv
+Current Ratio (mrq),5.70,DHI,Balance_Sheet_Stats.csv
+Total Cash (mrq),2.75B,DHI,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),8.34,DHI,Balance_Sheet_Stats.csv
+Total Debt (mrq),5.99B,DHI,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),24.64%,DHI,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),1.24B,DHI,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),2.36B,DHI,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,1.02,DHI,Div_Split_Stats.csv
+Dividend Date 3,5/9/2024,DHI,Div_Split_Stats.csv
+Ex-Dividend Date 4,5/1/2024,DHI,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,1.2,DHI,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,0.79%,DHI,Div_Split_Stats.csv
+Last Split Date 3,3/17/2005,DHI,Div_Split_Stats.csv
+Last Split Factor 2,4:3,DHI,Div_Split_Stats.csv
+Payout Ratio 4,7.50%,DHI,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,1.10,DHI,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,0.73%,DHI,Div_Split_Stats.csv
+Diluted EPS (ttm),14.66,DHI,Income_Statement_Stats.csv
+EBITDA,6.52B,DHI,Income_Statement_Stats.csv
+Gross Profit (ttm),--,DHI,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),4.96B,DHI,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),24.40%,DHI,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),14.20%,DHI,Income_Statement_Stats.csv
+Revenue (ttm),37.06B,DHI,Income_Statement_Stats.csv
+Revenue Per Share (ttm),110.59,DHI,Income_Statement_Stats.csv
+Return on Assets (ttm),12.27%,DHI,Management_Effect_Stats.csv
+Return on Equity (ttm),22.09%,DHI,Management_Effect_Stats.csv
+Operating Margin (ttm),16.35%,DHI,Profitability_Stats.csv
+Profit Margin,13.39%,DHI,Profitability_Stats.csv
+% Held by Insiders 1,9.97%,DHI,Share_Stats.csv
+% Held by Institutions 1,85.15%,DHI,Share_Stats.csv
+Avg Vol (10 day) 3,2.16M,DHI,Share_Stats.csv
+Avg Vol (3 month) 3,2.37M,DHI,Share_Stats.csv
+Float 8,320.02M,DHI,Share_Stats.csv
+Implied Shares Outstanding 6,329.31M,DHI,Share_Stats.csv
+Shares Outstanding 5,329.31M,DHI,Share_Stats.csv
+Shares Short (4/15/2024) 4,5.33M,DHI,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,4.67M,DHI,Share_Stats.csv
+Short % of Float (4/15/2024) 4,2.03%,DHI,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,1.61%,DHI,Share_Stats.csv
+Short Ratio (4/15/2024) 4,2.25,DHI,Share_Stats.csv
+Book Value Per Share (mrq),53.55,DIS,Balance_Sheet_Stats.csv
+Current Ratio (mrq),0.84,DIS,Balance_Sheet_Stats.csv
+Total Cash (mrq),7.19B,DIS,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),3.92,DIS,Balance_Sheet_Stats.csv
+Total Debt (mrq),47.69B,DIS,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),45.20%,DIS,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),7.35B,DIS,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),13.03B,DIS,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,1.38,DIS,Div_Split_Stats.csv
+Dividend Date 3,7/25/2024,DIS,Div_Split_Stats.csv
+Ex-Dividend Date 4,7/5/2024,DIS,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,0.9,DIS,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,0.77%,DIS,Div_Split_Stats.csv
+Last Split Date 3,6/13/2007,DIS,Div_Split_Stats.csv
+Last Split Factor 2,10000:9865,DIS,Div_Split_Stats.csv
+Payout Ratio 4,18.40%,DIS,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,0.30,DIS,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,0.26%,DIS,Div_Split_Stats.csv
+Diluted EPS (ttm),1.63,DIS,Income_Statement_Stats.csv
+EBITDA,15.59B,DIS,Income_Statement_Stats.csv
+Gross Profit (ttm),--,DIS,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),2.99B,DIS,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),49.40%,DIS,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),0.20%,DIS,Income_Statement_Stats.csv
+Revenue (ttm),88.93B,DIS,Income_Statement_Stats.csv
+Revenue Per Share (ttm),48.60,DIS,Income_Statement_Stats.csv
+Return on Assets (ttm),3.22%,DIS,Management_Effect_Stats.csv
+Return on Equity (ttm),3.90%,DIS,Management_Effect_Stats.csv
+Operating Margin (ttm),12.89%,DIS,Profitability_Stats.csv
+Profit Margin,3.36%,DIS,Profitability_Stats.csv
+% Held by Insiders 1,0.07%,DIS,Share_Stats.csv
+% Held by Institutions 1,67.83%,DIS,Share_Stats.csv
+Avg Vol (10 day) 3,7.94M,DIS,Share_Stats.csv
+Avg Vol (3 month) 3,11.13M,DIS,Share_Stats.csv
+Float 8,1.83B,DIS,Share_Stats.csv
+Implied Shares Outstanding 6,1.83B,DIS,Share_Stats.csv
+Shares Outstanding 5,1.83B,DIS,Share_Stats.csv
+Shares Short (4/15/2024) 4,20.06M,DIS,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,18.65M,DIS,Share_Stats.csv
+Short % of Float (4/15/2024) 4,1.09%,DIS,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,1.09%,DIS,Share_Stats.csv
+Short Ratio (4/15/2024) 4,1.78,DIS,Share_Stats.csv
+Book Value Per Share (mrq),23.41,EDU,Balance_Sheet_Stats.csv
+Current Ratio (mrq),1.95,EDU,Balance_Sheet_Stats.csv
+Total Cash (mrq),4.57B,EDU,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),2.76,EDU,Balance_Sheet_Stats.csv
+Total Debt (mrq),564.01M,EDU,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),13.59%,EDU,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),827.2M,EDU,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),1.17B,EDU,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,--,EDU,Div_Split_Stats.csv
+Dividend Date 3,10/6/2017,EDU,Div_Split_Stats.csv
+Ex-Dividend Date 4,9/1/2017,EDU,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,--,EDU,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,--,EDU,Div_Split_Stats.csv
+Last Split Date 3,4/8/2022,EDU,Div_Split_Stats.csv
+Last Split Factor 2,1:10,EDU,Div_Split_Stats.csv
+Payout Ratio 4,0.00%,EDU,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,0.00,EDU,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,0.00%,EDU,Div_Split_Stats.csv
+Diluted EPS (ttm),1.80,EDU,Income_Statement_Stats.csv
+EBITDA,456.86M,EDU,Income_Statement_Stats.csv
+Gross Profit (ttm),--,EDU,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),311.58M,EDU,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),6.80%,EDU,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),60.10%,EDU,Income_Statement_Stats.csv
+Revenue (ttm),4.04B,EDU,Income_Statement_Stats.csv
+Revenue Per Share (ttm),24.42,EDU,Income_Statement_Stats.csv
+Return on Assets (ttm),3.63%,EDU,Management_Effect_Stats.csv
+Return on Equity (ttm),8.39%,EDU,Management_Effect_Stats.csv
+Operating Margin (ttm),9.40%,EDU,Profitability_Stats.csv
+Profit Margin,7.72%,EDU,Profitability_Stats.csv
+% Held by Insiders 1,2.04%,EDU,Share_Stats.csv
+% Held by Institutions 1,41.91%,EDU,Share_Stats.csv
+Avg Vol (10 day) 3,3.56M,EDU,Share_Stats.csv
+Avg Vol (3 month) 3,1.78M,EDU,Share_Stats.csv
+Float 8,1.44B,EDU,Share_Stats.csv
+Implied Shares Outstanding 6,165.51M,EDU,Share_Stats.csv
+Shares Outstanding 5,165.51M,EDU,Share_Stats.csv
+Shares Short (4/15/2024) 4,4.28M,EDU,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,4.7M,EDU,Share_Stats.csv
+Short % of Float (4/15/2024) 4,--,EDU,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,2.77%,EDU,Share_Stats.csv
+Short Ratio (4/15/2024) 4,3.7,EDU,Share_Stats.csv
+Book Value Per Share (mrq),10.74,F,Balance_Sheet_Stats.csv
+Current Ratio (mrq),1.17,F,Balance_Sheet_Stats.csv
+Total Cash (mrq),24.9B,F,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),6.24,F,Balance_Sheet_Stats.csv
+Total Debt (mrq),151.42B,F,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),352.99%,F,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),-1.76B,F,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),13.5B,F,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,5.76,F,Div_Split_Stats.csv
+Dividend Date 3,6/3/2024,F,Div_Split_Stats.csv
+Ex-Dividend Date 4,5/7/2024,F,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,0.6,F,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,4.80%,F,Div_Split_Stats.csv
+Last Split Date 3,8/3/2000,F,Div_Split_Stats.csv
+Last Split Factor 2,1748175:1000000,F,Div_Split_Stats.csv
+Payout Ratio 4,61.86%,F,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,0.60,F,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,4.86%,F,Div_Split_Stats.csv
+Diluted EPS (ttm),0.97,F,Income_Statement_Stats.csv
+EBITDA,11.08B,F,Income_Statement_Stats.csv
+Gross Profit (ttm),--,F,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),3.92B,F,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),-24.20%,F,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),3.10%,F,Income_Statement_Stats.csv
+Revenue (ttm),177.49B,F,Income_Statement_Stats.csv
+Revenue Per Share (ttm),44.43,F,Income_Statement_Stats.csv
+Return on Assets (ttm),1.12%,F,Management_Effect_Stats.csv
+Return on Equity (ttm),9.40%,F,Management_Effect_Stats.csv
+Operating Margin (ttm),3.13%,F,Profitability_Stats.csv
+Profit Margin,2.21%,F,Profitability_Stats.csv
+% Held by Insiders 1,0.28%,F,Share_Stats.csv
+% Held by Institutions 1,56.65%,F,Share_Stats.csv
+Avg Vol (10 day) 3,58.05M,F,Share_Stats.csv
+Avg Vol (3 month) 3,50.98M,F,Share_Stats.csv
+Float 8,3.91B,F,Share_Stats.csv
+Implied Shares Outstanding 6,3.99B,F,Share_Stats.csv
+Shares Outstanding 5,3.92B,F,Share_Stats.csv
+Shares Short (4/15/2024) 4,139.02M,F,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,144.76M,F,Share_Stats.csv
+Short % of Float (4/15/2024) 4,3.87%,F,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,3.50%,F,Share_Stats.csv
+Short Ratio (4/15/2024) 4,2.77,F,Share_Stats.csv
+Book Value Per Share (mrq),60.54,GM,Balance_Sheet_Stats.csv
+Current Ratio (mrq),1.16,GM,Balance_Sheet_Stats.csv
+Total Cash (mrq),20.48B,GM,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),17.95,GM,Balance_Sheet_Stats.csv
+Total Debt (mrq),124.62B,GM,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),176.52%,GM,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),-2B,GM,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),21B,GM,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,4.06,GM,Div_Split_Stats.csv
+Dividend Date 3,6/20/2024,GM,Div_Split_Stats.csv
+Ex-Dividend Date 4,6/7/2024,GM,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,0.48,GM,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,1.07%,GM,Div_Split_Stats.csv
+Last Split Date 3,--,GM,Div_Split_Stats.csv
+Last Split Factor 2,--,GM,Div_Split_Stats.csv
+Payout Ratio 4,4.76%,GM,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,0.39,GM,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,0.87%,GM,Div_Split_Stats.csv
+Diluted EPS (ttm),8.19,GM,Income_Statement_Stats.csv
+EBITDA,16.88B,GM,Income_Statement_Stats.csv
+Gross Profit (ttm),--,GM,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),10.62B,GM,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),24.40%,GM,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),7.60%,GM,Income_Statement_Stats.csv
+Revenue (ttm),174.87B,GM,Income_Statement_Stats.csv
+Revenue Per Share (ttm),134.13,GM,Income_Statement_Stats.csv
+Return on Assets (ttm),2.47%,GM,Management_Effect_Stats.csv
+Return on Equity (ttm),14.43%,GM,Management_Effect_Stats.csv
+Operating Margin (ttm),8.88%,GM,Profitability_Stats.csv
+Profit Margin,6.13%,GM,Profitability_Stats.csv
+% Held by Insiders 1,0.33%,GM,Share_Stats.csv
+% Held by Institutions 1,98.29%,GM,Share_Stats.csv
+Avg Vol (10 day) 3,14.49M,GM,Share_Stats.csv
+Avg Vol (3 month) 3,15.91M,GM,Share_Stats.csv
+Float 8,1.14B,GM,Share_Stats.csv
+Implied Shares Outstanding 6,1.14B,GM,Share_Stats.csv
+Shares Outstanding 5,1.14B,GM,Share_Stats.csv
+Shares Short (4/15/2024) 4,62.76M,GM,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,82.52M,GM,Share_Stats.csv
+Short % of Float (4/15/2024) 4,6.28%,GM,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,5.50%,GM,Share_Stats.csv
+Short Ratio (4/15/2024) 4,3.62,GM,Share_Stats.csv
+Book Value Per Share (mrq),60.58,LI,Balance_Sheet_Stats.csv
+Current Ratio (mrq),1.57,LI,Balance_Sheet_Stats.csv
+Total Cash (mrq),103.26B,LI,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),52,LI,Balance_Sheet_Stats.csv
+Total Debt (mrq),13.55B,LI,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),22.36%,LI,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),39.81B,LI,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),50.69B,LI,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,--,LI,Div_Split_Stats.csv
+Dividend Date 3,--,LI,Div_Split_Stats.csv
+Ex-Dividend Date 4,--,LI,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,--,LI,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,--,LI,Div_Split_Stats.csv
+Last Split Date 3,--,LI,Div_Split_Stats.csv
+Last Split Factor 2,--,LI,Div_Split_Stats.csv
+Payout Ratio 4,0.00%,LI,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,0.00,LI,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,0.00%,LI,Div_Split_Stats.csv
+Diluted EPS (ttm),1.53,LI,Income_Statement_Stats.csv
+EBITDA,9.21B,LI,Income_Statement_Stats.csv
+Gross Profit (ttm),--,LI,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),11.7B,LI,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),"2,102.10%",LI,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),136.40%,LI,Income_Statement_Stats.csv
+Revenue (ttm),123.85B,LI,Income_Statement_Stats.csv
+Revenue Per Share (ttm),125.87,LI,Income_Statement_Stats.csv
+Return on Assets (ttm),4.02%,LI,Management_Effect_Stats.csv
+Return on Equity (ttm),22.33%,LI,Management_Effect_Stats.csv
+Operating Margin (ttm),7.28%,LI,Profitability_Stats.csv
+Profit Margin,9.45%,LI,Profitability_Stats.csv
+% Held by Insiders 1,0.02%,LI,Share_Stats.csv
+% Held by Institutions 1,11.41%,LI,Share_Stats.csv
+Avg Vol (10 day) 3,10.35M,LI,Share_Stats.csv
+Avg Vol (3 month) 3,8.61M,LI,Share_Stats.csv
+Float 8,1.09B,LI,Share_Stats.csv
+Implied Shares Outstanding 6,1.02B,LI,Share_Stats.csv
+Shares Outstanding 5,992.83M,LI,Share_Stats.csv
+Shares Short (4/15/2024) 4,26.34M,LI,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,29.15M,LI,Share_Stats.csv
+Short % of Float (4/15/2024) 4,--,LI,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,2.65%,LI,Share_Stats.csv
+Short Ratio (4/15/2024) 4,2.83,LI,Share_Stats.csv
+Book Value Per Share (mrq),17.04,LUV,Balance_Sheet_Stats.csv
+Current Ratio (mrq),1.09,LUV,Balance_Sheet_Stats.csv
+Total Cash (mrq),10.51B,LUV,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),17.57,LUV,Balance_Sheet_Stats.csv
+Total Debt (mrq),9.16B,LUV,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),89.85%,LUV,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),-349M,LUV,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),2.35B,LUV,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,1.03,LUV,Div_Split_Stats.csv
+Dividend Date 3,3/27/2024,LUV,Div_Split_Stats.csv
+Ex-Dividend Date 4,3/5/2024,LUV,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,0.72,LUV,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,2.63%,LUV,Div_Split_Stats.csv
+Last Split Date 3,2/16/2001,LUV,Div_Split_Stats.csv
+Last Split Factor 2,3:2,LUV,Div_Split_Stats.csv
+Payout Ratio 4,112.50%,LUV,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,0.72,LUV,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,2.63%,LUV,Div_Split_Stats.csv
+Diluted EPS (ttm),0.64,LUV,Income_Statement_Stats.csv
+EBITDA,2.09B,LUV,Income_Statement_Stats.csv
+Gross Profit (ttm),--,LUV,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),393M,LUV,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),--,LUV,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),10.90%,LUV,Income_Statement_Stats.csv
+Revenue (ttm),26.71B,LUV,Income_Statement_Stats.csv
+Revenue Per Share (ttm),44.84,LUV,Income_Statement_Stats.csv
+Return on Assets (ttm),1.35%,LUV,Management_Effect_Stats.csv
+Return on Equity (ttm),3.84%,LUV,Management_Effect_Stats.csv
+Operating Margin (ttm),-6.21%,LUV,Profitability_Stats.csv
+Profit Margin,1.47%,LUV,Profitability_Stats.csv
+% Held by Insiders 1,0.32%,LUV,Share_Stats.csv
+% Held by Institutions 1,80.96%,LUV,Share_Stats.csv
+Avg Vol (10 day) 3,14.84M,LUV,Share_Stats.csv
+Avg Vol (3 month) 3,9.38M,LUV,Share_Stats.csv
+Float 8,595.6M,LUV,Share_Stats.csv
+Implied Shares Outstanding 6,598.46M,LUV,Share_Stats.csv
+Shares Outstanding 5,598.46M,LUV,Share_Stats.csv
+Shares Short (4/15/2024) 4,19.42M,LUV,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,17.69M,LUV,Share_Stats.csv
+Short % of Float (4/15/2024) 4,4.12%,LUV,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,3.25%,LUV,Share_Stats.csv
+Short Ratio (4/15/2024) 4,2.41,LUV,Share_Stats.csv
+Book Value Per Share (mrq),24.34,MPNGY,Balance_Sheet_Stats.csv
+Current Ratio (mrq),1.82,MPNGY,Balance_Sheet_Stats.csv
+Total Cash (mrq),145.16B,MPNGY,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),23.25,MPNGY,Balance_Sheet_Stats.csv
+Total Debt (mrq),60.62B,MPNGY,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),39.89%,MPNGY,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),29.76B,MPNGY,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),40.52B,MPNGY,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,--,MPNGY,Div_Split_Stats.csv
+Dividend Date 3,--,MPNGY,Div_Split_Stats.csv
+Ex-Dividend Date 4,--,MPNGY,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,--,MPNGY,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,--,MPNGY,Div_Split_Stats.csv
+Last Split Date 3,--,MPNGY,Div_Split_Stats.csv
+Last Split Factor 2,--,MPNGY,Div_Split_Stats.csv
+Payout Ratio 4,0.00%,MPNGY,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,0.00,MPNGY,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,0.00%,MPNGY,Div_Split_Stats.csv
+Diluted EPS (ttm),0.58,MPNGY,Income_Statement_Stats.csv
+EBITDA,14.05B,MPNGY,Income_Statement_Stats.csv
+Gross Profit (ttm),--,MPNGY,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),13.86B,MPNGY,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),--,MPNGY,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),22.60%,MPNGY,Income_Statement_Stats.csv
+Revenue (ttm),276.74B,MPNGY,Income_Statement_Stats.csv
+Revenue Per Share (ttm),89.09,MPNGY,Income_Statement_Stats.csv
+Return on Assets (ttm),2.09%,MPNGY,Management_Effect_Stats.csv
+Return on Equity (ttm),9.88%,MPNGY,Management_Effect_Stats.csv
+Operating Margin (ttm),-0.30%,MPNGY,Profitability_Stats.csv
+Profit Margin,5.01%,MPNGY,Profitability_Stats.csv
+% Held by Insiders 1,0.00%,MPNGY,Share_Stats.csv
+% Held by Institutions 1,0.01%,MPNGY,Share_Stats.csv
+Avg Vol (10 day) 3,362.49k,MPNGY,Share_Stats.csv
+Avg Vol (3 month) 3,388.88k,MPNGY,Share_Stats.csv
+Float 8,5.38B,MPNGY,Share_Stats.csv
+Implied Shares Outstanding 6,3.16B,MPNGY,Share_Stats.csv
+Shares Outstanding 5,3.1B,MPNGY,Share_Stats.csv
+Shares Short (prior month ) 4,--,MPNGY,Share_Stats.csv
+Shares Short 4,--,MPNGY,Share_Stats.csv
+Short % of Float 4,--,MPNGY,Share_Stats.csv
+Short % of Shares Outstanding 4,--,MPNGY,Share_Stats.csv
+Short Ratio 4,--,MPNGY,Share_Stats.csv
+Book Value Per Share (mrq),136.09,PDD,Balance_Sheet_Stats.csv
+Current Ratio (mrq),1.93,PDD,Balance_Sheet_Stats.csv
+Total Cash (mrq),217.21B,PDD,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),39.1,PDD,Balance_Sheet_Stats.csv
+Total Debt (mrq),10.17B,PDD,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),5.43%,PDD,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),82.89B,PDD,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),94.16B,PDD,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,--,PDD,Div_Split_Stats.csv
+Dividend Date 3,--,PDD,Div_Split_Stats.csv
+Ex-Dividend Date 4,--,PDD,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,--,PDD,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,--,PDD,Div_Split_Stats.csv
+Last Split Date 3,--,PDD,Div_Split_Stats.csv
+Last Split Factor 2,--,PDD,Div_Split_Stats.csv
+Payout Ratio 4,0.00%,PDD,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,0.00,PDD,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,0.00%,PDD,Div_Split_Stats.csv
+Diluted EPS (ttm),5.68,PDD,Income_Statement_Stats.csv
+EBITDA,59.48B,PDD,Income_Statement_Stats.csv
+Gross Profit (ttm),--,PDD,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),60.03B,PDD,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),146.30%,PDD,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),123.20%,PDD,Income_Statement_Stats.csv
+Revenue (ttm),247.64B,PDD,Income_Statement_Stats.csv
+Revenue Per Share (ttm),182.89,PDD,Income_Statement_Stats.csv
+Return on Assets (ttm),12.54%,PDD,Management_Effect_Stats.csv
+Return on Equity (ttm),39.36%,PDD,Management_Effect_Stats.csv
+Operating Margin (ttm),25.20%,PDD,Profitability_Stats.csv
+Profit Margin,24.24%,PDD,Profitability_Stats.csv
+% Held by Insiders 1,0.00%,PDD,Share_Stats.csv
+% Held by Institutions 1,30.24%,PDD,Share_Stats.csv
+Avg Vol (10 day) 3,10.23M,PDD,Share_Stats.csv
+Avg Vol (3 month) 3,8.73M,PDD,Share_Stats.csv
+Float 8,2.99B,PDD,Share_Stats.csv
+Implied Shares Outstanding 6,1.33B,PDD,Share_Stats.csv
+Shares Outstanding 5,1.39B,PDD,Share_Stats.csv
+Shares Short (4/15/2024) 4,28.55M,PDD,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,23.77M,PDD,Share_Stats.csv
+Short % of Float (4/15/2024) 4,3.46%,PDD,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,2.06%,PDD,Share_Stats.csv
+Short Ratio (4/15/2024) 4,2.84,PDD,Share_Stats.csv
+Book Value Per Share (mrq),15.77,PFE,Balance_Sheet_Stats.csv
+Current Ratio (mrq),--,PFE,Balance_Sheet_Stats.csv
+Total Cash (mrq),12.69B,PFE,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),2.25,PFE,Balance_Sheet_Stats.csv
+Total Debt (mrq),75.33B,PFE,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),84.37%,PFE,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),--,PFE,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),--,PFE,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,4.02,PFE,Div_Split_Stats.csv
+Dividend Date 3,6/14/2024,PFE,Div_Split_Stats.csv
+Ex-Dividend Date 4,5/9/2024,PFE,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,1.68,PFE,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,5.97%,PFE,Div_Split_Stats.csv
+Last Split Date 3,11/17/2020,PFE,Div_Split_Stats.csv
+Last Split Factor 2,1054:1000,PFE,Div_Split_Stats.csv
+Payout Ratio 4,443.24%,PFE,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,1.65,PFE,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,5.86%,PFE,Div_Split_Stats.csv
+Diluted EPS (ttm),-0.05,PFE,Income_Statement_Stats.csv
+EBITDA,9.44B,PFE,Income_Statement_Stats.csv
+Gross Profit (ttm),--,PFE,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),-288M,PFE,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),-43.80%,PFE,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),-18.60%,PFE,Income_Statement_Stats.csv
+Revenue (ttm),54.89B,PFE,Income_Statement_Stats.csv
+Revenue Per Share (ttm),9.72,PFE,Income_Statement_Stats.csv
+Return on Assets (ttm),--,PFE,Management_Effect_Stats.csv
+Return on Equity (ttm),--,PFE,Management_Effect_Stats.csv
+Operating Margin (ttm),31.52%,PFE,Profitability_Stats.csv
+Profit Margin,-0.56%,PFE,Profitability_Stats.csv
+% Held by Insiders 1,0.05%,PFE,Share_Stats.csv
+% Held by Institutions 1,70.18%,PFE,Share_Stats.csv
+Avg Vol (10 day) 3,50.85M,PFE,Share_Stats.csv
+Avg Vol (3 month) 3,41.86M,PFE,Share_Stats.csv
+Float 8,5.64B,PFE,Share_Stats.csv
+Implied Shares Outstanding 6,5.66B,PFE,Share_Stats.csv
+Shares Outstanding 5,5.66B,PFE,Share_Stats.csv
+Shares Short (4/15/2024) 4,68.06M,PFE,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,71.65M,PFE,Share_Stats.csv
+Short % of Float (4/15/2024) 4,1.20%,PFE,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,1.20%,PFE,Share_Stats.csv
+Short Ratio (4/15/2024) 4,1.83,PFE,Share_Stats.csv
+Book Value Per Share (mrq),51.09,PHM,Balance_Sheet_Stats.csv
+Current Ratio (mrq),5.74,PHM,Balance_Sheet_Stats.csv
+Total Cash (mrq),1.72B,PHM,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),8.19,PHM,Balance_Sheet_Stats.csv
+Total Debt (mrq),2.59B,PHM,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),24.10%,PHM,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),1.42B,PHM,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),1.73B,PHM,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,1.11,PHM,Div_Split_Stats.csv
+Dividend Date 3,4/2/2024,PHM,Div_Split_Stats.csv
+Ex-Dividend Date 4,3/14/2024,PHM,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,0.8,PHM,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,0.68%,PHM,Div_Split_Stats.csv
+Last Split Date 3,9/2/2005,PHM,Div_Split_Stats.csv
+Last Split Factor 2,2:1,PHM,Div_Split_Stats.csv
+Payout Ratio 4,5.77%,PHM,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,0.72,PHM,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,0.61%,PHM,Div_Split_Stats.csv
+Diluted EPS (ttm),12.47,PHM,Income_Statement_Stats.csv
+EBITDA,3.63B,PHM,Income_Statement_Stats.csv
+Gross Profit (ttm),--,PHM,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),2.73B,PHM,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),24.60%,PHM,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),10.40%,PHM,Income_Statement_Stats.csv
+Revenue (ttm),16.44B,PHM,Income_Statement_Stats.csv
+Revenue Per Share (ttm),75.86,PHM,Income_Statement_Stats.csv
+Return on Assets (ttm),14.13%,PHM,Management_Effect_Stats.csv
+Return on Equity (ttm),27.30%,PHM,Management_Effect_Stats.csv
+Operating Margin (ttm),20.61%,PHM,Profitability_Stats.csv
+Profit Margin,16.63%,PHM,Profitability_Stats.csv
+% Held by Insiders 1,0.74%,PHM,Share_Stats.csv
+% Held by Institutions 1,93.23%,PHM,Share_Stats.csv
+Avg Vol (10 day) 3,1.86M,PHM,Share_Stats.csv
+Avg Vol (3 month) 3,1.75M,PHM,Share_Stats.csv
+Float 8,208.33M,PHM,Share_Stats.csv
+Implied Shares Outstanding 6,210.34M,PHM,Share_Stats.csv
+Shares Outstanding 5,210.34M,PHM,Share_Stats.csv
+Shares Short (4/15/2024) 4,4.67M,PHM,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,6.14M,PHM,Share_Stats.csv
+Short % of Float (4/15/2024) 4,2.87%,PHM,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,2.22%,PHM,Share_Stats.csv
+Short Ratio (4/15/2024) 4,2.76,PHM,Share_Stats.csv
+Book Value Per Share (mrq),19.66,PYPL,Balance_Sheet_Stats.csv
+Current Ratio (mrq),1.28,PYPL,Balance_Sheet_Stats.csv
+Total Cash (mrq),14.32B,PYPL,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),13.69,PYPL,Balance_Sheet_Stats.csv
+Total Debt (mrq),11.64B,PYPL,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),56.24%,PYPL,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),6.51B,PYPL,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),5.59B,PYPL,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,--,PYPL,Div_Split_Stats.csv
+Dividend Date 3,--,PYPL,Div_Split_Stats.csv
+Ex-Dividend Date 4,--,PYPL,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,--,PYPL,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,--,PYPL,Div_Split_Stats.csv
+Last Split Date 3,--,PYPL,Div_Split_Stats.csv
+Last Split Factor 2,--,PYPL,Div_Split_Stats.csv
+Payout Ratio 4,0.00%,PYPL,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,0.00,PYPL,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,0.00%,PYPL,Div_Split_Stats.csv
+Diluted EPS (ttm),3.97,PYPL,Income_Statement_Stats.csv
+EBITDA,5.66B,PYPL,Income_Statement_Stats.csv
+Gross Profit (ttm),--,PYPL,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),4.34B,PYPL,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),11.70%,PYPL,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),9.40%,PYPL,Income_Statement_Stats.csv
+Revenue (ttm),30.43B,PYPL,Income_Statement_Stats.csv
+Revenue Per Share (ttm),28.00,PYPL,Income_Statement_Stats.csv
+Return on Assets (ttm),3.95%,PYPL,Management_Effect_Stats.csv
+Return on Equity (ttm),21.40%,PYPL,Management_Effect_Stats.csv
+Operating Margin (ttm),17.95%,PYPL,Profitability_Stats.csv
+Profit Margin,14.26%,PYPL,Profitability_Stats.csv
+% Held by Insiders 1,0.21%,PYPL,Share_Stats.csv
+% Held by Institutions 1,74.36%,PYPL,Share_Stats.csv
+Avg Vol (10 day) 3,16.62M,PYPL,Share_Stats.csv
+Avg Vol (3 month) 3,14.82M,PYPL,Share_Stats.csv
+Float 8,1.04B,PYPL,Share_Stats.csv
+Implied Shares Outstanding 6,1.05B,PYPL,Share_Stats.csv
+Shares Outstanding 5,1.05B,PYPL,Share_Stats.csv
+Shares Short (4/15/2024) 4,20.97M,PYPL,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,22.95M,PYPL,Share_Stats.csv
+Short % of Float (4/15/2024) 4,1.99%,PYPL,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,1.99%,PYPL,Share_Stats.csv
+Short Ratio (4/15/2024) 4,1.94,PYPL,Share_Stats.csv
+Book Value Per Share (mrq),20.02,RCL,Balance_Sheet_Stats.csv
+Current Ratio (mrq),0.19,RCL,Balance_Sheet_Stats.csv
+Total Cash (mrq),437M,RCL,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),1.7,RCL,Balance_Sheet_Stats.csv
+Total Debt (mrq),21.18B,RCL,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),397.84%,RCL,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),-318.88M,RCL,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),4.5B,RCL,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,2.52,RCL,Div_Split_Stats.csv
+Dividend Date 3,4/6/2020,RCL,Div_Split_Stats.csv
+Ex-Dividend Date 4,3/5/2020,RCL,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,--,RCL,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,--,RCL,Div_Split_Stats.csv
+Last Split Date 3,8/3/1998,RCL,Div_Split_Stats.csv
+Last Split Factor 2,2:1,RCL,Div_Split_Stats.csv
+Payout Ratio 4,0.00%,RCL,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,0.00,RCL,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,0.00%,RCL,Div_Split_Stats.csv
+Diluted EPS (ttm),7.85,RCL,Income_Statement_Stats.csv
+EBITDA,4.85B,RCL,Income_Statement_Stats.csv
+Gross Profit (ttm),--,RCL,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),2.1B,RCL,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),--,RCL,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),29.20%,RCL,Income_Statement_Stats.csv
+Revenue (ttm),14.74B,RCL,Income_Statement_Stats.csv
+Revenue Per Share (ttm),57.47,RCL,Income_Statement_Stats.csv
+Return on Assets (ttm),6.19%,RCL,Management_Effect_Stats.csv
+Return on Equity (ttm),50.68%,RCL,Management_Effect_Stats.csv
+Operating Margin (ttm),20.12%,RCL,Profitability_Stats.csv
+Profit Margin,14.28%,RCL,Profitability_Stats.csv
+% Held by Insiders 1,7.92%,RCL,Share_Stats.csv
+% Held by Institutions 1,81.17%,RCL,Share_Stats.csv
+Avg Vol (10 day) 3,3.11M,RCL,Share_Stats.csv
+Avg Vol (3 month) 3,2.8M,RCL,Share_Stats.csv
+Float 8,241.42M,RCL,Share_Stats.csv
+Implied Shares Outstanding 6,257.35M,RCL,Share_Stats.csv
+Shares Outstanding 5,257.35M,RCL,Share_Stats.csv
+Shares Short (4/15/2024) 4,15.05M,RCL,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,15.68M,RCL,Share_Stats.csv
+Short % of Float (4/15/2024) 4,8.54%,RCL,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,5.85%,RCL,Share_Stats.csv
+Short Ratio (4/15/2024) 4,5.41,RCL,Share_Stats.csv
+Book Value Per Share (mrq),86.26,TCEHY,Balance_Sheet_Stats.csv
+Current Ratio (mrq),1.47,TCEHY,Balance_Sheet_Stats.csv
+Total Cash (mrq),379.15B,TCEHY,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),40.45,TCEHY,Balance_Sheet_Stats.csv
+Total Debt (mrq),371.24B,TCEHY,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),42.49%,TCEHY,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),147.51B,TCEHY,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),221.96B,TCEHY,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,0.43,TCEHY,Div_Split_Stats.csv
+Dividend Date 3,6/17/2024,TCEHY,Div_Split_Stats.csv
+Ex-Dividend Date 4,5/17/2024,TCEHY,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,0.43,TCEHY,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,0.92%,TCEHY,Div_Split_Stats.csv
+Last Split Date 3,5/20/2014,TCEHY,Div_Split_Stats.csv
+Last Split Factor 2,5:1,TCEHY,Div_Split_Stats.csv
+Payout Ratio 4,18.20%,TCEHY,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,3.09,TCEHY,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,6.51%,TCEHY,Div_Split_Stats.csv
+Diluted EPS (ttm),1.64,TCEHY,Income_Statement_Stats.csv
+EBITDA,183.94B,TCEHY,Income_Statement_Stats.csv
+Gross Profit (ttm),--,TCEHY,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),115.22B,TCEHY,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),-74.60%,TCEHY,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),7.10%,TCEHY,Income_Statement_Stats.csv
+Revenue (ttm),609.01B,TCEHY,Income_Statement_Stats.csv
+Revenue Per Share (ttm),64.41,TCEHY,Income_Statement_Stats.csv
+Return on Assets (ttm),6.45%,TCEHY,Management_Effect_Stats.csv
+Return on Equity (ttm),14.25%,TCEHY,Management_Effect_Stats.csv
+Operating Margin (ttm),29.49%,TCEHY,Profitability_Stats.csv
+Profit Margin,18.92%,TCEHY,Profitability_Stats.csv
+% Held by Insiders 1,0.00%,TCEHY,Share_Stats.csv
+% Held by Institutions 1,0.09%,TCEHY,Share_Stats.csv
+Avg Vol (10 day) 3,2.96M,TCEHY,Share_Stats.csv
+Avg Vol (3 month) 3,2.61M,TCEHY,Share_Stats.csv
+Float 8,6.27B,TCEHY,Share_Stats.csv
+Implied Shares Outstanding 6,9.47B,TCEHY,Share_Stats.csv
+Shares Outstanding 5,9.42B,TCEHY,Share_Stats.csv
+Shares Short (prior month ) 4,--,TCEHY,Share_Stats.csv
+Shares Short 4,--,TCEHY,Share_Stats.csv
+Short % of Float 4,--,TCEHY,Share_Stats.csv
+Short % of Shares Outstanding 4,--,TCEHY,Share_Stats.csv
+Short Ratio 4,--,TCEHY,Share_Stats.csv
+Book Value Per Share (mrq),20.19,TSLA,Balance_Sheet_Stats.csv
+Current Ratio (mrq),1.72,TSLA,Balance_Sheet_Stats.csv
+Total Cash (mrq),26.86B,TSLA,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),8.42,TSLA,Balance_Sheet_Stats.csv
+Total Debt (mrq),9.91B,TSLA,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),15.21%,TSLA,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),-633.12M,TSLA,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),10.98B,TSLA,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,--,TSLA,Div_Split_Stats.csv
+Dividend Date 3,--,TSLA,Div_Split_Stats.csv
+Ex-Dividend Date 4,--,TSLA,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,--,TSLA,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,--,TSLA,Div_Split_Stats.csv
+Last Split Date 3,8/25/2022,TSLA,Div_Split_Stats.csv
+Last Split Factor 2,3:1,TSLA,Div_Split_Stats.csv
+Payout Ratio 4,0.00%,TSLA,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,0.00,TSLA,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,0.00%,TSLA,Div_Split_Stats.csv
+Diluted EPS (ttm),3.92,TSLA,Income_Statement_Stats.csv
+EBITDA,12.26B,TSLA,Income_Statement_Stats.csv
+Gross Profit (ttm),--,TSLA,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),13.65B,TSLA,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),-55.10%,TSLA,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),-8.70%,TSLA,Income_Statement_Stats.csv
+Revenue (ttm),94.75B,TSLA,Income_Statement_Stats.csv
+Revenue Per Share (ttm),29.80,TSLA,Income_Statement_Stats.csv
+Return on Assets (ttm),4.72%,TSLA,Management_Effect_Stats.csv
+Return on Equity (ttm),23.74%,TSLA,Management_Effect_Stats.csv
+Operating Margin (ttm),5.50%,TSLA,Profitability_Stats.csv
+Profit Margin,14.37%,TSLA,Profitability_Stats.csv
+% Held by Insiders 1,12.98%,TSLA,Share_Stats.csv
+% Held by Institutions 1,45.66%,TSLA,Share_Stats.csv
+Avg Vol (10 day) 3,125.46M,TSLA,Share_Stats.csv
+Avg Vol (3 month) 3,101.12M,TSLA,Share_Stats.csv
+Float 8,2.77B,TSLA,Share_Stats.csv
+Implied Shares Outstanding 6,3.19B,TSLA,Share_Stats.csv
+Shares Outstanding 5,3.19B,TSLA,Share_Stats.csv
+Shares Short (4/15/2024) 4,106.65M,TSLA,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,102.3M,TSLA,Share_Stats.csv
+Short % of Float (4/15/2024) 4,3.84%,TSLA,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,3.34%,TSLA,Share_Stats.csv
+Short Ratio (4/15/2024) 4,1.14,TSLA,Share_Stats.csv
+Book Value Per Share (mrq),27.94,UAL,Balance_Sheet_Stats.csv
+Current Ratio (mrq),0.75,UAL,Balance_Sheet_Stats.csv
+Total Cash (mrq),13.99B,UAL,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),42.55,UAL,Balance_Sheet_Stats.csv
+Total Debt (mrq),34.84B,UAL,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),379.23%,UAL,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),-1.35B,UAL,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),6.62B,UAL,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,--,UAL,Div_Split_Stats.csv
+Dividend Date 3,1/23/2008,UAL,Div_Split_Stats.csv
+Ex-Dividend Date 4,1/7/2008,UAL,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,--,UAL,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,--,UAL,Div_Split_Stats.csv
+Last Split Date 3,--,UAL,Div_Split_Stats.csv
+Last Split Factor 2,--,UAL,Div_Split_Stats.csv
+Payout Ratio 4,0.00%,UAL,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,0.00,UAL,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,0.00%,UAL,Div_Split_Stats.csv
+Diluted EPS (ttm),8.19,UAL,Income_Statement_Stats.csv
+EBITDA,7.98B,UAL,Income_Statement_Stats.csv
+Gross Profit (ttm),--,UAL,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),2.69B,UAL,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),--,UAL,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),9.70%,UAL,Income_Statement_Stats.csv
+Revenue (ttm),54.83B,UAL,Income_Statement_Stats.csv
+Revenue Per Share (ttm),167.14,UAL,Income_Statement_Stats.csv
+Return on Assets (ttm),4.77%,UAL,Management_Effect_Stats.csv
+Return on Equity (ttm),33.90%,UAL,Management_Effect_Stats.csv
+Operating Margin (ttm),1.11%,UAL,Profitability_Stats.csv
+Profit Margin,4.90%,UAL,Profitability_Stats.csv
+% Held by Insiders 1,0.48%,UAL,Share_Stats.csv
+% Held by Institutions 1,69.66%,UAL,Share_Stats.csv
+Avg Vol (10 day) 3,8.46M,UAL,Share_Stats.csv
+Avg Vol (3 month) 3,10.15M,UAL,Share_Stats.csv
+Float 8,326.63M,UAL,Share_Stats.csv
+Implied Shares Outstanding 6,329.06M,UAL,Share_Stats.csv
+Shares Outstanding 5,328.8M,UAL,Share_Stats.csv
+Shares Short (4/15/2024) 4,21.94M,UAL,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,17.84M,UAL,Share_Stats.csv
+Short % of Float (4/15/2024) 4,7.56%,UAL,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,6.67%,UAL,Share_Stats.csv
+Short Ratio (4/15/2024) 4,2.56,UAL,Share_Stats.csv
+Book Value Per Share (mrq),5.43,VFC,Balance_Sheet_Stats.csv
+Current Ratio (mrq),1.24,VFC,Balance_Sheet_Stats.csv
+Total Cash (mrq),989.74M,VFC,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),2.55,VFC,Balance_Sheet_Stats.csv
+Total Debt (mrq),7.34B,VFC,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),348.09%,VFC,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),1.01B,VFC,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),1.28B,VFC,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,4.36,VFC,Div_Split_Stats.csv
+Dividend Date 3,3/20/2024,VFC,Div_Split_Stats.csv
+Ex-Dividend Date 4,3/8/2024,VFC,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,0.36,VFC,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,2.82%,VFC,Div_Split_Stats.csv
+Last Split Date 3,5/23/2019,VFC,Div_Split_Stats.csv
+Last Split Factor 2,1062:1000,VFC,Div_Split_Stats.csv
+Payout Ratio 4,536.67%,VFC,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,0.99,VFC,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,7.75%,VFC,Div_Split_Stats.csv
+Diluted EPS (ttm),-1.97,VFC,Income_Statement_Stats.csv
+EBITDA,1.07B,VFC,Income_Statement_Stats.csv
+Gross Profit (ttm),--,VFC,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),-765.47M,VFC,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),--,VFC,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),-16.20%,VFC,Income_Statement_Stats.csv
+Revenue (ttm),10.82B,VFC,Income_Statement_Stats.csv
+Revenue Per Share (ttm),27.87,VFC,Income_Statement_Stats.csv
+Return on Assets (ttm),3.56%,VFC,Management_Effect_Stats.csv
+Return on Equity (ttm),-28.20%,VFC,Management_Effect_Stats.csv
+Operating Margin (ttm),9.32%,VFC,Profitability_Stats.csv
+Profit Margin,-7.07%,VFC,Profitability_Stats.csv
+% Held by Insiders 1,0.94%,VFC,Share_Stats.csv
+% Held by Institutions 1,87.14%,VFC,Share_Stats.csv
+Avg Vol (10 day) 3,5.97M,VFC,Share_Stats.csv
+Avg Vol (3 month) 3,9.36M,VFC,Share_Stats.csv
+Float 8,384.93M,VFC,Share_Stats.csv
+Implied Shares Outstanding 6,388.82M,VFC,Share_Stats.csv
+Shares Outstanding 5,388.82M,VFC,Share_Stats.csv
+Shares Short (4/15/2024) 4,37.21M,VFC,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,30.07M,VFC,Share_Stats.csv
+Short % of Float (4/15/2024) 4,10.77%,VFC,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,9.57%,VFC,Share_Stats.csv
+Short Ratio (4/15/2024) 4,3.01,VFC,Share_Stats.csv
+Book Value Per Share (mrq),14.01,WB,Balance_Sheet_Stats.csv
+Current Ratio (mrq),2.51,WB,Balance_Sheet_Stats.csv
+Total Cash (mrq),3.23B,WB,Balance_Sheet_Stats.csv
+Total Cash Per Share (mrq),13.26,WB,Balance_Sheet_Stats.csv
+Total Debt (mrq),2.71B,WB,Balance_Sheet_Stats.csv
+Total Debt/Equity (mrq),76.91%,WB,Balance_Sheet_Stats.csv
+Levered Free Cash Flow (ttm),236.89M,WB,Cash_Flow_Stats.csv
+Operating Cash Flow (ttm),672.82M,WB,Cash_Flow_Stats.csv
+5 Year Average Dividend Yield 4,--,WB,Div_Split_Stats.csv
+Dividend Date 3,5/13/2024,WB,Div_Split_Stats.csv
+Ex-Dividend Date 4,4/11/2024,WB,Div_Split_Stats.csv
+Forward Annual Dividend Rate 4,--,WB,Div_Split_Stats.csv
+Forward Annual Dividend Yield 4,--,WB,Div_Split_Stats.csv
+Last Split Date 3,--,WB,Div_Split_Stats.csv
+Last Split Factor 2,--,WB,Div_Split_Stats.csv
+Payout Ratio 4,0.00%,WB,Div_Split_Stats.csv
+Trailing Annual Dividend Rate 3,0.00,WB,Div_Split_Stats.csv
+Trailing Annual Dividend Yield 3,0.00%,WB,Div_Split_Stats.csv
+Diluted EPS (ttm),1.43,WB,Income_Statement_Stats.csv
+EBITDA,531.44M,WB,Income_Statement_Stats.csv
+Gross Profit (ttm),--,WB,Income_Statement_Stats.csv
+Net Income Avi to Common (ttm),342.6M,WB,Income_Statement_Stats.csv
+Quarterly Earnings Growth (yoy),-41.40%,WB,Income_Statement_Stats.csv
+Quarterly Revenue Growth (yoy),3.50%,WB,Income_Statement_Stats.csv
+Revenue (ttm),1.76B,WB,Income_Statement_Stats.csv
+Revenue Per Share (ttm),7.47,WB,Income_Statement_Stats.csv
+Return on Assets (ttm),4.10%,WB,Management_Effect_Stats.csv
+Return on Equity (ttm),10.35%,WB,Management_Effect_Stats.csv
+Operating Margin (ttm),25.67%,WB,Profitability_Stats.csv
+Profit Margin,19.47%,WB,Profitability_Stats.csv
+% Held by Insiders 1,6.14%,WB,Share_Stats.csv
+% Held by Institutions 1,43.03%,WB,Share_Stats.csv
+Avg Vol (10 day) 3,2M,WB,Share_Stats.csv
+Avg Vol (3 month) 3,2.36M,WB,Share_Stats.csv
+Float 8,84.24M,WB,Share_Stats.csv
+Implied Shares Outstanding 6,243.34M,WB,Share_Stats.csv
+Shares Outstanding 5,243.32M,WB,Share_Stats.csv
+Shares Short (4/15/2024) 4,10.74M,WB,Share_Stats.csv
+Shares Short (prior month 3/15/2024) 4,10.9M,WB,Share_Stats.csv
+Short % of Float (4/15/2024) 4,--,WB,Share_Stats.csv
+Short % of Shares Outstanding (4/15/2024) 4,4.41%,WB,Share_Stats.csv
+Short Ratio (4/15/2024) 4,3.82,WB,Share_Stats.csv

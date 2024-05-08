@@ -64,43 +64,49 @@ def produce_stock_data_set(stock_list: list) -> dict:
     yr_cash_flow = pd.DataFrame()
     qtr_cash_flow = pd.DataFrame()
     for stock in stock_list:
-        time.sleep(2)
+        # time.sleep(2)
         stats_data = get_stock_stats_data_raw(stock)
         
         
         valuation_df = stats_data[0]
         valuation_df["stock"] = stock
+        valuation_df = valuation_df.rename(columns={"Unnamed: 0":"metric"})
+        valuation_df = valuation_df.rename(columns={valuation_df.columns[2]:valuation_df.columns[2]\
+                                                .replace("As of Date:","")\
+                                                    .replace("Current","")})
         valuation = pd.concat([valuation_df,valuation])
         
-        stock_price_history_df = stats_data[1]
+   
+
+        stock_price_history_df = stats_data[8]
         stock_price_history_df["stock"] = stock
         stock_price_history = pd.concat([stock_price_history,stock_price_history_df])
         
-        share_stats_df = stats_data[2]
+        share_stats_df = stats_data[9]
         share_stats_df["stock"] = stock
         share_stats = pd.concat([share_stats,share_stats_df])
         
-        div_split_df = stats_data[3]
+        div_split_df = stats_data[10]
         div_split_df["stock"] = stock
         div_split = pd.concat([div_split,div_split_df])
         
-        profitability_df = stats_data[5]
+        profitability_df = stats_data[3]
         profitability_df["stock"] = stock
         profitability = pd.concat([profitability,profitability_df])
         
-        mngmt_effect_df = stats_data[6]
+        mngmt_effect_df = stats_data[4]
         mngmt_effect_df["stock"] = stock
         mngmt_effect = pd.concat([mngmt_effect,mngmt_effect_df])
         
-        income_stmnt_df = stats_data[7]
+        income_stmnt_df = stats_data[5]
         income_stmnt_df["stock"] = stock
         income_stmnt = pd.concat([income_stmnt,income_stmnt_df])
         
-        balance_sht_df = stats_data[8]
+        balance_sht_df = stats_data[6]
         balance_sht_df["stock"] = stock
         balance_sht = pd.concat([balance_sht,balance_sht_df])
         
-        cash_flow_df = stats_data[9]
+        cash_flow_df = stats_data[7]
         cash_flow_df["stock"] = stock
         cash_flow = pd.concat([cash_flow,cash_flow_df])
         
@@ -108,7 +114,7 @@ def produce_stock_data_set(stock_list: list) -> dict:
         financial_data = get_stock_financials_data_raw(stock)
 
         yr_income_df = financial_data[0]
-        yr_income_df['stock'] = stock
+        yr_income_df['stock'] = stock	
         yr_income_df = yr_income_df.reset_index().rename(columns={"index":"metric"})	
         yr_income_stmnt = pd.concat([yr_income_stmnt,yr_income_df])
 
@@ -139,7 +145,7 @@ def produce_stock_data_set(stock_list: list) -> dict:
 
     return {"Quarterly_Cash_Flow":qtr_cash_flow, "Yearly_Cash_Flow":yr_cash_flow, 
             "Quarterly_Balance_Sheet":qtr_balance_sheet, "Yearly_Balance_Sheet":yr_balance_sheet,
-            "Quarterly_Income_Statement":qtr_income_stmnt, "Yearly_Income_Statement":yr_income_stmnt, 
+            "Quarterly_Income_Statement":qtr_income_stmnt, "Yearly_Income_Statement":yr_income_stmnt,
             "Cash_FLow_Stats":cash_flow, "Balance_Sheet_Stats":balance_sht, 
             "Income_Statement_Stats":income_stmnt,"Management_Effect_Stats":mngmt_effect, 
             "Profitability_Stats":profitability, "Div_Split_Stats":div_split, 
@@ -159,13 +165,13 @@ def save_stock_data(stock_dict_list,directory_name):
     for name, data_df in stock_dict_list.items():
         dirname = os.path.dirname(__file__)
         fullpath = os.path.join(dirname,directory_name)
-        data_df.to_csv(f"{fullpath}/{name}.csv", index=False)
+        data_df.to_csv(f"{fullpath}/{name}.csv",index=False)
 
 if __name__ == "__main__":
 
     stock_dict_list = produce_stock_data_set(["PYPL","AAPL","F","DAL","PHM","PDD","GM","AAL",
-                                              "KBH","LUV","BATRA","DIS","COOP","BABA","DHI","CMCSA",
-                                              "UAL","CHGG","EDU","TCEHY","VFC","LI","MPNGY",
-                                              "WB","BZ","TSLA","AAPL"])
+                                            "LUV","BATRA","DIS","COOP","BABA","DHI","CMCSA",
+                                              "UAL","EDU","TCEHY","VFC","LI","MPNGY",
+                                              "WB","BZ","TSLA","AAPL","AMD","RCL","PFE"])
 
     save_stock_data(stock_dict_list=stock_dict_list,directory_name="RAW")
