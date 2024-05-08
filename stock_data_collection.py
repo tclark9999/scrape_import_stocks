@@ -2,6 +2,18 @@ import pandas as pd
 from datetime import datetime
 import yfinance as yf
 import requests
+from requests import Session
+# from requests_cache import CacheMixin, SQLiteCache
+# from requests_ratelimiter import LimiterMixin, MemoryQueueBucket
+# from pyrate_limiter import Duration, RequestRate, Limiter
+# class CachedLimiterSession(CacheMixin, LimiterMixin, Session):
+#     pass
+
+# _SESSION = CachedLimiterSession(
+#     limiter=Limiter(RequestRate(2, Duration.SECOND*5)),  # max 2 requests per 5 seconds
+#     bucket_class=MemoryQueueBucket,
+#     backend=SQLiteCache("yfinance.cache"),
+# )
 
 def get_stock_stats_data_raw(stock: str) -> list[pd.DataFrame]:
     """
@@ -18,7 +30,7 @@ def get_stock_stats_data_raw(stock: str) -> list[pd.DataFrame]:
     read_html_pandas_data = pd.read_html(r.text)
     return read_html_pandas_data
 
-def get_stock_financials_data_raw(stock: str):
+def get_stock_financials_data_raw(stock_list: str):
     """
     Retrieves raw financial data for a given stock symbol using Yahoo Finance API.
     
@@ -28,53 +40,66 @@ def get_stock_financials_data_raw(stock: str):
     Returns:
         list: List of financial data DataFrames (income statement, balance sheet, cash flow, etc.).
     """
-    curr_stock = yf.Ticker(stock)
+    stock_string = " ".join(stock_list)
+    tickers = yf.Tickers(stock_string)
     
-    return curr_stock.income_stmt,curr_stock.quarterly_income_stmt, curr_stock.balance_sheet, curr_stock.quarterly_balance_sheet, curr_stock.cash_flow, curr_stock.quarterly_cash_flow
+    return tickers.tickers
 
 
 
 class StockDataCollection:
+    collection_name: str
     stocks: list
-    valuation: pd.DataFrame
-    stock_price_history: pd.DataFrame
-    share_stats: pd.DataFrame
-    div_split: pd.DataFrame
-    profitability: pd.DataFrame
-    mngmt_effect: pd.DataFrame
-    income_stmnt: pd.DataFrame
-    balance_sht: pd.DataFrame
-    cash_flow: pd.DataFrame
-    yr_income_stmnt: pd.DataFrame
-    qtr_income_stmnt: pd.DataFrame
-    yr_balance_sheet: pd.DataFrame
-    qtr_balance_sheet: pd.DataFrame
-    yr_cash_flow: pd.DataFrame
-    qtr_cash_flow: pd.DataFrame
-    all_stats_df: pd.DataFrame
-    date_metrics_df: pd.DataFrame
+    valuation: pd.DataFrame = pd.DataFrame()
+    stock_price_history: pd.DataFrame = pd.DataFrame()
+    share_stats: pd.DataFrame = pd.DataFrame()
+    div_split: pd.DataFrame = pd.DataFrame()
+    profitability: pd.DataFrame = pd.DataFrame()
+    mngmt_effect: pd.DataFrame = pd.DataFrame()
+    income_stmnt: pd.DataFrame = pd.DataFrame()
+    balance_sht: pd.DataFrame = pd.DataFrame()
+    cash_flow: pd.DataFrame = pd.DataFrame()
+    yr_income_stmnt: pd.DataFrame = pd.DataFrame()
+    qtr_income_stmnt: pd.DataFrame = pd.DataFrame()
+    yr_balance_sheet: pd.DataFrame = pd.DataFrame()
+    qtr_balance_sheet: pd.DataFrame = pd.DataFrame()
+    yr_cash_flow: pd.DataFrame = pd.DataFrame()
+    qtr_cash_flow: pd.DataFrame = pd.DataFrame()
+    all_stats_df: pd.DataFrame = pd.DataFrame()
+    date_metrics_df: pd.DataFrame = pd.DataFrame()
     default_file_mapping: dict
 
-    def __init__(self,stock_list):
+    def __init__(self,stock_list, collectionName):
         self.stocks = stock_list
+        self.collection_name = collectionName
 
         self.default_file_mapping = {
-            "valuation": "RAW/Valuation_Stats.csv",
-            "stock_price_history": "RAW/Stock_History_Stats.csv",
-            "share_stats": "RAW/Share_Stats.csv",
-            "div_split": "RAW/Div_Split_Stats.csv",
-            "profitability": "RAW/Profitability_Stats.csv",
-            "mngmt_effect": "RAW/Management_Effect_Stats.csv",
-            "income_stmnt": "RAW/Income_Statement_Stats.csv",
-            "balance_sht": "RAW/Balance_Sheet_Stats.csv",
-            "cash_flow": "RAW/Cash_Flow_Stats.csv",
-            "yr_income_stmnt": "RAW/Yearly_Income_Statement.csv",
-            "qtr_income_stmnt": "RAW/Quarterly_Income_Statement.csv",
-            "yr_balance_sheet": "RAW/Yearly_Balance_Sheet.csv",
-            "qtr_balance_sheet": "RAW/Quarterly_Balance_Sheet.csv",
-            "yr_cash_flow": "RAW/Yearly_Cash_Flow.csv",
-            "qtr_cash_flow": "RAW/Quarterly_Cash_Flow.csv"
+            "valuation": f"{collectionName}/RAW/Valuation_Stats.csv",
+            "stock_price_history": f"{collectionName}/RAW/Stock_History_Stats.csv",
+            "share_stats": f"{collectionName}/RAW/Share_Stats.csv",
+            "div_split": f"{collectionName}/RAW/Div_Split_Stats.csv",
+            "profitability": f"{collectionName}/RAW/Profitability_Stats.csv",
+            "mngmt_effect": f"{collectionName}/RAW/Management_Effect_Stats.csv",
+            "income_stmnt": f"{collectionName}/RAW/Income_Statement_Stats.csv",
+            "balance_sht": f"{collectionName}/RAW/Balance_Sheet_Stats.csv",
+            "cash_flow": f"{collectionName}/RAW/Cash_Flow_Stats.csv",
+            "yr_income_stmnt": f"{collectionName}/RAW/Yearly_Income_Statement.csv",
+            "qtr_income_stmnt": f"{collectionName}/RAW/Quarterly_Income_Statement.csv",
+            "yr_balance_sheet": f"{collectionName}/RAW/Yearly_Balance_Sheet.csv",
+            "qtr_balance_sheet": f"{collectionName}/RAW/Quarterly_Balance_Sheet.csv",
+            "yr_cash_flow": f"{collectionName}/RAW/Yearly_Cash_Flow.csv",
+            "qtr_cash_flow": f"{collectionName}/RAW/Quarterly_Cash_Flow.csv"
         }
+
+    @classmethod
+    def from_yahoo_screener(cls,collectionName,screener_url,n: int = None):
+        if n:
+            screener_url = screener_url + f"/?count={n}&offset=0"
+        r = requests.get(screener_url,headers ={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'})
+        screener_df = pd.read_html(r.text)
+        screener_list = screener_df[0]["Symbol"].tolist()
+        return cls(screener_list,collectionName)
+
 
     def load_data_from_files(self,file_mapping: dict = None):
         if not file_mapping:
@@ -109,41 +134,41 @@ class StockDataCollection:
             self.yr_cash_flow = pd.read_csv(file_mapping["yr_cash_flow"])
         if "qtr_cash_flow" in file_mapping:
             self.qtr_cash_flow = pd.read_csv(file_mapping["qtr_cash_flow"])
-        return
+
 
     def save_data_to_files(self,file_mapping: dict = None):
         if not file_mapping:
             file_mapping = self.default_file_mapping
         if "valuation" in file_mapping:
-            self.valuation.to_csv(file_mapping["valuation"])
+            self.valuation.to_csv(file_mapping["valuation"],index=False)
         if "stock_price_history" in file_mapping:
-            self.stock_price_history.to_csv(file_mapping["stock_price_history"])
+            self.stock_price_history.to_csv(file_mapping["stock_price_history"],index=False)
         if "share_stats" in file_mapping:
-            self.share_stats.to_csv(file_mapping["share_stats"])
+            self.share_stats.to_csv(file_mapping["share_stats"],index=False)
         if "div_split" in file_mapping:
-            self.div_split.to_csv(file_mapping["div_split"])
+            self.div_split.to_csv(file_mapping["div_split"],index=False)
         if "profitability" in file_mapping:
-            self.profitability.to_csv(file_mapping["profitability"])
+            self.profitability.to_csv(file_mapping["profitability"],index=False)
         if "mngmt_effect" in file_mapping:
-            self.mngmt_effect.to_csv(file_mapping["mngmt_effect"])
+            self.mngmt_effect.to_csv(file_mapping["mngmt_effect"],index=False)
         if "income_stmnt" in file_mapping:
-            self.income_stmnt.to_csv(file_mapping["income_stmnt"])
+            self.income_stmnt.to_csv(file_mapping["income_stmnt"],index=False)
         if "balance_sht" in file_mapping:
-            self.balance_sht.to_csv(file_mapping["balance_sht"])
+            self.balance_sht.to_csv(file_mapping["balance_sht"],index=False)
         if "cash_flow" in file_mapping:
-            self.cash_flow.to_csv(file_mapping["cash_flow"])
+            self.cash_flow.to_csv(file_mapping["cash_flow"],index=False)
         if "yr_income_stmnt" in file_mapping:
-            self.yr_income_stmnt.to_csv(file_mapping["yr_income_stmnt"])
+            self.yr_income_stmnt.to_csv(file_mapping["yr_income_stmnt"],index=False)
         if "qtr_income_stmnt" in file_mapping:
-            self.qtr_income_stmnt.to_csv(file_mapping["qtr_income_stmnt"])
+            self.qtr_income_stmnt.to_csv(file_mapping["qtr_income_stmnt"],index=False)
         if "yr_balance_sheet" in file_mapping:
-            self.yr_balance_sheet.to_csv(file_mapping["yr_balance_sheet"])
+            self.yr_balance_sheet.to_csv(file_mapping["yr_balance_sheet"],index=False)
         if "qtr_balance_sheet" in file_mapping:
-            self.qtr_balance_sheet.to_csv(file_mapping["qtr_balance_sheet"])
+            self.qtr_balance_sheet.to_csv(file_mapping["qtr_balance_sheet"],index=False)
         if "yr_cash_flow" in file_mapping:
-            self.yr_cash_flow.to_csv(file_mapping["yr_cash_flow"])
+            self.yr_cash_flow.to_csv(file_mapping["yr_cash_flow"],index=False)
         if "qtr_cash_flow" in file_mapping:
-            self.qtr_cash_flow.to_csv(file_mapping["qtr_cash_flow"])
+            self.qtr_cash_flow.to_csv(file_mapping["qtr_cash_flow"],index=False)
         return
 
 
@@ -195,35 +220,36 @@ class StockDataCollection:
         return
     
     def scrape_financials_data(self):
-        for stock in self.stocks:
+        tickers = get_stock_financials_data_raw(self.stocks)
+        for stock, ticker in tickers.items():
             financial_data = get_stock_financials_data_raw(stock)
 
-            yr_income_df = financial_data[0]
+            yr_income_df = ticker.income_stmt
             yr_income_df['stock'] = stock	
             yr_income_df = yr_income_df.reset_index().rename(columns={"index":"metric"})	
             self.yr_income_stmnt = pd.concat([self.yr_income_stmnt,yr_income_df])
 
-            qtr_income_df = financial_data[1]
+            qtr_income_df = ticker.quarterly_income_stmt
             qtr_income_df['stock'] = stock
             qtr_income_df = qtr_income_df.reset_index().rename(columns={"index":"metric"})	
             self.qtr_income_stmnt = pd.concat([self.qtr_income_stmnt,qtr_income_df])
 
-            yr_balance_df = financial_data[2]
+            yr_balance_df = ticker.balance_sheet
             yr_balance_df['stock'] = stock
             yr_balance_df = yr_balance_df.reset_index().rename(columns={"index":"metric"})	
             self.yr_balance_sheet = pd.concat([self.yr_balance_sheet,yr_balance_df])
 
-            qtr_balance_df = financial_data[3]
+            qtr_balance_df = ticker.quarterly_balance_sheet
             qtr_balance_df['stock'] = stock
             qtr_balance_df = qtr_balance_df.reset_index().rename(columns={"index":"metric"})	
             self.qtr_balance_sheet = pd.concat([self.qtr_balance_sheet,qtr_balance_df])
 
-            yr_cash_flow_df = financial_data[4]
+            yr_cash_flow_df = ticker.cash_flow
             yr_cash_flow_df['stock'] = stock
             yr_cash_flow_df = yr_cash_flow_df.reset_index().rename(columns={"index":"metric"})	
             self.yr_cash_flow = pd.concat([self.yr_cash_flow,yr_cash_flow_df])
 
-            qtr_cash_flow_df = financial_data[5]
+            qtr_cash_flow_df = ticker.quarterly_cash_flow
             qtr_cash_flow_df['stock'] = stock
             qtr_cash_flow_df = qtr_cash_flow_df.reset_index().rename(columns={"index":"metric"})	
             self.qtr_cash_flow = pd.concat([self.qtr_cash_flow,qtr_cash_flow_df])
@@ -248,7 +274,7 @@ class StockDataCollection:
             stats_df['file']= key
             high_level_stats_df = pd.concat([high_level_stats_df,stats_df])
         high_level_stats_df = high_level_stats_df.sort_values(by=['stock','file','metric_name'])
-        self.all_stats_df = high_level_stats_df
+        self.all_stats_df = high_level_stats_df.reset_index(drop=True).drop_duplicates()
         return 
     
     def melt_merge_date_pivots(self, include_only_list: list = None):
@@ -264,7 +290,7 @@ class StockDataCollection:
         if include_only_list:
             final_dates_dict = {k:v for k,v in dates_dict.items() if k in include_only_list}
         else:
-            final_stats_dict = dates_dict
+            final_dates_dict = dates_dict
 
         for key, dates_df in final_dates_dict.items():
             if key == 'valuation':
@@ -291,5 +317,5 @@ class StockDataCollection:
         metrics_with_dates_df['dates_dense_rank'] = metrics_with_dates_df.groupby(['stock','file'])\
                                                                 ['date'].rank('dense',ascending=False)
 
-        self.date_metrics_df =  metrics_with_dates_df.drop_duplicates()     
+        self.date_metrics_df =  metrics_with_dates_df.reset_index(drop=True).drop_duplicates()     
         return 

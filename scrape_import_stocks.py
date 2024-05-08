@@ -169,9 +169,13 @@ def save_stock_data(stock_dict_list,directory_name):
 
 if __name__ == "__main__":
 
-    stock_dict_list = produce_stock_data_set(["PYPL","AAPL","F","DAL","PHM","PDD","GM","AAL",
-                                            "LUV","BATRA","DIS","COOP","BABA","DHI","CMCSA",
-                                              "UAL","EDU","TCEHY","VFC","LI","MPNGY",
-                                              "WB","BZ","TSLA","AAPL","AMD","RCL","PFE"])
+    # stock_dict_list = produce_stock_data_set(["PYPL","AAPL","F","DAL","PHM","PDD","GM","AAL",
+    #                                         "LUV","BATRA","DIS","COOP","BABA","DHI","CMCSA",
+    #                                           "UAL","EDU","TCEHY","VFC","LI","MPNGY",
+    #                                           "WB","BZ","TSLA","AAPL","AMD","RCL","PFE"])
 
-    save_stock_data(stock_dict_list=stock_dict_list,directory_name="RAW")
+    # save_stock_data(stock_dict_list=stock_dict_list,directory_name="RAW")
+    screener_url = "https://finance.yahoo.com/screener/predefined/undervalued_growth_stocks/"
+    r = requests.get(screener_url,headers ={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'})
+    screener_df = pd.read_html(r.text)
+    print(screener_df[0]["Symbol"].tolist())
