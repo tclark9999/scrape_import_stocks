@@ -4,6 +4,9 @@ import numpy as np
 from datetime import datetime
 import streamlit as st
 
+pd.set_option('display.max_columns', None)
+pd.set_option('display.max_rows', None)
+
 USE_CACHE = 1
 
 def peg_color_format(value):
@@ -58,9 +61,9 @@ def create_trend_cols(df: pd.DataFrame,col_prefix_list):
         
 
 def create_relative_metric_field(metric_name,metric_file,date_rank)->str:
-    if metric_file.startswith("Quarterly"):
+    if metric_file.startswith("Quarterly") or metric_file.startswith("qtr_"):
         metric_type = ' qtr '
-    elif metric_file.startswith("Yearly"):
+    elif metric_file.startswith("Yearly") or metric_file.startswith("yr_"):
         metric_type = ' yr ' 
     else:
         metric_type = ' qtr '
@@ -84,9 +87,14 @@ def get_summary_data_frame(current_stats_df: pd.DataFrame, date_metrics_df: pd.D
     date_metrics_fltr_df['most_recent_date_qtr'] = date_metrics_fltr_df[date_metrics_fltr_df["file"].str.contains("Quarterly")].groupby(['metric','stock'])['date'].transform('max')
     date_metrics_fltr_df['most_recent_date_yr'] = date_metrics_fltr_df[date_metrics_fltr_df["file"].str.contains("Yearly")].groupby(['metric','stock'])['date'].transform('max')
 
+    date_metrics_fltr_df['most_recent_date_qtr'] = date_metrics_fltr_df[date_metrics_fltr_df["file"].str.contains("qtr_")].groupby(['metric','stock'])['date'].transform('max')
+    date_metrics_fltr_df['most_recent_date_yr'] = date_metrics_fltr_df[date_metrics_fltr_df["file"].str.contains("yr_")].groupby(['metric','stock'])['date'].transform('max')
+
     date_metrics_fltr_df['most_recent_date_qtr'] = date_metrics_fltr_df.fillna('1900-01-01').groupby(['stock'])['most_recent_date_qtr'].transform('max')
     date_metrics_fltr_df['most_recent_date_yr'] = date_metrics_fltr_df.fillna('1900-01-01').groupby(['stock'])['most_recent_date_yr'].transform('max')
 
+    print(date_metrics_fltr_df[date_metrics_fltr_df['stock']=="AAL"])
+    
     date_metrics_pivot_df = date_metrics_fltr_df.pivot(index=['stock','most_recent_date_qtr','most_recent_date_yr'],columns=['relative_metric'],values=['metric_value'])
     curr_metrics_pivot_df = current_stats_fltr_df.pivot(index=['stock'],columns=['metric_name'],values=['metric_value'])
 
