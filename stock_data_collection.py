@@ -3,6 +3,7 @@ from datetime import datetime
 import yfinance as yf
 import requests
 from requests import Session
+import os
 # from requests_cache import CacheMixin, SQLiteCache
 # from requests_ratelimiter import LimiterMixin, MemoryQueueBucket
 # from pyrate_limiter import Duration, RequestRate, Limiter
@@ -136,39 +137,46 @@ class StockDataCollection:
             self.qtr_cash_flow = pd.read_csv(file_mapping["qtr_cash_flow"])
 
 
-    def save_data_to_files(self,file_mapping: dict = None):
+    def save_data_to_files(self, file_mapping: dict = None):
         if not file_mapping:
             file_mapping = self.default_file_mapping
-        if "valuation" in file_mapping:
-            self.valuation.to_csv(file_mapping["valuation"],index=False)
-        if "stock_price_history" in file_mapping:
-            self.stock_price_history.to_csv(file_mapping["stock_price_history"],index=False)
-        if "share_stats" in file_mapping:
-            self.share_stats.to_csv(file_mapping["share_stats"],index=False)
-        if "div_split" in file_mapping:
-            self.div_split.to_csv(file_mapping["div_split"],index=False)
-        if "profitability" in file_mapping:
-            self.profitability.to_csv(file_mapping["profitability"],index=False)
-        if "mngmt_effect" in file_mapping:
-            self.mngmt_effect.to_csv(file_mapping["mngmt_effect"],index=False)
-        if "income_stmnt" in file_mapping:
-            self.income_stmnt.to_csv(file_mapping["income_stmnt"],index=False)
-        if "balance_sht" in file_mapping:
-            self.balance_sht.to_csv(file_mapping["balance_sht"],index=False)
-        if "cash_flow" in file_mapping:
-            self.cash_flow.to_csv(file_mapping["cash_flow"],index=False)
-        if "yr_income_stmnt" in file_mapping:
-            self.yr_income_stmnt.to_csv(file_mapping["yr_income_stmnt"],index=False)
-        if "qtr_income_stmnt" in file_mapping:
-            self.qtr_income_stmnt.to_csv(file_mapping["qtr_income_stmnt"],index=False)
-        if "yr_balance_sheet" in file_mapping:
-            self.yr_balance_sheet.to_csv(file_mapping["yr_balance_sheet"],index=False)
-        if "qtr_balance_sheet" in file_mapping:
-            self.qtr_balance_sheet.to_csv(file_mapping["qtr_balance_sheet"],index=False)
-        if "yr_cash_flow" in file_mapping:
-            self.yr_cash_flow.to_csv(file_mapping["yr_cash_flow"],index=False)
-        if "qtr_cash_flow" in file_mapping:
-            self.qtr_cash_flow.to_csv(file_mapping["qtr_cash_flow"],index=False)
+
+        for key, value in file_mapping.items():
+            directory = os.path.dirname(value)
+            if not os.path.exists(directory):
+                os.makedirs(directory)
+
+            if key == "valuation":
+                self.valuation.to_csv(value, index=False)
+            elif key == "stock_price_history":
+                self.stock_price_history.to_csv(value, index=False)
+            elif key == "share_stats":
+                self.share_stats.to_csv(value, index=False)
+            elif key == "div_split":
+                self.div_split.to_csv(value, index=False)
+            elif key == "profitability":
+                self.profitability.to_csv(value, index=False)
+            elif key == "mngmt_effect":
+                self.mngmt_effect.to_csv(value, index=False)
+            elif key == "income_stmnt":
+                self.income_stmnt.to_csv(value, index=False)
+            elif key == "balance_sht":
+                self.balance_sht.to_csv(value, index=False)
+            elif key == "cash_flow":
+                self.cash_flow.to_csv(value, index=False)
+            elif key == "yr_income_stmnt":
+                self.yr_income_stmnt.to_csv(value, index=False)
+            elif key == "qtr_income_stmnt":
+                self.qtr_income_stmnt.to_csv(value, index=False)
+            elif key == "yr_balance_sheet":
+                self.yr_balance_sheet.to_csv(value, index=False)
+            elif key == "qtr_balance_sheet":
+                self.qtr_balance_sheet.to_csv(value, index=False)
+            elif key == "yr_cash_flow":
+                self.yr_cash_flow.to_csv(value, index=False)
+            elif key == "qtr_cash_flow":
+                self.qtr_cash_flow.to_csv(value, index=False)
+
         return
 
 
