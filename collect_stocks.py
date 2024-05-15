@@ -52,8 +52,8 @@ def curr_ratio_color_format(value):
 def create_trend_cols(df: pd.DataFrame,col_prefix_list):
     for prefix in col_prefix_list:
         cols_list = [prefix + " 1", prefix + " 2", prefix + " 3", prefix + " 4"]
-        df[prefix] = df.apply(lambda row:[row[cols_list[0]],row[cols_list[1]],
-                                                    row[cols_list[2]],row[cols_list[3]]], axis=1)
+        df[prefix] = df.apply(lambda row:list(filter(None,[row[cols_list[3]],row[cols_list[2]],
+                                                    row[cols_list[1]],row[cols_list[0]]])), axis=1)
         
         df.drop([col for col in cols_list],axis=1,inplace=True)
 
@@ -142,7 +142,7 @@ if __name__ == "__main__":
                     "Forward P/E qtr 1","Book Value Per Share (mrq)","Current Ratio (mrq)",
                     "Forward Annual Dividend Yield 4", "Payout Ratio 4", "Profit Margin",	
                     "Return on Equity (ttm)", "most_recent_date_qtr", "most_recent_date_yr",
-                    "Cost Of Revenue yr", "Cost Of Revenue qtr", "Total Revenue qtr", "Total Revenue yr",
+                    "Total Revenue yr", "Total Revenue qtr", "Cost Of Revenue yr", "Cost Of Revenue qtr", 
                           "Net Income yr", "Net Income qtr"]
     
     metrics_df = metrics_df[cols_to_keep]
@@ -153,5 +153,37 @@ if __name__ == "__main__":
         .applymap(curr_ratio_color_format,subset=["Current Ratio (mrq)"])\
         .applymap(profit_margin_color_format,subset=["Profit Margin"])\
         .background_gradient(cmap="coolwarm",high=.75,low=.75,subset=["Trailing P/E qtr 1",
-                    "Forward P/E qtr 1"]),use_container_width=True)
+                    "Forward P/E qtr 1"]),use_container_width=True,
+                    column_config={
+                        "Cost Of Revenue yr":
+                            st.column_config.LineChartColumn(
+                                "Cost of Revenue (Last 4 Years)",
+                                width="medium"
+                            ),
+                        "Cost Of Revenue qtr":
+                            st.column_config.LineChartColumn(
+                                "Cost of Revenue (Last 4 Qtrs)",
+                                width="medium"
+                            ),
+                        "Total Revenue yr":
+                            st.column_config.LineChartColumn(
+                                "Total Revenue (Last 4 Years)",
+                                width="medium"
+                            ),
+                        "Total Revenue qtr":
+                            st.column_config.LineChartColumn(
+                                "Total Revenue (Last 4 Qtrs)",
+                                width="medium"
+                            ),
+                        "Net Income yr":
+                            st.column_config.LineChartColumn(
+                                "Net Income (Last 4 Years)",
+                                width="medium"
+                            ),
+                        "Net Income qtr":
+                            st.column_config.LineChartColumn(
+                                "Net Income (Last 4 Qtrs)",
+                                width="medium"
+                            )
+                    })
 
