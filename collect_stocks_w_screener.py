@@ -8,7 +8,7 @@ USE_CACHE = 0
 
 screenerCollection = StockDataCollection.from_yahoo_screener("YAHOO_SCREENER","https://finance.yahoo.com/screener/predefined/undervalued_growth_stocks",n=50)
 
-if USE_CACHE == 0:
+if USE_CACHE == 1:
     screenerCollection.scrape_stock_stats_data()
     screenerCollection.scrape_financials_data()
     screenerCollection.save_data_to_files()
